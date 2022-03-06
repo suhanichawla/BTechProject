@@ -1,0 +1,8 @@
+{
+    "max_cohashtags": 4,
+    "max_comentions": 7,
+    "max_courls": 1,
+    "min_cohashtags": 0,
+    "min_comentions": 0,
+    "min_courls": 0
+}

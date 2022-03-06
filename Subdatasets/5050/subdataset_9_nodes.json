@@ -1,0 +1,4064 @@
+{
+    "972987270927011840": {
+        "hashtags": [
+            "adelaide",
+            "savotes"
+        ],
+        "idx": 0,
+        "label": false,
+        "mentions": [
+            "abc",
+            "nickharmsen"
+        ],
+        "urls": [],
+        "user": "39482414"
+    },
+    "972987305538367488": {
+        "hashtags": [],
+        "idx": 1,
+        "label": true,
+        "mentions": [
+            "alanmurrellten",
+            "tennewsadel",
+            "jayweatherill",
+            "smullighan"
+        ],
+        "urls": [
+            "https://t.co/bljbosietl"
+        ],
+        "user": "51929713"
+    },
+    "972988015218839552": {
+        "hashtags": [],
+        "idx": 2,
+        "label": true,
+        "mentions": [
+            "macdonald_julie",
+            "alpsa",
+            "jayweatherill"
+        ],
+        "urls": [],
+        "user": "706076432"
+    },
+    "972988653562507264": {
+        "hashtags": [],
+        "idx": 3,
+        "label": true,
+        "mentions": [],
+        "urls": [
+            "https://t.co/jdtsgjcbj6"
+        ],
+        "user": "51929713"
+    },
+    "972989168690151424": {
+        "hashtags": [],
+        "idx": 4,
+        "label": false,
+        "mentions": [
+            "jayweatherill"
+        ],
+        "urls": [],
+        "user": "846976611350167555"
+    },
+    "972991119469391872": {
+        "hashtags": [],
+        "idx": 5,
+        "label": false,
+        "mentions": [
+            "alpsa"
+        ],
+        "urls": [],
+        "user": "245624198"
+    },
+    "972991843423068160": {
+        "hashtags": [
+            "fiveaanews",
+            "savotes2018"
+        ],
+        "idx": 6,
+        "label": false,
+        "mentions": [
+            "matthewpantelis"
+        ],
+        "urls": [],
+        "user": "35992483"
+    },
+    "972992073379934208": {
+        "hashtags": [],
+        "idx": 7,
+        "label": true,
+        "mentions": [
+            "abcmediawatch",
+            "abcadelaide",
+            "captain_oz707",
+            "nick_xenophon"
+        ],
+        "urls": [],
+        "user": "96921828"
+    },
+    "972992719646683137": {
+        "hashtags": [],
+        "idx": 8,
+        "label": false,
+        "mentions": [
+            "tkoutsantonismp",
+            "turnbullmalcolm"
+        ],
+        "urls": [],
+        "user": "433060763"
+    },
+    "972993629651267584": {
+        "hashtags": [],
+        "idx": 9,
+        "label": true,
+        "mentions": [
+            "bf99floyd"
+        ],
+        "urls": [],
+        "user": "3294776412"
+    },
+    "972993672164777985": {
+        "hashtags": [],
+        "idx": 10,
+        "label": false,
+        "mentions": [
+            "jayweatherill",
+            "rorymcclaren9"
+        ],
+        "urls": [],
+        "user": "432064754"
+    },
+    "972994888315781120": {
+        "hashtags": [],
+        "idx": 11,
+        "label": true,
+        "mentions": [
+            "nick_xenophon",
+            "tammymlc"
+        ],
+        "urls": [],
+        "user": "1227186560"
+    },
+    "972995196391636993": {
+        "hashtags": [],
+        "idx": 12,
+        "label": true,
+        "mentions": [
+            "sa_election",
+            "alpsa",
+            "pmchabrel"
+        ],
+        "urls": [],
+        "user": "1227186560"
+    },
+    "972996270376738816": {
+        "hashtags": [],
+        "idx": 13,
+        "label": false,
+        "mentions": [
+            "tafeeducation",
+            "cheryl_kernot"
+        ],
+        "urls": [
+            "https://t.co/1z0qsef6p7"
+        ],
+        "user": "403302455"
+    },
+    "972997526503608321": {
+        "hashtags": [],
+        "idx": 14,
+        "label": true,
+        "mentions": [],
+        "urls": [],
+        "user": "970943839"
+    },
+    "972998690968227840": {
+        "hashtags": [],
+        "idx": 15,
+        "label": false,
+        "mentions": [
+            "liberalaus",
+            "1hendorable1",
+            "greensmps",
+            "jayweatherill",
+            "chrisegginton",
+            "australianlabor"
+        ],
+        "urls": [
+            "https://t.co/yuc1pspcu4"
+        ],
+        "user": "1237534352"
+    },
+    "973000564932935682": {
+        "hashtags": [],
+        "idx": 16,
+        "label": true,
+        "mentions": [
+            "nick_xenophon",
+            "slatterysabest"
+        ],
+        "urls": [
+            "https://t.co/5zzc5t4vxc"
+        ],
+        "user": "96921828"
+    },
+    "973000997449515008": {
+        "hashtags": [
+            "9newscomau",
+            "saparli"
+        ],
+        "idx": 17,
+        "label": false,
+        "mentions": [
+            "jayweatherill",
+            "rorymcclaren9"
+        ],
+        "urls": [],
+        "user": "2371926008"
+    },
+    "973001212374130688": {
+        "hashtags": [],
+        "idx": 18,
+        "label": true,
+        "mentions": [
+            "abcmediawatch",
+            "abcadelaide",
+            "captain_oz707",
+            "nick_xenophon"
+        ],
+        "urls": [],
+        "user": "96921828"
+    },
+    "973001858770903040": {
+        "hashtags": [],
+        "idx": 19,
+        "label": false,
+        "mentions": [
+            "fn1bruva",
+            "simba_83",
+            "yvesthevenot",
+            "abetterway4sa",
+            "auconservatives",
+            "gip1972",
+            "_cropes_",
+            "vlverdi71",
+            "hckgyanganj"
+        ],
+        "urls": [
+            "https://t.co/n3t8rng4fu"
+        ],
+        "user": "966599226779090944"
+    },
+    "973002674613379072": {
+        "hashtags": [],
+        "idx": 20,
+        "label": true,
+        "mentions": [
+            "skynewsaust",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "93818188"
+    },
+    "973002879643435008": {
+        "hashtags": [],
+        "idx": 21,
+        "label": true,
+        "mentions": [
+            "skynewsaust",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "93818188"
+    },
+    "973003015656386565": {
+        "hashtags": [],
+        "idx": 22,
+        "label": true,
+        "mentions": [
+            "davidpisonimp"
+        ],
+        "urls": [],
+        "user": "93818188"
+    },
+    "973003065308540928": {
+        "hashtags": [],
+        "idx": 23,
+        "label": true,
+        "mentions": [
+            "davidpisonimp",
+            "alanmurrellten",
+            "jayweatherill",
+            "smullighan",
+            "tennewsadel"
+        ],
+        "urls": [],
+        "user": "93818188"
+    },
+    "973003541185900545": {
+        "hashtags": [
+            "savotes2018"
+        ],
+        "idx": 24,
+        "label": false,
+        "mentions": [
+            "skynewsaust",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "525006087"
+    },
+    "973004154892251136": {
+        "hashtags": [],
+        "idx": 25,
+        "label": true,
+        "mentions": [
+            "skynewsaust",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "1227186560"
+    },
+    "973005287056580608": {
+        "hashtags": [],
+        "idx": 26,
+        "label": false,
+        "mentions": [
+            "alpsa"
+        ],
+        "urls": [],
+        "user": "858876636"
+    },
+    "973005511086911488": {
+        "hashtags": [],
+        "idx": 27,
+        "label": false,
+        "mentions": [
+            "alpsa"
+        ],
+        "urls": [],
+        "user": "43069580"
+    },
+    "973006081407434753": {
+        "hashtags": [],
+        "idx": 28,
+        "label": true,
+        "mentions": [
+            "sarahinthesen8"
+        ],
+        "urls": [],
+        "user": "42519805"
+    },
+    "973006962500628481": {
+        "hashtags": [
+            "adelaide",
+            "southaustralia",
+            "savotes2018",
+            "saparli"
+        ],
+        "idx": 29,
+        "label": true,
+        "mentions": [],
+        "urls": [
+            "https://t.co/nxdc26rxuq"
+        ],
+        "user": "922981570335481856"
+    },
+    "973007033061421056": {
+        "hashtags": [],
+        "idx": 30,
+        "label": false,
+        "mentions": [
+            "davidpisonimp"
+        ],
+        "urls": [],
+        "user": "1113300182"
+    },
+    "973008306443665409": {
+        "hashtags": [
+            "savotes2018",
+            "auspol",
+            "saparli"
+        ],
+        "idx": 31,
+        "label": false,
+        "mentions": [],
+        "urls": [
+            "https://t.co/mlkqn5k9qu"
+        ],
+        "user": "1237534352"
+    },
+    "973010975598116864": {
+        "hashtags": [],
+        "idx": 32,
+        "label": false,
+        "mentions": [],
+        "urls": [
+            "https://t.co/fbb9wxcjeo"
+        ],
+        "user": "269581619"
+    },
+    "973012656566054912": {
+        "hashtags": [
+            "savotes"
+        ],
+        "idx": 33,
+        "label": false,
+        "mentions": [
+            "michellegrattan",
+            "verbaliza",
+            "conversationedu"
+        ],
+        "urls": [],
+        "user": "702309206"
+    },
+    "973012679689252864": {
+        "hashtags": [],
+        "idx": 34,
+        "label": false,
+        "mentions": [
+            "rbs20981",
+            "susan_close",
+            "alpsa",
+            "jayweatherill"
+        ],
+        "urls": [
+            "https://t.co/uofi9bocsf"
+        ],
+        "user": "993696841"
+    },
+    "973013931391266821": {
+        "hashtags": [
+            "walkerville",
+            "letterboxing",
+            "locals"
+        ],
+        "idx": 35,
+        "label": true,
+        "mentions": [],
+        "urls": [
+            "https://t.co/y46kyy6myj"
+        ],
+        "user": "213487359"
+    },
+    "973014258815418368": {
+        "hashtags": [],
+        "idx": 36,
+        "label": false,
+        "mentions": [
+            "skynewsaust",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "3767124494"
+    },
+    "973014640929091584": {
+        "hashtags": [],
+        "idx": 37,
+        "label": true,
+        "mentions": [],
+        "urls": [],
+        "user": "1010345690"
+    },
+    "973014644792082433": {
+        "hashtags": [],
+        "idx": 38,
+        "label": true,
+        "mentions": [
+            "wheelguy09"
+        ],
+        "urls": [],
+        "user": "42519805"
+    },
+    "973014665511936000": {
+        "hashtags": [],
+        "idx": 39,
+        "label": false,
+        "mentions": [
+            "davidpisonimp",
+            "alanmurrellten",
+            "jayweatherill",
+            "smullighan",
+            "tennewsadel"
+        ],
+        "urls": [],
+        "user": "3767124494"
+    },
+    "973014814657146880": {
+        "hashtags": [],
+        "idx": 40,
+        "label": false,
+        "mentions": [
+            "liberalsahq",
+            "tkoutsantonismp"
+        ],
+        "urls": [],
+        "user": "178525354"
+    },
+    "973016982701326339": {
+        "hashtags": [
+            "walkerville",
+            "letterboxing",
+            "locals"
+        ],
+        "idx": 41,
+        "label": true,
+        "mentions": [
+            "adelaidemp"
+        ],
+        "urls": [],
+        "user": "93818188"
+    },
+    "973017763403874306": {
+        "hashtags": [],
+        "idx": 42,
+        "label": true,
+        "mentions": [],
+        "urls": [
+            "https://t.co/sqlixvp5ya"
+        ],
+        "user": "51929713"
+    },
+    "973018035047972864": {
+        "hashtags": [],
+        "idx": 43,
+        "label": true,
+        "mentions": [
+            "liberalsahq",
+            "nick_xenophon",
+            "tammymlc"
+        ],
+        "urls": [
+            "https://t.co/lgwsvgcebc"
+        ],
+        "user": "1227186560"
+    },
+    "973018107512893440": {
+        "hashtags": [
+            "savotes"
+        ],
+        "idx": 44,
+        "label": true,
+        "mentions": [
+            "abcadelaide",
+            "jessicaharmsen"
+        ],
+        "urls": [],
+        "user": "93818188"
+    },
+    "973018308231405568": {
+        "hashtags": [],
+        "idx": 45,
+        "label": true,
+        "mentions": [
+            "mclemow_99",
+            "sabest_party"
+        ],
+        "urls": [],
+        "user": "93818188"
+    },
+    "973019023892873216": {
+        "hashtags": [],
+        "idx": 46,
+        "label": true,
+        "mentions": [
+            "liberalsahq",
+            "nick_xenophon",
+            "slatterysabest"
+        ],
+        "urls": [],
+        "user": "96921828"
+    },
+    "973019580493791233": {
+        "hashtags": [],
+        "idx": 47,
+        "label": true,
+        "mentions": [
+            "skynewsaust",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "1335572714"
+    },
+    "973020703137046528": {
+        "hashtags": [],
+        "idx": 48,
+        "label": false,
+        "mentions": [
+            "alpsa",
+            "jayweatherill"
+        ],
+        "urls": [],
+        "user": "2411313362"
+    },
+    "973021024823386113": {
+        "hashtags": [],
+        "idx": 49,
+        "label": true,
+        "mentions": [
+            "liberalsahq",
+            "nick_xenophon",
+            "tammymlc"
+        ],
+        "urls": [
+            "https://t.co/ykhnhb8fvd"
+        ],
+        "user": "1227186560"
+    },
+    "973021491154448386": {
+        "hashtags": [],
+        "idx": 50,
+        "label": false,
+        "mentions": [
+            "paulinehansonoz",
+            "davidleyonhjelm",
+            "corybernardi",
+            "alanjones"
+        ],
+        "urls": [],
+        "user": "906976502130135040"
+    },
+    "973023331254333440": {
+        "hashtags": [],
+        "idx": 51,
+        "label": true,
+        "mentions": [],
+        "urls": [],
+        "user": "96921828"
+    },
+    "973024004578537472": {
+        "hashtags": [],
+        "idx": 52,
+        "label": false,
+        "mentions": [
+            "fn1bruva",
+            "simba_83",
+            "yvesthevenot",
+            "auconservatives",
+            "gip1972",
+            "_cropes_",
+            "rlalbrechttroy",
+            "vlverdi71",
+            "hckgyanganj"
+        ],
+        "urls": [
+            "https://t.co/uihbamigt7"
+        ],
+        "user": "966599226779090944"
+    },
+    "973025102169174017": {
+        "hashtags": [],
+        "idx": 53,
+        "label": false,
+        "mentions": [
+            "fn1bruva",
+            "simba_83",
+            "yvesthevenot",
+            "auconservatives",
+            "gip1972",
+            "_cropes_",
+            "rlalbrechttroy",
+            "vlverdi71",
+            "hckgyanganj"
+        ],
+        "urls": [
+            "https://t.co/mvjtjmnywv"
+        ],
+        "user": "966599226779090944"
+    },
+    "973025678315601920": {
+        "hashtags": [],
+        "idx": 54,
+        "label": true,
+        "mentions": [
+            "liberalsahq",
+            "tammymlc"
+        ],
+        "urls": [],
+        "user": "1227186560"
+    },
+    "973025905630068737": {
+        "hashtags": [],
+        "idx": 55,
+        "label": false,
+        "mentions": [
+            "davidpisonimp"
+        ],
+        "urls": [],
+        "user": "366436170"
+    },
+    "973028019387359232": {
+        "hashtags": [],
+        "idx": 56,
+        "label": false,
+        "mentions": [
+            "alpsa",
+            "jayweatherill"
+        ],
+        "urls": [],
+        "user": "929802343398256640"
+    },
+    "973029886423056384": {
+        "hashtags": [],
+        "idx": 57,
+        "label": false,
+        "mentions": [
+            "2hdor",
+            "salibmedia",
+            "marshall_steven",
+            "richardmharvey",
+            "cpyne"
+        ],
+        "urls": [],
+        "user": "768362756353339392"
+    },
+    "973029950734217216": {
+        "hashtags": [],
+        "idx": 58,
+        "label": false,
+        "mentions": [
+            "fn1bruva",
+            "simba_83",
+            "yvesthevenot",
+            "auconservatives",
+            "gip1972",
+            "_cropes_",
+            "rlalbrechttroy",
+            "vlverdi71",
+            "hckgyanganj"
+        ],
+        "urls": [
+            "https://t.co/355yeu6ioi"
+        ],
+        "user": "966599226779090944"
+    },
+    "973031427250962432": {
+        "hashtags": [
+            "orangelibs",
+            "bluelibs"
+        ],
+        "idx": 59,
+        "label": true,
+        "mentions": [
+            "liberalsahq",
+            "slatterysabest"
+        ],
+        "urls": [
+            "https://t.co/hahkyypm5u"
+        ],
+        "user": "96921828"
+    },
+    "973032935799406593": {
+        "hashtags": [],
+        "idx": 60,
+        "label": true,
+        "mentions": [
+            "_marywoodward"
+        ],
+        "urls": [],
+        "user": "481023804"
+    },
+    "973033103143915520": {
+        "hashtags": [],
+        "idx": 61,
+        "label": false,
+        "mentions": [
+            "nick_xenophon",
+            "mattdoran91",
+            "politicsabc"
+        ],
+        "urls": [],
+        "user": "892576820"
+    },
+    "973033130918490112": {
+        "hashtags": [],
+        "idx": 62,
+        "label": true,
+        "mentions": [],
+        "urls": [],
+        "user": "1010345690"
+    },
+    "973033293569552384": {
+        "hashtags": [
+            "reform",
+            "policy",
+            "savotes"
+        ],
+        "idx": 63,
+        "label": false,
+        "mentions": [
+            "sacoss"
+        ],
+        "urls": [],
+        "user": "2262761306"
+    },
+    "973033818255892481": {
+        "hashtags": [],
+        "idx": 64,
+        "label": true,
+        "mentions": [
+            "jingleemlc1"
+        ],
+        "urls": [
+            "https://t.co/xlk5w6wgsw"
+        ],
+        "user": "213487359"
+    },
+    "973035175360610304": {
+        "hashtags": [],
+        "idx": 65,
+        "label": false,
+        "mentions": [
+            "nick_xenophon"
+        ],
+        "urls": [
+            "https://t.co/kuyyumgyuv"
+        ],
+        "user": "16253914"
+    },
+    "973035384568344576": {
+        "hashtags": [],
+        "idx": 66,
+        "label": true,
+        "mentions": [],
+        "urls": [
+            "https://t.co/x7tizup1jq"
+        ],
+        "user": "706076432"
+    },
+    "973036957545611264": {
+        "hashtags": [
+            "adelaide"
+        ],
+        "idx": 67,
+        "label": true,
+        "mentions": [],
+        "urls": [],
+        "user": "970943839"
+    },
+    "973037102467174400": {
+        "hashtags": [
+            "fiveaanews",
+            "savotes2018"
+        ],
+        "idx": 68,
+        "label": true,
+        "mentions": [
+            "matthewpantelis"
+        ],
+        "urls": [],
+        "user": "93818188"
+    },
+    "973037128014876673": {
+        "hashtags": [
+            "renewables"
+        ],
+        "idx": 69,
+        "label": false,
+        "mentions": [],
+        "urls": [
+            "https://t.co/lrfpnwrnj6",
+            "https://t.co/z3tpnevhh4"
+        ],
+        "user": "1892683062"
+    },
+    "973037177734139904": {
+        "hashtags": [],
+        "idx": 70,
+        "label": false,
+        "mentions": [
+            "skynewsaust",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "740371440"
+    },
+    "973037225842696192": {
+        "hashtags": [],
+        "idx": 71,
+        "label": false,
+        "mentions": [
+            "alpsa",
+            "jayweatherill"
+        ],
+        "urls": [],
+        "user": "295857923"
+    },
+    "973037322684936192": {
+        "hashtags": [],
+        "idx": 72,
+        "label": true,
+        "mentions": [
+            "7newsadelaide",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "93818188"
+    },
+    "973037463483510785": {
+        "hashtags": [
+            "savotes"
+        ],
+        "idx": 73,
+        "label": true,
+        "mentions": [],
+        "urls": [
+            "https://t.co/0p2drepw04"
+        ],
+        "user": "42519805"
+    },
+    "973037535071944704": {
+        "hashtags": [],
+        "idx": 74,
+        "label": true,
+        "mentions": [
+            "marinapullin",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "93818188"
+    },
+    "973037692823875584": {
+        "hashtags": [],
+        "idx": 75,
+        "label": false,
+        "mentions": [
+            "7newsadelaide",
+            "alpsa",
+            "jayweatherill"
+        ],
+        "urls": [
+            "https://t.co/qkpoxws0ly"
+        ],
+        "user": "432064754"
+    },
+    "973038340785111040": {
+        "hashtags": [],
+        "idx": 76,
+        "label": true,
+        "mentions": [
+            "7newsadelaide"
+        ],
+        "urls": [],
+        "user": "922981570335481856"
+    },
+    "973038353875574784": {
+        "hashtags": [
+            "savotes",
+            "saparli"
+        ],
+        "idx": 77,
+        "label": false,
+        "mentions": [],
+        "urls": [
+            "https://t.co/nq8tgfh4hc"
+        ],
+        "user": "82062567"
+    },
+    "973039344159113217": {
+        "hashtags": [],
+        "idx": 78,
+        "label": true,
+        "mentions": [
+            "7newsadelaide"
+        ],
+        "urls": [],
+        "user": "140417519"
+    },
+    "973039666659172352": {
+        "hashtags": [],
+        "idx": 79,
+        "label": true,
+        "mentions": [
+            "corey_wingard"
+        ],
+        "urls": [
+            "https://t.co/3coca6ta2c"
+        ],
+        "user": "93818188"
+    },
+    "973039777430695936": {
+        "hashtags": [],
+        "idx": 80,
+        "label": true,
+        "mentions": [
+            "7newsadelaide"
+        ],
+        "urls": [],
+        "user": "706076432"
+    },
+    "973039853997760512": {
+        "hashtags": [],
+        "idx": 81,
+        "label": false,
+        "mentions": [
+            "alpsa"
+        ],
+        "urls": [],
+        "user": "289275616"
+    },
+    "973040549337866241": {
+        "hashtags": [],
+        "idx": 82,
+        "label": true,
+        "mentions": [
+            "liberalsahq",
+            "alpsa",
+            "nxt_hq",
+            "dyslexia_sa"
+        ],
+        "urls": [],
+        "user": "1335572714"
+    },
+    "973040618069880832": {
+        "hashtags": [],
+        "idx": 83,
+        "label": true,
+        "mentions": [
+            "7newsadelaide",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "1335572714"
+    },
+    "973040645764915205": {
+        "hashtags": [
+            "fiveaanews",
+            "savotes2018"
+        ],
+        "idx": 84,
+        "label": true,
+        "mentions": [
+            "matthewpantelis"
+        ],
+        "urls": [],
+        "user": "1335572714"
+    },
+    "973040725653839872": {
+        "hashtags": [],
+        "idx": 85,
+        "label": true,
+        "mentions": [
+            "corey_wingard",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "326520794"
+    },
+    "973042170847375360": {
+        "hashtags": [],
+        "idx": 86,
+        "label": false,
+        "mentions": [
+            "richardmharvey",
+            "cpyne",
+            "salibmedia",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "160132829"
+    },
+    "973044267357646848": {
+        "hashtags": [],
+        "idx": 87,
+        "label": true,
+        "mentions": [
+            "skynewsaust",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "1605357078"
+    },
+    "973044677937999872": {
+        "hashtags": [
+            "fiveaanews",
+            "savotes2018"
+        ],
+        "idx": 88,
+        "label": true,
+        "mentions": [
+            "matthewpantelis"
+        ],
+        "urls": [],
+        "user": "1605357078"
+    },
+    "973045502320062465": {
+        "hashtags": [],
+        "idx": 89,
+        "label": false,
+        "mentions": [
+            "7newsadelaide",
+            "tkoutsantonismp",
+            "jayweatherill"
+        ],
+        "urls": [],
+        "user": "4106798413"
+    },
+    "973046050905731072": {
+        "hashtags": [],
+        "idx": 90,
+        "label": false,
+        "mentions": [
+            "fn1bruva",
+            "simba_83",
+            "yvesthevenot",
+            "auconservatives",
+            "gip1972",
+            "_cropes_",
+            "rlalbrechttroy",
+            "vlverdi71",
+            "hckgyanganj"
+        ],
+        "urls": [
+            "https://t.co/1cadlvit8w"
+        ],
+        "user": "966599226779090944"
+    },
+    "973047020880519168": {
+        "hashtags": [
+            "adelaide"
+        ],
+        "idx": 91,
+        "label": true,
+        "mentions": [
+            "vincenttarzia"
+        ],
+        "urls": [],
+        "user": "129972061"
+    },
+    "973047088215764992": {
+        "hashtags": [],
+        "idx": 92,
+        "label": true,
+        "mentions": [
+            "liberalsahq",
+            "alpsa",
+            "nxt_hq",
+            "dyslexia_sa"
+        ],
+        "urls": [],
+        "user": "129972061"
+    },
+    "973047309310205952": {
+        "hashtags": [
+            "savotes"
+        ],
+        "idx": 93,
+        "label": false,
+        "mentions": [
+            "vic_rollison"
+        ],
+        "urls": [],
+        "user": "35900933"
+    },
+    "973050178885230592": {
+        "hashtags": [],
+        "idx": 94,
+        "label": true,
+        "mentions": [
+            "josh_peak"
+        ],
+        "urls": [],
+        "user": "1092202669"
+    },
+    "973050329674625024": {
+        "hashtags": [
+            "bushfire",
+            "callington",
+            "wam"
+        ],
+        "idx": 95,
+        "label": true,
+        "mentions": [
+            "cfstalk"
+        ],
+        "urls": [
+            "https://t.co/blbmyjfyby"
+        ],
+        "user": "1092202669"
+    },
+    "973050587192283136": {
+        "hashtags": [
+            "savotes"
+        ],
+        "idx": 96,
+        "label": false,
+        "mentions": [
+            "vic_rollison"
+        ],
+        "urls": [],
+        "user": "8619542"
+    },
+    "973050942932185089": {
+        "hashtags": [],
+        "idx": 97,
+        "label": false,
+        "mentions": [
+            "davidpisonimp"
+        ],
+        "urls": [],
+        "user": "1173993361"
+    },
+    "973052540693565440": {
+        "hashtags": [],
+        "idx": 98,
+        "label": false,
+        "mentions": [
+            "jayweatherill",
+            "cyclonecharlie8"
+        ],
+        "urls": [],
+        "user": "1018660693"
+    },
+    "973052979161874432": {
+        "hashtags": [],
+        "idx": 99,
+        "label": true,
+        "mentions": [
+            "abarrmla",
+            "mjowen"
+        ],
+        "urls": [],
+        "user": "350707926"
+    },
+    "973053911371169793": {
+        "hashtags": [],
+        "idx": 100,
+        "label": false,
+        "mentions": [
+            "realmarklatham",
+            "qanda",
+            "corybernardi"
+        ],
+        "urls": [],
+        "user": "832603559740919808"
+    },
+    "973056755855867905": {
+        "hashtags": [],
+        "idx": 101,
+        "label": true,
+        "mentions": [],
+        "urls": [
+            "https://t.co/f2k3phmfvm"
+        ],
+        "user": "25934031"
+    },
+    "973057696537624577": {
+        "hashtags": [],
+        "idx": 102,
+        "label": true,
+        "mentions": [],
+        "urls": [
+            "https://t.co/vxh2sc6nze"
+        ],
+        "user": "25934031"
+    },
+    "973058814252433408": {
+        "hashtags": [],
+        "idx": 103,
+        "label": true,
+        "mentions": [
+            "liberalsahq",
+            "alpsa",
+            "nxt_hq",
+            "dyslexia_sa"
+        ],
+        "urls": [],
+        "user": "116989814"
+    },
+    "973059597006135296": {
+        "hashtags": [],
+        "idx": 104,
+        "label": false,
+        "mentions": [
+            "alpsa"
+        ],
+        "urls": [],
+        "user": "432048881"
+    },
+    "973060278878261250": {
+        "hashtags": [],
+        "idx": 105,
+        "label": true,
+        "mentions": [
+            "krishannaxmp"
+        ],
+        "urls": [],
+        "user": "922981570335481856"
+    },
+    "973061023329480704": {
+        "hashtags": [],
+        "idx": 106,
+        "label": false,
+        "mentions": [
+            "royalsociety",
+            "royalsocietynz",
+            "royalfamily",
+            "insa_academy",
+            "joshfrydenberg",
+            "rsctheacademies",
+            "clarencehouse"
+        ],
+        "urls": [
+            "https://t.co/1bqwweo6as"
+        ],
+        "user": "346400805"
+    },
+    "973061860009197568": {
+        "hashtags": [],
+        "idx": 107,
+        "label": true,
+        "mentions": [
+            "marinapullin",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "116989814"
+    },
+    "973061993052581888": {
+        "hashtags": [],
+        "idx": 108,
+        "label": true,
+        "mentions": [
+            "politicsfairfax",
+            "erykbagshaw"
+        ],
+        "urls": [
+            "https://t.co/tu9gcj9stb"
+        ],
+        "user": "1227186560"
+    },
+    "973062306807537664": {
+        "hashtags": [],
+        "idx": 109,
+        "label": true,
+        "mentions": [
+            "davidpisonimp"
+        ],
+        "urls": [],
+        "user": "93818188"
+    },
+    "973062367620743168": {
+        "hashtags": [],
+        "idx": 110,
+        "label": true,
+        "mentions": [
+            "davidpisonimp"
+        ],
+        "urls": [],
+        "user": "116989814"
+    },
+    "973064582737534976": {
+        "hashtags": [],
+        "idx": 111,
+        "label": false,
+        "mentions": [
+            "tkoutsantonismp"
+        ],
+        "urls": [],
+        "user": "3317450233"
+    },
+    "973065432834891776": {
+        "hashtags": [
+            "adelaide",
+            "southaustralia",
+            "savotes2018",
+            "saparli"
+        ],
+        "idx": 112,
+        "label": true,
+        "mentions": [
+            "sabest_party"
+        ],
+        "urls": [
+            "https://t.co/nxdc26rxuq"
+        ],
+        "user": "929372492"
+    },
+    "973065495539695617": {
+        "hashtags": [],
+        "idx": 113,
+        "label": false,
+        "mentions": [
+            "craigkellymp",
+            "skynewsaust",
+            "jayweatherill"
+        ],
+        "urls": [],
+        "user": "918080958183620610"
+    },
+    "973065980355133440": {
+        "hashtags": [
+            "cottesloevotes",
+            "savotes",
+            "batmanvotes"
+        ],
+        "idx": 114,
+        "label": false,
+        "mentions": [],
+        "urls": [],
+        "user": "316939490"
+    },
+    "973066148294963200": {
+        "hashtags": [],
+        "idx": 115,
+        "label": false,
+        "mentions": [],
+        "urls": [
+            "https://t.co/xbld4awhqv"
+        ],
+        "user": "262040253"
+    },
+    "973067313707606016": {
+        "hashtags": [],
+        "idx": 116,
+        "label": true,
+        "mentions": [
+            "davidpisonimp"
+        ],
+        "urls": [],
+        "user": "52304624"
+    },
+    "973068385733898241": {
+        "hashtags": [
+            "savotes"
+        ],
+        "idx": 117,
+        "label": false,
+        "mentions": [
+            "vic_rollison"
+        ],
+        "urls": [],
+        "user": "1253249515"
+    },
+    "973068836428754944": {
+        "hashtags": [
+            "sapol",
+            "savotes2018"
+        ],
+        "idx": 118,
+        "label": false,
+        "mentions": [],
+        "urls": [
+            "https://t.co/lupe1aifku"
+        ],
+        "user": "35377970"
+    },
+    "973070173702733825": {
+        "hashtags": [],
+        "idx": 119,
+        "label": false,
+        "mentions": [
+            "skynewsaust",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "583549042"
+    },
+    "973070680089653248": {
+        "hashtags": [
+            "savotes"
+        ],
+        "idx": 120,
+        "label": false,
+        "mentions": [
+            "vic_rollison"
+        ],
+        "urls": [],
+        "user": "1404087277"
+    },
+    "973070974168924161": {
+        "hashtags": [],
+        "idx": 121,
+        "label": false,
+        "mentions": [
+            "hull_cr",
+            "corey_wingard",
+            "cityofmarion"
+        ],
+        "urls": [],
+        "user": "552683977"
+    },
+    "973072711105703936": {
+        "hashtags": [],
+        "idx": 122,
+        "label": false,
+        "mentions": [
+            "salibmedia",
+            "alpsa",
+            "mbasa_news"
+        ],
+        "urls": [],
+        "user": "925926986043629568"
+    },
+    "973072801140654081": {
+        "hashtags": [],
+        "idx": 123,
+        "label": false,
+        "mentions": [
+            "nick_xenophon",
+            "abcadelaide"
+        ],
+        "urls": [],
+        "user": "15248759"
+    },
+    "973073172567175168": {
+        "hashtags": [
+            "7news"
+        ],
+        "idx": 124,
+        "label": true,
+        "mentions": [
+            "7newsadelaide"
+        ],
+        "urls": [],
+        "user": "1092202669"
+    },
+    "973074229582118912": {
+        "hashtags": [],
+        "idx": 125,
+        "label": false,
+        "mentions": [
+            "renewalsa",
+            "alpsa",
+            "macdonald_julie",
+            "jayweatherill",
+            "smullighan",
+            "rorymcclaren9",
+            "say_more16"
+        ],
+        "urls": [],
+        "user": "872356976931557376"
+    },
+    "973074306094702598": {
+        "hashtags": [],
+        "idx": 126,
+        "label": false,
+        "mentions": [
+            "judicialcorrupt",
+            "corybernardi",
+            "mirandadevine",
+            "georgerobbwill"
+        ],
+        "urls": [
+            "https://t.co/bibvrrq9fp"
+        ],
+        "user": "201740248"
+    },
+    "973079031775145984": {
+        "hashtags": [],
+        "idx": 127,
+        "label": false,
+        "mentions": [
+            "turnbullmalcolm",
+            "marshall_steven",
+            "ricklevy67"
+        ],
+        "urls": [],
+        "user": "289787164"
+    },
+    "973080856473493504": {
+        "hashtags": [],
+        "idx": 128,
+        "label": true,
+        "mentions": [
+            "7newsadelaide",
+            "mikesmith"
+        ],
+        "urls": [],
+        "user": "116989814"
+    },
+    "973084261673660416": {
+        "hashtags": [],
+        "idx": 129,
+        "label": false,
+        "mentions": [
+            "paulinehansonoz",
+            "realmarklatham",
+            "rowandean",
+            "corybernardi",
+            "lldecide",
+            "headsup",
+            "tonyabbottmhr",
+            "pm_live",
+            "austliberty"
+        ],
+        "urls": [
+            "https://t.co/3heuvbvx8c"
+        ],
+        "user": "194080308"
+    },
+    "973084423146037248": {
+        "hashtags": [],
+        "idx": 130,
+        "label": false,
+        "mentions": [
+            "jayweatherill"
+        ],
+        "urls": [],
+        "user": "1285240844"
+    },
+    "973084454590693376": {
+        "hashtags": [],
+        "idx": 131,
+        "label": false,
+        "mentions": [
+            "jayweatherill"
+        ],
+        "urls": [],
+        "user": "93116011"
+    },
+    "973086282027945986": {
+        "hashtags": [],
+        "idx": 132,
+        "label": false,
+        "mentions": [
+            "liberalaus",
+            "1hendorable1",
+            "greensmps",
+            "jayweatherill",
+            "chrisegginton",
+            "australianlabor"
+        ],
+        "urls": [
+            "https://t.co/pn8sjbejbg"
+        ],
+        "user": "1237534352"
+    },
+    "973086590670024704": {
+        "hashtags": [],
+        "idx": 133,
+        "label": false,
+        "mentions": [
+            "tkoutsantonismp",
+            "rob_lucas"
+        ],
+        "urls": [
+            "https://t.co/t6sowdryhi"
+        ],
+        "user": "918085436"
+    },
+    "973087095089590273": {
+        "hashtags": [
+            "auspol",
+            "saparli"
+        ],
+        "idx": 134,
+        "label": true,
+        "mentions": [
+            "auconservatives"
+        ],
+        "urls": [],
+        "user": "1722298621"
+    },
+    "973088550559277056": {
+        "hashtags": [],
+        "idx": 135,
+        "label": false,
+        "mentions": [
+            "liberalsahq",
+            "alpsa",
+            "nxt_hq",
+            "dyslexia_sa"
+        ],
+        "urls": [],
+        "user": "4735837764"
+    },
+    "973091104068218880": {
+        "hashtags": [],
+        "idx": 136,
+        "label": true,
+        "mentions": [
+            "alpsa"
+        ],
+        "urls": [],
+        "user": "706076432"
+    },
+    "973092210978648065": {
+        "hashtags": [],
+        "idx": 137,
+        "label": false,
+        "mentions": [
+            "nick_xenophon",
+            "skynewsaust",
+            "grahamemorris2"
+        ],
+        "urls": [],
+        "user": "984447324"
+    },
+    "973093180001239040": {
+        "hashtags": [],
+        "idx": 138,
+        "label": true,
+        "mentions": [
+            "alpsa",
+            "australianlabor"
+        ],
+        "urls": [],
+        "user": "706076432"
+    },
+    "973096840009719808": {
+        "hashtags": [
+            "savotes"
+        ],
+        "idx": 139,
+        "label": false,
+        "mentions": [
+            "abcadelaide"
+        ],
+        "urls": [
+            "https://t.co/vl3h5nhu9a"
+        ],
+        "user": "971716375"
+    },
+    "973097563648741376": {
+        "hashtags": [],
+        "idx": 140,
+        "label": false,
+        "mentions": [
+            "auconservatives",
+            "corybernardi"
+        ],
+        "urls": [
+            "https://t.co/ppyikpu0eq"
+        ],
+        "user": "960797817596866560"
+    },
+    "973098580784300038": {
+        "hashtags": [],
+        "idx": 141,
+        "label": false,
+        "mentions": [
+            "liberalaus",
+            "1hendorable1",
+            "greensmps",
+            "jayweatherill",
+            "brigadierslog",
+            "chrisegginton",
+            "australianlabor"
+        ],
+        "urls": [
+            "https://t.co/xhqflpyqfr"
+        ],
+        "user": "1237534352"
+    },
+    "973098905868128256": {
+        "hashtags": [],
+        "idx": 142,
+        "label": true,
+        "mentions": [
+            "davidpisonimp",
+            "quinnkat2",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "93818188"
+    },
+    "973100447614435329": {
+        "hashtags": [],
+        "idx": 143,
+        "label": false,
+        "mentions": [
+            "annastaciamp",
+            "jayweatherill",
+            "danielandrewsmp",
+            "turnbullmalcolm",
+            "gladysb",
+            "willhodgman",
+            "markmcgowanmp"
+        ],
+        "urls": [
+            "https://t.co/r47qtupugx"
+        ],
+        "user": "3271409929"
+    },
+    "973101255810695168": {
+        "hashtags": [],
+        "idx": 144,
+        "label": false,
+        "mentions": [
+            "mickkime",
+            "auconservatives",
+            "pete91901217",
+            "corybernardi"
+        ],
+        "urls": [],
+        "user": "608074792"
+    },
+    "973101417295564800": {
+        "hashtags": [],
+        "idx": 145,
+        "label": false,
+        "mentions": [
+            "paulinehansonoz",
+            "realmarklatham",
+            "rowandean",
+            "corybernardi",
+            "mpsmithnews",
+            "easleysgirl",
+            "lldecide",
+            "headsup",
+            "tonyabbottmhr",
+            "pm_live",
+            "austlib"
+        ],
+        "urls": [],
+        "user": "820597670641184769"
+    },
+    "973102019924738049": {
+        "hashtags": [],
+        "idx": 146,
+        "label": false,
+        "mentions": [
+            "dsr150250",
+            "furiousfolly",
+            "peterwhill1",
+            "rods108443078",
+            "auconservatives"
+        ],
+        "urls": [],
+        "user": "3812437692"
+    },
+    "973103902542348288": {
+        "hashtags": [
+            "savotes"
+        ],
+        "idx": 147,
+        "label": false,
+        "mentions": [
+            "vic_rollison"
+        ],
+        "urls": [],
+        "user": "24311921"
+    },
+    "973104496510291969": {
+        "hashtags": [],
+        "idx": 148,
+        "label": true,
+        "mentions": [
+            "davidpisonimp"
+        ],
+        "urls": [],
+        "user": "3302130606"
+    },
+    "973105743170650112": {
+        "hashtags": [
+            "savotes",
+            "saparli"
+        ],
+        "idx": 149,
+        "label": false,
+        "mentions": [
+            "jayweatherill"
+        ],
+        "urls": [
+            "https://t.co/ejwk2fmmmx"
+        ],
+        "user": "82062567"
+    },
+    "973106400648810496": {
+        "hashtags": [],
+        "idx": 150,
+        "label": true,
+        "mentions": [
+            "senatorwong",
+            "womadelaide"
+        ],
+        "urls": [],
+        "user": "350707926"
+    },
+    "973106865050537984": {
+        "hashtags": [],
+        "idx": 151,
+        "label": false,
+        "mentions": [
+            "2hdor",
+            "liberalaus",
+            "1hendorable1",
+            "greensmps",
+            "jayweatherill",
+            "brigadierslog",
+            "chrisegginton",
+            "australianlabor"
+        ],
+        "urls": [
+            "https://t.co/rqzplldwsr"
+        ],
+        "user": "88295399"
+    },
+    "973112134648377344": {
+        "hashtags": [],
+        "idx": 152,
+        "label": false,
+        "mentions": [
+            "dsr150250",
+            "furiousfolly",
+            "peterwhill1",
+            "rods108443078",
+            "auconservatives"
+        ],
+        "urls": [],
+        "user": "878028162063532034"
+    },
+    "973113567477088257": {
+        "hashtags": [
+            "renewab"
+        ],
+        "idx": 153,
+        "label": true,
+        "mentions": [
+            "renew_economy",
+            "elonmusk",
+            "climatecouncil"
+        ],
+        "urls": [
+            "https://t.co/44corbbphl"
+        ],
+        "user": "706076432"
+    },
+    "973114177010020352": {
+        "hashtags": [],
+        "idx": 154,
+        "label": false,
+        "mentions": [
+            "auconservatives",
+            "lyleshelton",
+            "corybernardi"
+        ],
+        "urls": [],
+        "user": "67950946"
+    },
+    "973114909360758784": {
+        "hashtags": [],
+        "idx": 155,
+        "label": false,
+        "mentions": [
+            "bron1954",
+            "2hdor",
+            "liberalaus",
+            "1hendorable1",
+            "greensmps",
+            "jayweatherill",
+            "brigadierslog",
+            "chrisegginton",
+            "australianlabor"
+        ],
+        "urls": [],
+        "user": "400495760"
+    },
+    "973115403374178304": {
+        "hashtags": [],
+        "idx": 156,
+        "label": true,
+        "mentions": [
+            "alpsa"
+        ],
+        "urls": [],
+        "user": "140417519"
+    },
+    "973120302161960960": {
+        "hashtags": [],
+        "idx": 157,
+        "label": false,
+        "mentions": [
+            "7newsadelaide",
+            "snowflakeleftie",
+            "jayweatherill"
+        ],
+        "urls": [
+            "https://t.co/kt5c0nahpi"
+        ],
+        "user": "372581926"
+    },
+    "973120599768760320": {
+        "hashtags": [],
+        "idx": 158,
+        "label": true,
+        "mentions": [
+            "dan_willson1"
+        ],
+        "urls": [
+            "https://t.co/wfr0vzdvuw"
+        ],
+        "user": "93818188"
+    },
+    "973120671340314626": {
+        "hashtags": [],
+        "idx": 159,
+        "label": true,
+        "mentions": [
+            "dan_willson1"
+        ],
+        "urls": [
+            "https://t.co/wfr0vzdvuw"
+        ],
+        "user": "51929713"
+    },
+    "973121355842437122": {
+        "hashtags": [],
+        "idx": 160,
+        "label": true,
+        "mentions": [
+            "nick_xenophon",
+            "4corners",
+            "marshall_steven"
+        ],
+        "urls": [
+            "https://t.co/rzz2oz37dp"
+        ],
+        "user": "706076432"
+    },
+    "973121504626982912": {
+        "hashtags": [],
+        "idx": 161,
+        "label": true,
+        "mentions": [
+            "ozbloke27"
+        ],
+        "urls": [
+            "https://t.co/1ulntjfps3"
+        ],
+        "user": "1461512112"
+    },
+    "973121840137699330": {
+        "hashtags": [],
+        "idx": 162,
+        "label": true,
+        "mentions": [],
+        "urls": [
+            "https://t.co/1ulntjfps3",
+            "https://t.co/veb23fpwcw"
+        ],
+        "user": "1461512112"
+    },
+    "973124833952190464": {
+        "hashtags": [
+            "sapol",
+            "auspol",
+            "qanda"
+        ],
+        "idx": 163,
+        "label": false,
+        "mentions": [
+            "mathsparty_mpa"
+        ],
+        "urls": [],
+        "user": "485497413"
+    },
+    "973126285680521216": {
+        "hashtags": [],
+        "idx": 164,
+        "label": true,
+        "mentions": [
+            "dan_willson1"
+        ],
+        "urls": [
+            "https://t.co/wfr0vzdvuw"
+        ],
+        "user": "1335572714"
+    },
+    "973129120472158213": {
+        "hashtags": [],
+        "idx": 165,
+        "label": true,
+        "mentions": [
+            "dignityparty",
+            "alpsa"
+        ],
+        "urls": [
+            "https://t.co/6mjcddlwoq"
+        ],
+        "user": "892139262"
+    },
+    "973130252271497216": {
+        "hashtags": [],
+        "idx": 166,
+        "label": true,
+        "mentions": [
+            "whiteswine"
+        ],
+        "urls": [],
+        "user": "350707926"
+    },
+    "973130475773415424": {
+        "hashtags": [
+            "savotes"
+        ],
+        "idx": 167,
+        "label": false,
+        "mentions": [
+            "vic_rollison"
+        ],
+        "urls": [],
+        "user": "802830222336802816"
+    },
+    "973130622087544838": {
+        "hashtags": [],
+        "idx": 168,
+        "label": true,
+        "mentions": [
+            "7newsadelaide",
+            "marshall_steven"
+        ],
+        "urls": [
+            "https://t.co/pburx0tnxk"
+        ],
+        "user": "892139262"
+    },
+    "973130838752636928": {
+        "hashtags": [
+            "sa"
+        ],
+        "idx": 169,
+        "label": false,
+        "mentions": [
+            "kellymlc",
+            "annatree"
+        ],
+        "urls": [],
+        "user": "616034249"
+    },
+    "973130872445534208": {
+        "hashtags": [],
+        "idx": 170,
+        "label": false,
+        "mentions": [],
+        "urls": [
+            "https://t.co/okgjkeucv2"
+        ],
+        "user": "3011389014"
+    },
+    "973130966691586048": {
+        "hashtags": [
+            "sapol",
+            "auspol"
+        ],
+        "idx": 171,
+        "label": false,
+        "mentions": [],
+        "urls": [],
+        "user": "1596987152"
+    },
+    "973131115899715584": {
+        "hashtags": [
+            "sapol",
+            "auspol"
+        ],
+        "idx": 172,
+        "label": false,
+        "mentions": [
+            "anusha_srini"
+        ],
+        "urls": [],
+        "user": "1404087277"
+    },
+    "973131364923949059": {
+        "hashtags": [],
+        "idx": 173,
+        "label": true,
+        "mentions": [],
+        "urls": [
+            "https://t.co/sxmk1yhe6j"
+        ],
+        "user": "1335572714"
+    },
+    "973131503122071553": {
+        "hashtags": [],
+        "idx": 174,
+        "label": true,
+        "mentions": [
+            "salibmedia"
+        ],
+        "urls": [],
+        "user": "1010345690"
+    },
+    "973132516407169024": {
+        "hashtags": [],
+        "idx": 175,
+        "label": false,
+        "mentions": [
+            "mickkime",
+            "auconservatives",
+            "pete91901217",
+            "corybernardi"
+        ],
+        "urls": [],
+        "user": "2583204180"
+    },
+    "973133717228015617": {
+        "hashtags": [],
+        "idx": 176,
+        "label": false,
+        "mentions": [
+            "jayweatherill",
+            "whiteswine"
+        ],
+        "urls": [],
+        "user": "41306141"
+    },
+    "973134187266957313": {
+        "hashtags": [
+            "adelaide"
+        ],
+        "idx": 177,
+        "label": true,
+        "mentions": [
+            "vincenttarzia"
+        ],
+        "urls": [],
+        "user": "17458783"
+    },
+    "973134544323846144": {
+        "hashtags": [],
+        "idx": 178,
+        "label": true,
+        "mentions": [
+            "davidpisonimp"
+        ],
+        "urls": [],
+        "user": "17458783"
+    },
+    "973134577223921664": {
+        "hashtags": [],
+        "idx": 179,
+        "label": true,
+        "mentions": [
+            "7newsadelaide",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "17458783"
+    },
+    "973134772795928576": {
+        "hashtags": [],
+        "idx": 180,
+        "label": true,
+        "mentions": [
+            "marshall_steven",
+            "nick_xenophon",
+            "alpsa",
+            "4corners"
+        ],
+        "urls": [],
+        "user": "140417519"
+    },
+    "973134996654276608": {
+        "hashtags": [
+            "savotes"
+        ],
+        "idx": 181,
+        "label": true,
+        "mentions": [
+            "abcadelaide"
+        ],
+        "urls": [
+            "https://t.co/vl3h5nhu9a"
+        ],
+        "user": "17458783"
+    },
+    "973135226028179456": {
+        "hashtags": [],
+        "idx": 182,
+        "label": true,
+        "mentions": [
+            "hull_cr",
+            "markparnellmlc",
+            "bykemp"
+        ],
+        "urls": [],
+        "user": "42519805"
+    },
+    "973135976145956864": {
+        "hashtags": [],
+        "idx": 183,
+        "label": true,
+        "mentions": [
+            "liberalsahq",
+            "alpsa",
+            "nxt_hq",
+            "dyslexia_sa"
+        ],
+        "urls": [],
+        "user": "17458783"
+    },
+    "973136538056851456": {
+        "hashtags": [
+            "lnpfail",
+            "savotes",
+            "saparli"
+        ],
+        "idx": 184,
+        "label": false,
+        "mentions": [
+            "corruptnsw"
+        ],
+        "urls": [
+            "https://t.co/jekgfbkl4f"
+        ],
+        "user": "2457828181"
+    },
+    "973136787051655168": {
+        "hashtags": [
+            "savotes"
+        ],
+        "idx": 185,
+        "label": false,
+        "mentions": [
+            "abcnews",
+            "mattdoran91",
+            "abcadelaide"
+        ],
+        "urls": [],
+        "user": "48211571"
+    },
+    "973137115541225473": {
+        "hashtags": [],
+        "idx": 186,
+        "label": true,
+        "mentions": [
+            "7newsadelaide",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "326520794"
+    },
+    "973137180204740609": {
+        "hashtags": [],
+        "idx": 187,
+        "label": true,
+        "mentions": [
+            "liberalsahq",
+            "alpsa",
+            "nxt_hq",
+            "dyslexia_sa"
+        ],
+        "urls": [],
+        "user": "326520794"
+    },
+    "973137365215559681": {
+        "hashtags": [],
+        "idx": 188,
+        "label": false,
+        "mentions": [],
+        "urls": [
+            "https://t.co/wdxgjitojp"
+        ],
+        "user": "74424162"
+    },
+    "973137704215916544": {
+        "hashtags": [],
+        "idx": 189,
+        "label": false,
+        "mentions": [
+            "jayweatherill"
+        ],
+        "urls": [
+            "https://t.co/giuhp0de1h"
+        ],
+        "user": "880034429556580352"
+    },
+    "973139348315979776": {
+        "hashtags": [],
+        "idx": 190,
+        "label": true,
+        "mentions": [
+            "stewart17oakden",
+            "icac_sa"
+        ],
+        "urls": [],
+        "user": "326520794"
+    },
+    "973139829746679808": {
+        "hashtags": [],
+        "idx": 191,
+        "label": true,
+        "mentions": [
+            "marshall_steven",
+            "nick_xenophon",
+            "alpsa",
+            "4corners"
+        ],
+        "urls": [],
+        "user": "1092202669"
+    },
+    "973140397965828096": {
+        "hashtags": [],
+        "idx": 192,
+        "label": true,
+        "mentions": [
+            "davidpisonimp",
+            "marshall_steven"
+        ],
+        "urls": [
+            "https://t.co/dvcylhwiyg"
+        ],
+        "user": "706076432"
+    },
+    "973141114122207233": {
+        "hashtags": [],
+        "idx": 193,
+        "label": false,
+        "mentions": [],
+        "urls": [
+            "https://t.co/v7xvb6mxv0"
+        ],
+        "user": "933950884312002561"
+    },
+    "973141953696051200": {
+        "hashtags": [
+            "auspol"
+        ],
+        "idx": 194,
+        "label": false,
+        "mentions": [
+            "nick_xenophon",
+            "freeradicalone"
+        ],
+        "urls": [],
+        "user": "1208080458"
+    },
+    "973142578081050624": {
+        "hashtags": [
+            "millennial",
+            "auspol",
+            "batmanvotes",
+            "qldpol",
+            "sapol"
+        ],
+        "idx": 195,
+        "label": false,
+        "mentions": [
+            "stopadanicairns"
+        ],
+        "urls": [],
+        "user": "38392608"
+    },
+    "973142933451915264": {
+        "hashtags": [],
+        "idx": 196,
+        "label": true,
+        "mentions": [
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "3302130606"
+    },
+    "973144147216318464": {
+        "hashtags": [
+            "adelaidecup"
+        ],
+        "idx": 197,
+        "label": true,
+        "mentions": [
+            "clare1lindop"
+        ],
+        "urls": [],
+        "user": "93818188"
+    },
+    "973145715110174721": {
+        "hashtags": [],
+        "idx": 198,
+        "label": true,
+        "mentions": [
+            "mattdun17",
+            "commandodoctor"
+        ],
+        "urls": [],
+        "user": "22330292"
+    },
+    "973148748112044033": {
+        "hashtags": [],
+        "idx": 199,
+        "label": false,
+        "mentions": [
+            "alpsa"
+        ],
+        "urls": [],
+        "user": "1253249515"
+    },
+    "973149194876669954": {
+        "hashtags": [],
+        "idx": 200,
+        "label": false,
+        "mentions": [
+            "pmonair",
+            "corybernardi"
+        ],
+        "urls": [
+            "https://t.co/chresvo8cw"
+        ],
+        "user": "22580947"
+    },
+    "973149441535258624": {
+        "hashtags": [],
+        "idx": 201,
+        "label": true,
+        "mentions": [],
+        "urls": [
+            "https://t.co/7zafgv7skf"
+        ],
+        "user": "213487359"
+    },
+    "973154504894947329": {
+        "hashtags": [
+            "savotes"
+        ],
+        "idx": 202,
+        "label": false,
+        "mentions": [
+            "vic_rollison"
+        ],
+        "urls": [],
+        "user": "1331551195"
+    },
+    "973155971924099072": {
+        "hashtags": [],
+        "idx": 203,
+        "label": false,
+        "mentions": [
+            "lunderwood630"
+        ],
+        "urls": [
+            "https://t.co/q6koeyhjji"
+        ],
+        "user": "1924071992"
+    },
+    "973156352141873152": {
+        "hashtags": [],
+        "idx": 204,
+        "label": false,
+        "mentions": [
+            "tafeeducation",
+            "cheryl_kernot"
+        ],
+        "urls": [
+            "https://t.co/1z0qsef6p7"
+        ],
+        "user": "424923977"
+    },
+    "973156418378321920": {
+        "hashtags": [
+            "oakden"
+        ],
+        "idx": 205,
+        "label": false,
+        "mentions": [
+            "icac_sa"
+        ],
+        "urls": [
+            "https://t.co/usjfjfe6mt"
+        ],
+        "user": "403197899"
+    },
+    "973158026906451968": {
+        "hashtags": [
+            "savotes2018",
+            "auspol"
+        ],
+        "idx": 206,
+        "label": false,
+        "mentions": [
+            "thetiser"
+        ],
+        "urls": [
+            "https://t.co/idptqgk7ew"
+        ],
+        "user": "3186613928"
+    },
+    "973160598132240384": {
+        "hashtags": [],
+        "idx": 207,
+        "label": false,
+        "mentions": [
+            "pmonair",
+            "corybernardi"
+        ],
+        "urls": [],
+        "user": "26464396"
+    },
+    "973161529657892865": {
+        "hashtags": [],
+        "idx": 208,
+        "label": false,
+        "mentions": [
+            "snarkyplatypus"
+        ],
+        "urls": [
+            "https://t.co/y9qatrugue"
+        ],
+        "user": "291526084"
+    },
+    "973162278718550016": {
+        "hashtags": [],
+        "idx": 209,
+        "label": true,
+        "mentions": [
+            "craig__davis",
+            "2hdor",
+            "cutloose11"
+        ],
+        "urls": [],
+        "user": "140417519"
+    },
+    "973162350982283270": {
+        "hashtags": [
+            "nopokies",
+            "gamblingharm",
+            "pokies",
+            "gambling",
+            "sapol"
+        ],
+        "idx": 210,
+        "label": false,
+        "mentions": [
+            "_enough_said_"
+        ],
+        "urls": [
+            "https://t.co/p2cj2mcswk"
+        ],
+        "user": "2797656332"
+    },
+    "973162750749818880": {
+        "hashtags": [],
+        "idx": 211,
+        "label": true,
+        "mentions": [
+            "nick_xenophon",
+            "garyjohanson4u"
+        ],
+        "urls": [
+            "https://t.co/hjhigxxch6"
+        ],
+        "user": "539419070"
+    },
+    "973163100441423872": {
+        "hashtags": [],
+        "idx": 212,
+        "label": true,
+        "mentions": [
+            "tomrichardson"
+        ],
+        "urls": [],
+        "user": "96921828"
+    },
+    "973163661219921920": {
+        "hashtags": [],
+        "idx": 213,
+        "label": false,
+        "mentions": [
+            "alpsa"
+        ],
+        "urls": [],
+        "user": "947186657014439936"
+    },
+    "973164438764351489": {
+        "hashtags": [],
+        "idx": 214,
+        "label": true,
+        "mentions": [
+            "youtube"
+        ],
+        "urls": [
+            "https://t.co/rbnpgy1hk7"
+        ],
+        "user": "25934031"
+    },
+    "973167320452415488": {
+        "hashtags": [
+            "oakden"
+        ],
+        "idx": 215,
+        "label": false,
+        "mentions": [
+            "icac_sa"
+        ],
+        "urls": [
+            "https://t.co/0ezzhskz1h"
+        ],
+        "user": "403197899"
+    },
+    "973170402473123841": {
+        "hashtags": [
+            "swansong"
+        ],
+        "idx": 216,
+        "label": false,
+        "mentions": [
+            "swan_artscentre",
+            "tkoutsantonismp",
+            "jayweatherill"
+        ],
+        "urls": [],
+        "user": "1237534352"
+    },
+    "973174229007941632": {
+        "hashtags": [],
+        "idx": 217,
+        "label": true,
+        "mentions": [
+            "tonyhwindsor"
+        ],
+        "urls": [],
+        "user": "22330292"
+    },
+    "973174919012892672": {
+        "hashtags": [],
+        "idx": 218,
+        "label": false,
+        "mentions": [
+            "peeledseal",
+            "corybernardi",
+            "deanna_favoloso",
+            "magikmilly",
+            "pmonair"
+        ],
+        "urls": [],
+        "user": "703210182201901057"
+    },
+    "973177662389633024": {
+        "hashtags": [],
+        "idx": 219,
+        "label": false,
+        "mentions": [
+            "turnbullmalcolm",
+            "marshall_steven",
+            "ricklevy67"
+        ],
+        "urls": [],
+        "user": "968284382455721984"
+    },
+    "973178231443529728": {
+        "hashtags": [],
+        "idx": 220,
+        "label": true,
+        "mentions": [
+            "dianahi54116611",
+            "alanmurrellten",
+            "jayweatherill",
+            "smullighan",
+            "tennewsadel"
+        ],
+        "urls": [],
+        "user": "734642828198973441"
+    },
+    "973178447219453958": {
+        "hashtags": [
+            "newscorpse"
+        ],
+        "idx": 221,
+        "label": false,
+        "mentions": [
+            "abarrmla",
+            "mjowen",
+            "jayweatherill"
+        ],
+        "urls": [],
+        "user": "1237534352"
+    },
+    "973178703965446145": {
+        "hashtags": [],
+        "idx": 222,
+        "label": true,
+        "mentions": [
+            "alpsa",
+            "rorymcclaren9",
+            "jayweatherill",
+            "miclensink"
+        ],
+        "urls": [],
+        "user": "734642828198973441"
+    },
+    "973181035671244800": {
+        "hashtags": [
+            "auspol"
+        ],
+        "idx": 223,
+        "label": false,
+        "mentions": [
+            "anusha_srini"
+        ],
+        "urls": [
+            "https://t.co/cgtmtfjnt5"
+        ],
+        "user": "214770574"
+    },
+    "973182821429755904": {
+        "hashtags": [],
+        "idx": 224,
+        "label": false,
+        "mentions": [
+            "mel_giancarlo",
+            "alpsa",
+            "australianlabor"
+        ],
+        "urls": [],
+        "user": "2777532764"
+    },
+    "973183528807657473": {
+        "hashtags": [],
+        "idx": 225,
+        "label": false,
+        "mentions": [],
+        "urls": [
+            "https://t.co/l4w4hmiw9w"
+        ],
+        "user": "121193566"
+    },
+    "973183539880456192": {
+        "hashtags": [],
+        "idx": 226,
+        "label": false,
+        "mentions": [
+            "peeledseal",
+            "corybernardi",
+            "deanna_favoloso",
+            "pmonair",
+            "triggersurvivor"
+        ],
+        "urls": [
+            "https://t.co/9l2ug5lkyu"
+        ],
+        "user": "835753010986807296"
+    },
+    "973184230736904192": {
+        "hashtags": [],
+        "idx": 227,
+        "label": false,
+        "mentions": [
+            "peeledseal",
+            "corybernardi",
+            "deanna_favoloso",
+            "magikmilly",
+            "pmonair"
+        ],
+        "urls": [
+            "https://t.co/bwjmbhfc3p"
+        ],
+        "user": "703210182201901057"
+    },
+    "973185258932781056": {
+        "hashtags": [],
+        "idx": 228,
+        "label": false,
+        "mentions": [
+            "realmarklatham",
+            "rowandean",
+            "corybernardi",
+            "mpsmithnews",
+            "easleysgirl",
+            "lldecide",
+            "headsup",
+            "tonyabbottmhr"
+        ],
+        "urls": [
+            "https://t.co/22vcx8olwh"
+        ],
+        "user": "917348783968550918"
+    },
+    "973186845767958528": {
+        "hashtags": [],
+        "idx": 229,
+        "label": false,
+        "mentions": [
+            "alpsa"
+        ],
+        "urls": [],
+        "user": "1640248705"
+    },
+    "973189005649920000": {
+        "hashtags": [],
+        "idx": 230,
+        "label": false,
+        "mentions": [
+            "liberalsahq",
+            "hull_cr",
+            "corey_wingard",
+            "cityofmarion"
+        ],
+        "urls": [
+            "https://t.co/3mfocnuevf"
+        ],
+        "user": "44113916"
+    },
+    "973190891824283648": {
+        "hashtags": [],
+        "idx": 231,
+        "label": false,
+        "mentions": [
+            "missbaileywoof"
+        ],
+        "urls": [],
+        "user": "16329558"
+    },
+    "973195331046273024": {
+        "hashtags": [],
+        "idx": 232,
+        "label": true,
+        "mentions": [],
+        "urls": [
+            "https://t.co/ltx6pg5v3k"
+        ],
+        "user": "25934031"
+    },
+    "973256666903805953": {
+        "hashtags": [
+            "mufc",
+            "ucl"
+        ],
+        "idx": 233,
+        "label": true,
+        "mentions": [
+            "anthonymartial",
+            "ibra_official",
+            "manutd"
+        ],
+        "urls": [],
+        "user": "17458783"
+    },
+    "973262454070259712": {
+        "hashtags": [],
+        "idx": 234,
+        "label": false,
+        "mentions": [
+            "cathmckenna"
+        ],
+        "urls": [
+            "https://t.co/z3deppxa5v"
+        ],
+        "user": "24756534"
+    },
+    "973263377697931266": {
+        "hashtags": [],
+        "idx": 235,
+        "label": true,
+        "mentions": [
+            "learnaboutsam"
+        ],
+        "urls": [],
+        "user": "22330292"
+    },
+    "973270653339017217": {
+        "hashtags": [],
+        "idx": 236,
+        "label": false,
+        "mentions": [
+            "alpsa",
+            "jayweatherill"
+        ],
+        "urls": [],
+        "user": "2475118068"
+    },
+    "973271196048408576": {
+        "hashtags": [],
+        "idx": 237,
+        "label": true,
+        "mentions": [
+            "anderson_lainie"
+        ],
+        "urls": [
+            "https://t.co/ncvmmo0swy"
+        ],
+        "user": "93818188"
+    },
+    "973285857472819201": {
+        "hashtags": [],
+        "idx": 238,
+        "label": false,
+        "mentions": [
+            "liberalaus"
+        ],
+        "urls": [
+            "https://t.co/g8zour3gzt"
+        ],
+        "user": "458143848"
+    },
+    "973290251304054784": {
+        "hashtags": [],
+        "idx": 239,
+        "label": true,
+        "mentions": [
+            "nick_xenophon",
+            "maynereport"
+        ],
+        "urls": [
+            "https://t.co/kxesswgr2t"
+        ],
+        "user": "96921828"
+    },
+    "973290283407495171": {
+        "hashtags": [],
+        "idx": 240,
+        "label": false,
+        "mentions": [
+            "theguitardr",
+            "prestightrhymes",
+            "amylu41"
+        ],
+        "urls": [
+            "https://t.co/hhvltgp3ip"
+        ],
+        "user": "74551872"
+    },
+    "973290530908983296": {
+        "hashtags": [],
+        "idx": 241,
+        "label": false,
+        "mentions": [
+            "political_alert",
+            "billshortenmp"
+        ],
+        "urls": [
+            "https://t.co/4afvwvuha2"
+        ],
+        "user": "417047832"
+    },
+    "973291708606693376": {
+        "hashtags": [],
+        "idx": 242,
+        "label": true,
+        "mentions": [],
+        "urls": [],
+        "user": "22330292"
+    },
+    "973293517433856000": {
+        "hashtags": [],
+        "idx": 243,
+        "label": false,
+        "mentions": [
+            "auconservatives",
+            "eg_holm",
+            "corybernardi"
+        ],
+        "urls": [],
+        "user": "1420489382"
+    },
+    "973294587778396160": {
+        "hashtags": [],
+        "idx": 244,
+        "label": false,
+        "mentions": [],
+        "urls": [
+            "https://t.co/eykxap8yf9"
+        ],
+        "user": "26516426"
+    },
+    "973294948643610624": {
+        "hashtags": [
+            "savotes"
+        ],
+        "idx": 245,
+        "label": true,
+        "mentions": [
+            "nick_xenophon"
+        ],
+        "urls": [
+            "https://t.co/sqwnydwo3d"
+        ],
+        "user": "96921828"
+    },
+    "973295148879630341": {
+        "hashtags": [],
+        "idx": 246,
+        "label": true,
+        "mentions": [
+            "alpsa"
+        ],
+        "urls": [],
+        "user": "706076432"
+    },
+    "973295311350214657": {
+        "hashtags": [],
+        "idx": 247,
+        "label": false,
+        "mentions": [],
+        "urls": [
+            "https://t.co/hjtdualkus"
+        ],
+        "user": "43525891"
+    },
+    "973295835051012096": {
+        "hashtags": [
+            "savotes2018"
+        ],
+        "idx": 248,
+        "label": true,
+        "mentions": [
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "51929713"
+    },
+    "973296055889551360": {
+        "hashtags": [],
+        "idx": 249,
+        "label": true,
+        "mentions": [
+            "michalakiscon"
+        ],
+        "urls": [],
+        "user": "140417519"
+    },
+    "973296569373024256": {
+        "hashtags": [
+            "auspol"
+        ],
+        "idx": 250,
+        "label": false,
+        "mentions": [
+            "anusha_srini"
+        ],
+        "urls": [
+            "https://t.co/cgtmtfjnt5"
+        ],
+        "user": "168414804"
+    },
+    "973297180822745088": {
+        "hashtags": [
+            "savotes2018"
+        ],
+        "idx": 251,
+        "label": true,
+        "mentions": [
+            "davidpisonimp",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "93818188"
+    },
+    "973298312362147841": {
+        "hashtags": [],
+        "idx": 252,
+        "label": false,
+        "mentions": [
+            "alexhbeech",
+            "unionsaustralia",
+            "mathiascormann"
+        ],
+        "urls": [
+            "https://t.co/knb1w3pezi"
+        ],
+        "user": "417047832"
+    },
+    "973301780535635969": {
+        "hashtags": [],
+        "idx": 253,
+        "label": false,
+        "mentions": [
+            "unionsaustralia"
+        ],
+        "urls": [
+            "https://t.co/08spkwlvs9"
+        ],
+        "user": "417047832"
+    },
+    "973303064495980544": {
+        "hashtags": [],
+        "idx": 254,
+        "label": false,
+        "mentions": [
+            "michalakiscon",
+            "tkoutsantonismp"
+        ],
+        "urls": [
+            "https://t.co/uts1yb97gq"
+        ],
+        "user": "971179096666292224"
+    },
+    "973303671315296256": {
+        "hashtags": [],
+        "idx": 255,
+        "label": false,
+        "mentions": [
+            "pleaseuseaussie",
+            "mooby_doo",
+            "corybernardi",
+            "travlic",
+            "pmonair"
+        ],
+        "urls": [],
+        "user": "2836269756"
+    },
+    "973303683126448128": {
+        "hashtags": [],
+        "idx": 256,
+        "label": false,
+        "mentions": [
+            "nick_xenophon",
+            "abcfactcheck",
+            "turnbullmalcolm",
+            "rndrive",
+            "del_irani",
+            "abcnews",
+            "abcadelaide"
+        ],
+        "urls": [
+            "https://t.co/7ljtamfs2v"
+        ],
+        "user": "61148700"
+    },
+    "973304823612293120": {
+        "hashtags": [
+            "savotes2018"
+        ],
+        "idx": 257,
+        "label": true,
+        "mentions": [
+            "davidpisonimp",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "1010345690"
+    },
+    "973306744561483776": {
+        "hashtags": [
+            "springst",
+            "auspol",
+            "qldpol",
+            "nswpol",
+            "sapol",
+            "wapol"
+        ],
+        "idx": 258,
+        "label": false,
+        "mentions": [
+            "jackthelad1947"
+        ],
+        "urls": [],
+        "user": "941376384433192960"
+    },
+    "973309230609440768": {
+        "hashtags": [],
+        "idx": 259,
+        "label": false,
+        "mentions": [
+            "lynlinking",
+            "nobby15",
+            "ladypoop2",
+            "ricklevy67",
+            "realdonaldtrump",
+            "randlight",
+            "turnbullmalcolm",
+            "marshall_steven",
+            "bellafl",
+            "rbjron",
+            "maggieatlas"
+        ],
+        "urls": [],
+        "user": "822060714080636931"
+    },
+    "973309447509430273": {
+        "hashtags": [
+            "savotes2018"
+        ],
+        "idx": 260,
+        "label": true,
+        "mentions": [
+            "davidpisonimp",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "1335572714"
+    },
+    "973310919815000066": {
+        "hashtags": [],
+        "idx": 261,
+        "label": true,
+        "mentions": [
+            "marshall_steven"
+        ],
+        "urls": [
+            "https://t.co/ro0hg7xyvw"
+        ],
+        "user": "1335572714"
+    },
+    "973311006473519104": {
+        "hashtags": [],
+        "idx": 262,
+        "label": true,
+        "mentions": [
+            "salibmedia",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "51929713"
+    },
+    "973311352767787008": {
+        "hashtags": [],
+        "idx": 263,
+        "label": true,
+        "mentions": [
+            "salibmedia",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "326520794"
+    },
+    "973311563741327361": {
+        "hashtags": [],
+        "idx": 264,
+        "label": false,
+        "mentions": [
+            "pmonair",
+            "corybernardi",
+            "notadelethedel"
+        ],
+        "urls": [],
+        "user": "15206127"
+    },
+    "973311640086065152": {
+        "hashtags": [],
+        "idx": 265,
+        "label": true,
+        "mentions": [
+            "salibmedia",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "93818188"
+    },
+    "973311779240423424": {
+        "hashtags": [],
+        "idx": 266,
+        "label": true,
+        "mentions": [],
+        "urls": [
+            "https://t.co/wmz9orokhw"
+        ],
+        "user": "353990108"
+    },
+    "973312044098179072": {
+        "hashtags": [],
+        "idx": 267,
+        "label": true,
+        "mentions": [
+            "billshortenmp"
+        ],
+        "urls": [],
+        "user": "706076432"
+    },
+    "973312215464857601": {
+        "hashtags": [
+            "savotes2018"
+        ],
+        "idx": 268,
+        "label": true,
+        "mentions": [
+            "davidpisonimp",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "326520794"
+    },
+    "973312305067737088": {
+        "hashtags": [],
+        "idx": 269,
+        "label": true,
+        "mentions": [
+            "davidpisonimp"
+        ],
+        "urls": [],
+        "user": "326520794"
+    },
+    "973312562400960512": {
+        "hashtags": [],
+        "idx": 270,
+        "label": false,
+        "mentions": [
+            "alpsa"
+        ],
+        "urls": [],
+        "user": "854539897171976193"
+    },
+    "973312761127100416": {
+        "hashtags": [
+            "savotes2018",
+            "don",
+            "ratecapping"
+        ],
+        "idx": 271,
+        "label": false,
+        "mentions": [
+            "lgaofsa",
+            "sacoss"
+        ],
+        "urls": [
+            "https://t.co/1cmlc1akfz"
+        ],
+        "user": "552683977"
+    },
+    "973313485164593152": {
+        "hashtags": [],
+        "idx": 272,
+        "label": true,
+        "mentions": [
+            "craig__davis",
+            "2hdor",
+            "cutloose11"
+        ],
+        "urls": [],
+        "user": "140417519"
+    },
+    "973314600765566976": {
+        "hashtags": [
+            "savotes2018",
+            "auspol"
+        ],
+        "idx": 273,
+        "label": true,
+        "mentions": [
+            "thetiser"
+        ],
+        "urls": [
+            "https://t.co/idptqgk7ew"
+        ],
+        "user": "706076432"
+    },
+    "973315885531189248": {
+        "hashtags": [],
+        "idx": 274,
+        "label": true,
+        "mentions": [
+            "nick_xenophon",
+            "turnbullmalcolm",
+            "saunions",
+            "abcfactcheck"
+        ],
+        "urls": [],
+        "user": "922981570335481856"
+    },
+    "973316217439109121": {
+        "hashtags": [],
+        "idx": 275,
+        "label": false,
+        "mentions": [
+            "auconservatives",
+            "eg_holm",
+            "corybernardi"
+        ],
+        "urls": [
+            "https://t.co/eyb8wmphwf"
+        ],
+        "user": "1420489382"
+    },
+    "973317621192966144": {
+        "hashtags": [],
+        "idx": 276,
+        "label": true,
+        "mentions": [
+            "salibmedia",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "1605357078"
+    },
+    "973317697625735168": {
+        "hashtags": [
+            "sapol",
+            "auspol"
+        ],
+        "idx": 277,
+        "label": false,
+        "mentions": [
+            "paulnaustin"
+        ],
+        "urls": [
+            "https://t.co/w1mxmnu4rp"
+        ],
+        "user": "3158539489"
+    },
+    "973318168029446144": {
+        "hashtags": [
+            "savotes"
+        ],
+        "idx": 278,
+        "label": true,
+        "mentions": [
+            "nick_xenophon",
+            "tammymlc"
+        ],
+        "urls": [],
+        "user": "42519805"
+    },
+    "973318625275756545": {
+        "hashtags": [
+            "adelaide",
+            "southaustralia",
+            "frontpagestoday"
+        ],
+        "idx": 279,
+        "label": true,
+        "mentions": [
+            "gregbarila",
+            "thetiser"
+        ],
+        "urls": [],
+        "user": "734642828198973441"
+    },
+    "973318863197691904": {
+        "hashtags": [
+            "savotes2018"
+        ],
+        "idx": 280,
+        "label": true,
+        "mentions": [
+            "davidpisonimp",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "734642828198973441"
+    },
+    "973320224584773632": {
+        "hashtags": [
+            "zoebettison",
+            "homeless",
+            "saparli"
+        ],
+        "idx": 281,
+        "label": true,
+        "mentions": [],
+        "urls": [],
+        "user": "734642828198973441"
+    },
+    "973320297175695361": {
+        "hashtags": [
+            "realchange",
+            "voteliberal"
+        ],
+        "idx": 282,
+        "label": true,
+        "mentions": [],
+        "urls": [],
+        "user": "3302130606"
+    },
+    "973320769399791616": {
+        "hashtags": [
+            "homeless",
+            "saparli"
+        ],
+        "idx": 283,
+        "label": true,
+        "mentions": [],
+        "urls": [],
+        "user": "734642828198973441"
+    },
+    "973320840623177729": {
+        "hashtags": [
+            "savotes",
+            "savo"
+        ],
+        "idx": 284,
+        "label": false,
+        "mentions": [
+            "thetiser"
+        ],
+        "urls": [
+            "https://t.co/0kae13rkuw"
+        ],
+        "user": "320692744"
+    },
+    "973320972164935681": {
+        "hashtags": [],
+        "idx": 285,
+        "label": false,
+        "mentions": [],
+        "urls": [
+            "https://t.co/luxlrgbszb"
+        ],
+        "user": "9609582"
+    },
+    "973320983909105664": {
+        "hashtags": [
+            "climatechange"
+        ],
+        "idx": 286,
+        "label": false,
+        "mentions": [],
+        "urls": [
+            "https://t.co/zkecostiiv"
+        ],
+        "user": "16958346"
+    },
+    "973321432355631104": {
+        "hashtags": [
+            "labor",
+            "homeless",
+            "saparli"
+        ],
+        "idx": 287,
+        "label": true,
+        "mentions": [],
+        "urls": [],
+        "user": "734642828198973441"
+    },
+    "973322227213991936": {
+        "hashtags": [],
+        "idx": 288,
+        "label": true,
+        "mentions": [
+            "salibmedia",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "970943839"
+    },
+    "973322301906169856": {
+        "hashtags": [
+            "savotes",
+            "savo"
+        ],
+        "idx": 289,
+        "label": true,
+        "mentions": [
+            "thetiser"
+        ],
+        "urls": [
+            "https://t.co/0kae13rkuw"
+        ],
+        "user": "51929713"
+    },
+    "973322307774001153": {
+        "hashtags": [
+            "labor",
+            "housingtrust",
+            "dutyofcare",
+            "homeless",
+            "saparli"
+        ],
+        "idx": 290,
+        "label": true,
+        "mentions": [
+            "labor"
+        ],
+        "urls": [],
+        "user": "734642828198973441"
+    },
+    "973322539551240192": {
+        "hashtags": [],
+        "idx": 291,
+        "label": true,
+        "mentions": [
+            "billshortenmp",
+            "alpsa"
+        ],
+        "urls": [
+            "https://t.co/hqrhc9ul88"
+        ],
+        "user": "892139262"
+    },
+    "973322613664636929": {
+        "hashtags": [
+            "adelaide"
+        ],
+        "idx": 292,
+        "label": true,
+        "mentions": [],
+        "urls": [],
+        "user": "970943839"
+    },
+    "973324453353480193": {
+        "hashtags": [],
+        "idx": 293,
+        "label": false,
+        "mentions": [
+            "jimmymalecki",
+            "lyleshelton",
+            "rightslgbti",
+            "auconservatives",
+            "stephenhyland"
+        ],
+        "urls": [
+            "https://t.co/w4lw7qq35m"
+        ],
+        "user": "868336402764660736"
+    },
+    "973324964337147904": {
+        "hashtags": [],
+        "idx": 294,
+        "label": true,
+        "mentions": [
+            "barossaherald"
+        ],
+        "urls": [
+            "https://t.co/5oafrpoaw6"
+        ],
+        "user": "116989814"
+    },
+    "973325709266501632": {
+        "hashtags": [
+            "workplacedeath",
+            "inquest"
+        ],
+        "idx": 295,
+        "label": true,
+        "mentions": [
+            "whathappendtone",
+            "bykemp"
+        ],
+        "urls": [],
+        "user": "1227186560"
+    },
+    "973326189556150272": {
+        "hashtags": [],
+        "idx": 296,
+        "label": true,
+        "mentions": [
+            "richard_conway"
+        ],
+        "urls": [],
+        "user": "140417519"
+    },
+    "973326305788768256": {
+        "hashtags": [],
+        "idx": 297,
+        "label": false,
+        "mentions": [
+            "auconservatives",
+            "eg_holm",
+            "corybernardi"
+        ],
+        "urls": [
+            "https://t.co/saz0lsziac"
+        ],
+        "user": "1420489382"
+    },
+    "973326534898434049": {
+        "hashtags": [],
+        "idx": 298,
+        "label": true,
+        "mentions": [],
+        "urls": [
+            "https://t.co/vdovjwpkgl"
+        ],
+        "user": "929372492"
+    },
+    "973326563998515200": {
+        "hashtags": [
+            "voteliberal"
+        ],
+        "idx": 299,
+        "label": true,
+        "mentions": [],
+        "urls": [
+            "https://t.co/uu9bjmizoo"
+        ],
+        "user": "213487359"
+    },
+    "973326692583333889": {
+        "hashtags": [],
+        "idx": 300,
+        "label": true,
+        "mentions": [
+            "adambandt"
+        ],
+        "urls": [],
+        "user": "42519805"
+    },
+    "973326917121204224": {
+        "hashtags": [],
+        "idx": 301,
+        "label": true,
+        "mentions": [
+            "alanmurrellten",
+            "tennewsadel"
+        ],
+        "urls": [],
+        "user": "706076432"
+    },
+    "973326928730931200": {
+        "hashtags": [],
+        "idx": 302,
+        "label": true,
+        "mentions": [
+            "wsssouthaus",
+            "cotasouthaus",
+            "jmussared",
+            "ennader"
+        ],
+        "urls": [],
+        "user": "161100686"
+    },
+    "973327749065580544": {
+        "hashtags": [],
+        "idx": 303,
+        "label": false,
+        "mentions": [
+            "sam_sabest"
+        ],
+        "urls": [
+            "https://t.co/j5wjl6duuf"
+        ],
+        "user": "168578430"
+    },
+    "973328640837533697": {
+        "hashtags": [],
+        "idx": 304,
+        "label": true,
+        "mentions": [],
+        "urls": [
+            "https://t.co/faqt3eeqmh"
+        ],
+        "user": "1227186560"
+    },
+    "973329231290630147": {
+        "hashtags": [],
+        "idx": 305,
+        "label": true,
+        "mentions": [
+            "alanmurrellten",
+            "tennewsadel"
+        ],
+        "urls": [],
+        "user": "1092202669"
+    },
+    "973329713396563968": {
+        "hashtags": [],
+        "idx": 306,
+        "label": false,
+        "mentions": [
+            "senatorwong",
+            "jayweatherill"
+        ],
+        "urls": [],
+        "user": "220883243"
+    },
+    "973330107782721536": {
+        "hashtags": [],
+        "idx": 307,
+        "label": false,
+        "mentions": [],
+        "urls": [
+            "https://t.co/qd3dbxa67x"
+        ],
+        "user": "2995500181"
+    },
+    "973330310115938304": {
+        "hashtags": [],
+        "idx": 308,
+        "label": false,
+        "mentions": [
+            "auconservatives",
+            "eg_holm",
+            "corybernardi"
+        ],
+        "urls": [
+            "https://t.co/ksfyoi4bpt"
+        ],
+        "user": "1420489382"
+    },
+    "973330599430668288": {
+        "hashtags": [],
+        "idx": 309,
+        "label": false,
+        "mentions": [],
+        "urls": [
+            "https://t.co/qqpi8nrday"
+        ],
+        "user": "1113341312"
+    },
+    "973330801910689792": {
+        "hashtags": [],
+        "idx": 310,
+        "label": true,
+        "mentions": [
+            "dannygreenboxer"
+        ],
+        "urls": [
+            "https://t.co/wvzczvm6aj"
+        ],
+        "user": "706076432"
+    },
+    "973330882466521089": {
+        "hashtags": [],
+        "idx": 311,
+        "label": true,
+        "mentions": [
+            "alanmurrellten",
+            "tennewsadel"
+        ],
+        "urls": [],
+        "user": "140417519"
+    },
+    "973331388177895425": {
+        "hashtags": [],
+        "idx": 312,
+        "label": false,
+        "mentions": [
+            "nick_xenophon",
+            "2teabags",
+            "goldingfrank",
+            "catholic",
+            "deansmithwa",
+            "clan_au",
+            "jayweatherill",
+            "humanheadline",
+            "eternitynews"
+        ],
+        "urls": [],
+        "user": "2844821060"
+    },
+    "973333137278124033": {
+        "hashtags": [],
+        "idx": 313,
+        "label": true,
+        "mentions": [
+            "buzzfeedozpol"
+        ],
+        "urls": [],
+        "user": "94019549"
+    },
+    "973334321128923136": {
+        "hashtags": [],
+        "idx": 314,
+        "label": false,
+        "mentions": [
+            "paulinehansonoz",
+            "realmarklatham",
+            "rowandean",
+            "corybernardi",
+            "theboltreport",
+            "turnbullmalcolm",
+            "aupolnews",
+            "alanjones"
+        ],
+        "urls": [
+            "https://t.co/ylw4s4zrz6"
+        ],
+        "user": "910378326187012103"
+    },
+    "973336636879589377": {
+        "hashtags": [],
+        "idx": 315,
+        "label": false,
+        "mentions": [
+            "nick_xenophon"
+        ],
+        "urls": [
+            "https://t.co/1ulntjfps3"
+        ],
+        "user": "967451591438688256"
+    },
+    "973336790907084800": {
+        "hashtags": [],
+        "idx": 316,
+        "label": true,
+        "mentions": [
+            "salibmedia",
+            "marshall_steven"
+        ],
+        "urls": [],
+        "user": "116989814"
+    },
+    "973338526925316097": {
+        "hashtags": [],
+        "idx": 317,
+        "label": false,
+        "mentions": [
+            "alpsa"
+        ],
+        "urls": [],
+        "user": "827043384518856707"
+    },
+    "973339730346614785": {
+        "hashtags": [],
+        "idx": 318,
+        "label": true,
+        "mentions": [
+            "aleighmp"
+        ],
+        "urls": [],
+        "user": "140417519"
+    },
+    "973340433395822592": {
+        "hashtags": [],
+        "idx": 319,
+        "label": false,
+        "mentions": [
+            "auconservatives",
+            "redbaiternz",
+            "drrachelmp"
+        ],
+        "urls": [
+            "https://t.co/pscufaohma"
+        ],
+        "user": "3078836653"
+    },
+    "973340843829477376": {
+        "hashtags": [],
+        "idx": 320,
+        "label": false,
+        "mentions": [
+            "fn1bruva",
+            "simba_83",
+            "yvesthevenot",
+            "auconservatives",
+            "gip1972",
+            "_cropes_",
+            "rlalbrechttroy",
+            "vlverdi71",
+            "hckgyanganj"
+        ],
+        "urls": [
+            "https://t.co/7zjqnxohzo"
+        ],
+        "user": "966599226779090944"
+    },
+    "973342230059671552": {
+        "hashtags": [],
+        "idx": 321,
+        "label": false,
+        "mentions": [],
+        "urls": [
+            "https://t.co/toszsqv1im"
+        ],
+        "user": "23373409"
+    },
+    "973343372294348800": {
+        "hashtags": [],
+        "idx": 322,
+        "label": false,
+        "mentions": [
+            "auconservatives",
+            "onenationaus",
+            "megorical"
+        ],
+        "urls": [
+            "https://t.co/0ktgruhxap"
+        ],
+        "user": "2408008634"
+    },
+    "973346395867439104": {
+        "hashtags": [],
+        "idx": 323,
+        "label": true,
+        "mentions": [],
+        "urls": [
+            "https://t.co/pbuixfpojq"
+        ],
+        "user": "1227186560"
+    },
+    "973346779805630464": {
+        "hashtags": [],
+        "idx": 324,
+        "label": false,
+        "mentions": [
+            "senatorfifield",
+            "auconservatives",
+            "corybernardi",
+            "davidmcg63"
+        ],
+        "urls": [],
+        "user": "67950946"
+    },
+    "973346854074068992": {
+        "hashtags": [],
+        "idx": 325,
+        "label": true,
+        "mentions": [
+            "elisakblack"
+        ],
+        "urls": [
+            "https://t.co/h4kuvzhs3i"
+        ],
+        "user": "2827272468"
+    }
+}

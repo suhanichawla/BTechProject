@@ -1,0 +1,4933 @@
+{
+    "975884992877248516": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/theboltreport/\u2026",
+                    "expanded_url": "https://twitter.com/theboltreport/status/975667184683728896",
+                    "indices": [
+                        79,
+                        102
+                    ],
+                    "url": "https://t.co/2qhmrL62HY"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 00:01:28",
+        "tweet_id": 975884992877248516,
+        "tweet_text": "Well that did not take long... how long before coal power plants reintroduced. https://t.co/2qhmrL62HY",
+        "user": "755331799027331072"
+    },
+    "975885157440933888": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        131,
+                        138
+                    ],
+                    "text": "auspol"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 4553061,
+                    "id_str": "4553061",
+                    "indices": [
+                        8,
+                        23
+                    ],
+                    "name": "\ud83d\udc9a\ud83c\udf0f Sarah Hanson-Young",
+                    "screen_name": "sarahinthesen8"
+                },
+                {
+                    "id": 37611292,
+                    "id_str": "37611292",
+                    "indices": [
+                        30,
+                        46
+                    ],
+                    "name": "Richard Di Natale",
+                    "screen_name": "RichardDiNatale"
+                },
+                {
+                    "id": 1461512112,
+                    "id_str": "1461512112",
+                    "indices": [
+                        67,
+                        81
+                    ],
+                    "name": "Nick Xenophon",
+                    "screen_name": "Nick_Xenophon"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2DF1gQO",
+                    "expanded_url": "http://bit.ly/2DF1gQO",
+                    "indices": [
+                        107,
+                        130
+                    ],
+                    "url": "https://t.co/TpSXygomyP"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "timestamp": "2018-03-20 00:02:07",
+        "tweet_id": 975885157440933888,
+        "tweet_text": "Senator @sarahinthesen8 talks @RichardDiNatale, the Dalai Lama and @Nick_Xenophon \nin our podcast The Whip https://t.co/TpSXygomyP #auspol",
+        "user": "26417909"
+    },
+    "975886168507146240": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 1700487464,
+                    "id_str": "1700487464",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "Nick Schadegg",
+                    "screen_name": "nickschadegg"
+                },
+                {
+                    "id": 9609582,
+                    "id_str": "9609582",
+                    "indices": [
+                        27,
+                        36
+                    ],
+                    "name": "The Advertiser",
+                    "screen_name": "theTiser"
+                },
+                {
+                    "id": 350707926,
+                    "id_str": "350707926",
+                    "indices": [
+                        37,
+                        51
+                    ],
+                    "name": "Jay Weatherill",
+                    "screen_name": "JayWeatherill"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975886168507146240",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/86xdgygImZ"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "timestamp": "2018-03-20 00:06:08",
+        "tweet_id": 975886168507146240,
+        "tweet_text": "@nickschadegg @Matt_R_Golf @theTiser @JayWeatherill Really! Well, if Jay had got back in it would be fixed accordin\u2026 https://t.co/86xdgygImZ",
+        "user": "865376897282080768"
+    },
+    "975892340685459457": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        62,
+                        70
+                    ],
+                    "text": "yeahnah"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 21348764,
+                    "id_str": "21348764",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "name": "Tom Richardson",
+                    "screen_name": "TomRichardson"
+                },
+                {
+                    "id": 21268969,
+                    "id_str": "21268969",
+                    "indices": [
+                        15,
+                        27
+                    ],
+                    "name": "Matthew Abraham",
+                    "screen_name": "KevCorduroy"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 00:30:39",
+        "tweet_id": 975892340685459457,
+        "tweet_text": "@TomRichardson @KevCorduroy well, it is his birthday today... #yeahnah",
+        "user": "96921828"
+    },
+    "975892460080541697": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 20428963,
+                    "id_str": "20428963",
+                    "indices": [
+                        3,
+                        12
+                    ],
+                    "name": "Petra Starke \ud83c\udf1f\ud83d\udddd",
+                    "screen_name": "petstarr"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 3,
+        "retweeted": false,
+        "timestamp": "2018-03-20 00:31:08",
+        "tweet_id": 975892460080541697,
+        "tweet_text": "RT @petstarr: Kim Cattrall: ...and THERE'S the final nail in the coffin of Sex and the City 3! \nCynthia Nixon: Hold my beer.",
+        "user": "96921828"
+    },
+    "975892694173011968": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 3255049014,
+                    "id_str": "3255049014",
+                    "indices": [
+                        3,
+                        19
+                    ],
+                    "name": "Anti-Poverty Network SA",
+                    "screen_name": "AntiPovertyN_SA"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 8,
+        "retweeted": false,
+        "timestamp": "2018-03-20 00:32:04",
+        "tweet_id": 975892694173011968,
+        "tweet_text": "RT @AntiPovertyN_SA: A reminder that Newstart is more than $160 PER WEEK below the poverty line.\n\n50c really doesn\u2019t cut it.\n\n#increaseNews\u2026",
+        "user": "96921828"
+    },
+    "975893075821129728": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 1461512112,
+                    "id_str": "1461512112",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "name": "Nick Xenophon",
+                    "screen_name": "Nick_Xenophon"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975893075821129728",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/bmOfa7WtqK"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 00:33:35",
+        "tweet_id": 975893075821129728,
+        "tweet_text": "@Nick_Xenophon in 2009 you proposed a bill to make labelling of Palm Oil mandatory.... at the time, you said you wo\u2026 https://t.co/bmOfa7WtqK",
+        "user": "18349531"
+    },
+    "975893088412422144": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 15486485,
+                    "id_str": "15486485",
+                    "indices": [
+                        3,
+                        14
+                    ],
+                    "name": "Asher Wolf",
+                    "screen_name": "Asher_Wolf"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sbs.com.au/nitv/nitv-news\u2026",
+                    "expanded_url": "https://www.sbs.com.au/nitv/nitv-news/article/2017/05/02/cashless-welfare-card-trials-costing-189m-figures-reveal",
+                    "indices": [
+                        77,
+                        100
+                    ],
+                    "url": "https://t.co/ASyAiZ6KZm"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 53,
+        "retweeted": false,
+        "timestamp": "2018-03-20 00:33:38",
+        "tweet_id": 975893088412422144,
+        "tweet_text": "RT @Asher_Wolf: Cashless welfare card trials costing $18.9m, figures reveal  https://t.co/ASyAiZ6KZm",
+        "user": "96921828"
+    },
+    "975894320891936769": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 3113085789,
+                    "id_str": "3113085789",
+                    "indices": [
+                        3,
+                        13
+                    ],
+                    "name": "Shelter SA",
+                    "screen_name": "ShelterSa"
+                },
+                {
+                    "id": 36534770,
+                    "id_str": "36534770",
+                    "indices": [
+                        31,
+                        47
+                    ],
+                    "name": "Vickie Chapman",
+                    "screen_name": "VickieChapmanMP"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 6,
+        "retweeted": false,
+        "timestamp": "2018-03-20 00:38:31",
+        "tweet_id": 975894320891936769,
+        "tweet_text": "RT @ShelterSa: Congratulations @VickieChapmanMP South Australia's first woman as Deputy Premier! Excellent news and we look forward to work\u2026",
+        "user": "270642847"
+    },
+    "975894476072804352": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 89638713,
+                    "id_str": "89638713",
+                    "indices": [
+                        3,
+                        9
+                    ],
+                    "name": "Domestic Violence Resource Centre Victoria",
+                    "screen_name": "dvrcv"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 50,
+        "retweeted": false,
+        "timestamp": "2018-03-20 00:39:08",
+        "tweet_id": 975894476072804352,
+        "tweet_text": "RT @dvrcv: Australia Post is now offering free PO boxes and 12-month mail direction to victim survivors of family violence. We'd like to gi\u2026",
+        "user": "270642847"
+    },
+    "975895693725323266": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 2295997100,
+                    "id_str": "2295997100",
+                    "indices": [
+                        3,
+                        16
+                    ],
+                    "name": "Deb Kirby",
+                    "screen_name": "DuchessFrida"
+                },
+                {
+                    "id": 350707926,
+                    "id_str": "350707926",
+                    "indices": [
+                        73,
+                        87
+                    ],
+                    "name": "Jay Weatherill",
+                    "screen_name": "JayWeatherill"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 42,
+        "retweeted": false,
+        "timestamp": "2018-03-20 00:43:59",
+        "tweet_id": 975895693725323266,
+        "tweet_text": "RT @DuchessFrida: Hey Twitter, good to see so many are disappointed that @JayWeatherill &amp; Labor were unable to form a govt on Saturday. I s\u2026",
+        "user": "1253249515"
+    },
+    "975896255485247488": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 310872365,
+                    "id_str": "310872365",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "name": "\u2651\ufe0f Mark \ud83c\udfa7\ud83c\udfb6\ud83d\udc7d\ud83c\udfc9\ud83d\udd34\u26aa\ufe0f\ud83d\udc99",
+                    "screen_name": "WorldOfMarkyD"
+                },
+                {
+                    "id": 1335572714,
+                    "id_str": "1335572714",
+                    "indices": [
+                        15,
+                        26
+                    ],
+                    "name": "SA Liberal Media",
+                    "screen_name": "SALibMedia"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975896255485247488",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "url": "https://t.co/2G48zbwlbQ"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "timestamp": "2018-03-20 00:46:13",
+        "tweet_id": 975896255485247488,
+        "tweet_text": "@WorldOfMarkyD @SALibMedia zero about protecting the security reliability of SA Power 4Business&amp;homes just more Cor\u2026 https://t.co/2G48zbwlbQ",
+        "user": "762373104"
+    },
+    "975896500717826048": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 971716375,
+                    "id_str": "971716375",
+                    "indices": [
+                        0,
+                        8
+                    ],
+                    "name": "ilox\ud83c\udde6\ud83c\uddfa\ud83d\udc89\ud83d\udc89",
+                    "screen_name": "ilox101"
+                },
+                {
+                    "id": 1132832803,
+                    "id_str": "1132832803",
+                    "indices": [
+                        9,
+                        22
+                    ],
+                    "name": "Tony Windsor",
+                    "screen_name": "TonyHWindsor"
+                },
+                {
+                    "id": 93818188,
+                    "id_str": "93818188",
+                    "indices": [
+                        23,
+                        39
+                    ],
+                    "name": "Steven Marshall, MP",
+                    "screen_name": "marshall_steven"
+                },
+                {
+                    "id": 16734909,
+                    "id_str": "16734909",
+                    "indices": [
+                        40,
+                        56
+                    ],
+                    "name": "Malcolm Turnbull \ud83d\udc89\ud83d\udc89",
+                    "screen_name": "TurnbullMalcolm"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975896500717826048",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/fD09Qgx6CE"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 00:47:11",
+        "tweet_id": 975896500717826048,
+        "tweet_text": "@ilox101 @TonyHWindsor @marshall_steven @TurnbullMalcolm You are correct to ask that question? Maybe just to.pla at\u2026 https://t.co/fD09Qgx6CE",
+        "user": "1087229905"
+    },
+    "975897026473771008": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 140417519,
+                    "id_str": "140417519",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "name": "Tom Koutsantonis MP",
+                    "screen_name": "TKoutsantonisMP"
+                },
+                {
+                    "id": 924745282310434816,
+                    "id_str": "924745282310434816",
+                    "indices": [
+                        17,
+                        33
+                    ],
+                    "name": "Valerie C \ud83c\udf39 #It'sTime \ud83e\udda0\ud83e\udda0",
+                    "screen_name": "ValerieLynneCl2"
+                },
+                {
+                    "id": 16834659,
+                    "id_str": "16834659",
+                    "indices": [
+                        34,
+                        46
+                    ],
+                    "name": "Sky News Australia",
+                    "screen_name": "SkyNewsAust"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975897026473771008",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/HznGEt8ycH"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "timestamp": "2018-03-20 00:49:17",
+        "tweet_id": 975897026473771008,
+        "tweet_text": "@TKoutsantonisMP @ValerieLynneCl2 @SkyNewsAust I dont see why they are making a big deal out of that Tom.  Just typ\u2026 https://t.co/HznGEt8ycH",
+        "user": "172279923"
+    },
+    "975902918640467968": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        16,
+                        21
+                    ],
+                    "text": "saec"
+                },
+                {
+                    "indices": [
+                        47,
+                        59
+                    ],
+                    "text": "savotes2018"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 1470701733026275331,
+                    "id_str": "1470701733026275331",
+                    "indices": [
+                        0,
+                        15
+                    ],
+                    "name": "Antony Green",
+                    "screen_name": "AntonyGreenABC"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 01:12:41",
+        "tweet_id": 975902918640467968,
+        "tweet_text": "@AntonyGreenABC #saec has labor ahead in King  #savotes2018",
+        "user": "33356978"
+    },
+    "975903735632162816": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 276829665,
+                    "id_str": "276829665",
+                    "indices": [
+                        0,
+                        9
+                    ],
+                    "name": "Sue greyhound Mum \u2733\ufe0f\u2733\ufe0f",
+                    "screen_name": "suechook"
+                },
+                {
+                    "id": 3122406852,
+                    "id_str": "3122406852",
+                    "indices": [
+                        10,
+                        26
+                    ],
+                    "name": "David & Will",
+                    "screen_name": "FIVEaaBreakfast"
+                },
+                {
+                    "id": 35992483,
+                    "id_str": "35992483",
+                    "indices": [
+                        27,
+                        38
+                    ],
+                    "name": "FIVEaa",
+                    "screen_name": "1395FIVEaa"
+                },
+                {
+                    "id": 432048881,
+                    "id_str": "432048881",
+                    "indices": [
+                        39,
+                        49
+                    ],
+                    "name": "Josh Peak",
+                    "screen_name": "Josh_Peak"
+                },
+                {
+                    "id": 93818188,
+                    "id_str": "93818188",
+                    "indices": [
+                        70,
+                        86
+                    ],
+                    "name": "Steven Marshall, MP",
+                    "screen_name": "marshall_steven"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 01:15:56",
+        "tweet_id": 975903735632162816,
+        "tweet_text": "@suechook @FIVEaaBreakfast @1395FIVEaa @Josh_Peak Very good point.  \ud83d\udc4d\ud83d\udc4d@marshall_steven",
+        "user": "144831028"
+    },
+    "975907044979961856": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        84,
+                        92
+                    ],
+                    "text": "savotes"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 139328853,
+                    "id_str": "139328853",
+                    "indices": [
+                        3,
+                        16
+                    ],
+                    "name": "Dr Queen Victoria",
+                    "screen_name": "Vic_Rollison"
+                },
+                {
+                    "id": 589524984,
+                    "id_str": "589524984",
+                    "indices": [
+                        98,
+                        113
+                    ],
+                    "name": "Joe Hinchliffe",
+                    "screen_name": "joe_hinchliffe"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 35,
+        "retweeted": false,
+        "timestamp": "2018-03-20 01:29:05",
+        "tweet_id": 975907044979961856,
+        "tweet_text": "RT @Vic_Rollison: Interested by your use of the word \u2018drubbing\u2019 to describe Labor\u2019s #savotes loss @joe_hinchliffe. Do you really think a sw\u2026",
+        "user": "1689790236"
+    },
+    "975908084265639936": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        40,
+                        50
+                    ],
+                    "text": "StopAdani"
+                },
+                {
+                    "indices": [
+                        56,
+                        70
+                    ],
+                    "text": "ClimateChange"
+                },
+                {
+                    "indices": [
+                        72,
+                        79
+                    ],
+                    "text": "auspol"
+                },
+                {
+                    "indices": [
+                        80,
+                        87
+                    ],
+                    "text": "qldpol"
+                },
+                {
+                    "indices": [
+                        88,
+                        95
+                    ],
+                    "text": "nswpol"
+                },
+                {
+                    "indices": [
+                        96,
+                        105
+                    ],
+                    "text": "springst"
+                },
+                {
+                    "indices": [
+                        106,
+                        112
+                    ],
+                    "text": "sapol"
+                },
+                {
+                    "indices": [
+                        113,
+                        119
+                    ],
+                    "text": "wapol"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 773362619830849536,
+                    "id_str": "773362619830849536",
+                    "indices": [
+                        3,
+                        19
+                    ],
+                    "name": "Stop Adani Cairns",
+                    "screen_name": "StopAdaniCairns"
+                },
+                {
+                    "id": 137198586,
+                    "id_str": "137198586",
+                    "indices": [
+                        25,
+                        39
+                    ],
+                    "name": "Bill Shorten",
+                    "screen_name": "billshortenmp"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 60,
+        "retweeted": false,
+        "timestamp": "2018-03-20 01:33:13",
+        "tweet_id": 975908084265639936,
+        "tweet_text": "RT @StopAdaniCairns: Hey @billshortenmp #StopAdani Stop #ClimateChange\n\n#auspol #qldpol #nswpol #springst #sapol #wapol\n\nListen to the scie\u2026",
+        "user": "2870684767"
+    },
+    "975908467411054592": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 253028810,
+                    "id_str": "253028810",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "\ud83d\udca7David Young",
+                    "screen_name": "davidyoung13"
+                },
+                {
+                    "id": 1074262216998834176,
+                    "id_str": "1074262216998834176",
+                    "indices": [
+                        14,
+                        22
+                    ],
+                    "name": "Tsutsu",
+                    "screen_name": "Zahame_"
+                },
+                {
+                    "id": 2599578865,
+                    "id_str": "2599578865",
+                    "indices": [
+                        23,
+                        38
+                    ],
+                    "name": "The Hon Gary Hardgrave",
+                    "screen_name": "Gary_Hardgrave"
+                },
+                {
+                    "id": 1137661725040209921,
+                    "id_str": "1137661725040209921",
+                    "indices": [
+                        39,
+                        53
+                    ],
+                    "name": "Tone Abet",
+                    "screen_name": "TonyAbbottMHR"
+                },
+                {
+                    "id": 93818188,
+                    "id_str": "93818188",
+                    "indices": [
+                        54,
+                        70
+                    ],
+                    "name": "Steven Marshall, MP",
+                    "screen_name": "marshall_steven"
+                },
+                {
+                    "id": 1605357078,
+                    "id_str": "1605357078",
+                    "indices": [
+                        71,
+                        83
+                    ],
+                    "name": "The SA Liberals",
+                    "screen_name": "LiberalSAHQ"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975908467411054592",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/aYKKAX45Ay"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 01:34:44",
+        "tweet_id": 975908467411054592,
+        "tweet_text": "@davidyoung13 @Zahame_ @Gary_Hardgrave @TonyAbbottMHR @marshall_steven @LiberalSAHQ Subsidies on solar and wing run\u2026 https://t.co/aYKKAX45Ay",
+        "user": "1388148914"
+    },
+    "975908719929147393": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975908719929147393",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/THG1P7x1g2"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 53,
+        "retweeted": false,
+        "timestamp": "2018-03-20 01:35:44",
+        "tweet_id": 975908719929147393,
+        "tweet_text": "Are cross bench senators doing a deal with \ud83c\udfa9and Cash to let big business decide who workers can elect to lead union\u2026 https://t.co/THG1P7x1g2",
+        "user": "29922585"
+    },
+    "975911666813579264": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975911666813579264",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/xwp4DbZ3PU"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 01:47:27",
+        "tweet_id": 975911666813579264,
+        "tweet_text": "Interesting numbers regarding election outcome, I accused the Conservatives of selling their soul with their prefer\u2026 https://t.co/xwp4DbZ3PU",
+        "user": "25934031"
+    },
+    "975912122885394433": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 4844293645,
+                    "id_str": "4844293645",
+                    "indices": [
+                        0,
+                        11
+                    ],
+                    "name": "Traveling Ronin \ud83c\udde6\ud83c\uddfa \ud83c\uddef\ud83c\uddf5\ud83c\uddf9\ud83c\udded\ud83d\udc4c\ud83c\udffb\ud83d\udc4c\ud83c\udffb\ud83d\udc4c\ud83c\udffb",
+                    "screen_name": "CarizmaJon"
+                },
+                {
+                    "id": 473910123,
+                    "id_str": "473910123",
+                    "indices": [
+                        12,
+                        25
+                    ],
+                    "name": "The Chandelier",
+                    "screen_name": "TheChandyPop"
+                },
+                {
+                    "id": 108273993,
+                    "id_str": "108273993",
+                    "indices": [
+                        26,
+                        38
+                    ],
+                    "name": "Lyle Shelton",
+                    "screen_name": "LyleShelton"
+                },
+                {
+                    "id": 1379974305933455360,
+                    "id_str": "1379974305933455360",
+                    "indices": [
+                        39,
+                        55
+                    ],
+                    "name": "AUConservatives",
+                    "screen_name": "AuConservatives"
+                },
+                {
+                    "id": 760429364,
+                    "id_str": "760429364",
+                    "indices": [
+                        56,
+                        71
+                    ],
+                    "name": "Kevin Bailey AM",
+                    "screen_name": "KevinBaileyCFP"
+                },
+                {
+                    "id": 7900732,
+                    "id_str": "7900732",
+                    "indices": [
+                        72,
+                        79
+                    ],
+                    "name": "Australian Greens",
+                    "screen_name": "Greens"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975912122885394433",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "url": "https://t.co/qVEEurHfZZ"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 01:49:16",
+        "tweet_id": 975912122885394433,
+        "tweet_text": "@CarizmaJon @TheChandyPop @LyleShelton @AuConservatives @KevinBaileyCFP @Greens So despite Lyle &amp; Cory's statements\u2026 https://t.co/qVEEurHfZZ",
+        "user": "897360667648303105"
+    },
+    "975912624385802246": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975912624385802246",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/zZnQzInbtt"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 01:51:15",
+        "tweet_id": 975912624385802246,
+        "tweet_text": "In the state 2010 election 80k voters names went missing, over 100k in total, this election thus far shows Massive\u2026 https://t.co/zZnQzInbtt",
+        "user": "25934031"
+    },
+    "975912912937086977": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975912912937086977",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/Ghl7bR4BDE"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 141,
+        "retweeted": false,
+        "timestamp": "2018-03-20 01:52:24",
+        "tweet_id": 975912912937086977,
+        "tweet_text": "Scott Morrison threatens to cut states' GST share if they oppose fracking: \u201cEven the fair distribution of GST dolla\u2026 https://t.co/Ghl7bR4BDE",
+        "user": "31069012"
+    },
+    "975913032009228289": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        83,
+                        91
+                    ],
+                    "text": "savotes"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 21709979,
+                    "id_str": "21709979",
+                    "indices": [
+                        3,
+                        18
+                    ],
+                    "name": "Mark Parnell MLC",
+                    "screen_name": "MarkParnellMLC"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 11,
+        "retweeted": false,
+        "timestamp": "2018-03-20 01:52:53",
+        "tweet_id": 975913032009228289,
+        "tweet_text": "RT @MarkParnellMLC: And so it begins? There was indignation from the SA Libs at an #savotes election forum when I referenced passing lumps\u2026",
+        "user": "42519805"
+    },
+    "975913588517830656": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975913588517830656",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/GPeB0eO8cz"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 01:55:05",
+        "tweet_id": 975913588517830656,
+        "tweet_text": "@abetterway4SA I thought your preference deals were not in line with your directives, has the result so far sent yo\u2026 https://t.co/GPeB0eO8cz",
+        "user": "25934031"
+    },
+    "975915845443510272": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/twitter/status\u2026",
+                    "expanded_url": "https://twitter.com/twitter/statuses/975661607454781441",
+                    "indices": [
+                        0,
+                        23
+                    ],
+                    "url": "https://t.co/apf9TXAvUt"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 02:04:03",
+        "tweet_id": 975915845443510272,
+        "tweet_text": "https://t.co/apf9TXAvUt",
+        "user": "25934031"
+    },
+    "975916165582110720": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 115884789,
+                    "id_str": "115884789",
+                    "indices": [
+                        0,
+                        15
+                    ],
+                    "name": "Antony Green",
+                    "screen_name": "AntonyGreenABC"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 1,
+        "retweeted": false,
+        "timestamp": "2018-03-20 02:05:20",
+        "tweet_id": 975916165582110720,
+        "tweet_text": "@AntonyGreenABC Going by the current published figures, still 450,000 votes to count unless that many were no shows?",
+        "user": "25934031"
+    },
+    "975921061882609664": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 1134400530606723072,
+                    "id_str": "1134400530606723072",
+                    "indices": [
+                        0,
+                        12
+                    ],
+                    "name": "Chris Kenny",
+                    "screen_name": "chriskkenny"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 02:24:47",
+        "tweet_id": 975921061882609664,
+        "tweet_text": "@chriskkenny Chris I wish they would. \nKeep them out for at least 8 years",
+        "user": "1440386286"
+    },
+    "975923272872116224": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 36521470,
+                    "id_str": "36521470",
+                    "indices": [
+                        0,
+                        6
+                    ],
+                    "name": "ACOSS",
+                    "screen_name": "ACOSS"
+                },
+                {
+                    "id": 1315921093,
+                    "id_str": "1315921093",
+                    "indices": [
+                        7,
+                        23
+                    ],
+                    "name": "NOT a Canberra Bubbler \ud83c\udf32\ud83c\udf0f\ud83c\udf32",
+                    "screen_name": "MSMWatchdog2013"
+                },
+                {
+                    "id": 28739612,
+                    "id_str": "28739612",
+                    "indices": [
+                        24,
+                        35
+                    ],
+                    "name": "Liberal Party",
+                    "screen_name": "LiberalAus"
+                },
+                {
+                    "id": 1335572714,
+                    "id_str": "1335572714",
+                    "indices": [
+                        36,
+                        47
+                    ],
+                    "name": "SA Liberal Media",
+                    "screen_name": "SALibMedia"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975923272872116224",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/tiKUBG9W5f"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 02:33:34",
+        "tweet_id": 975923272872116224,
+        "tweet_text": "@ACOSS @MSMWatchdog2013 @LiberalAus @SALibMedia more interested in handing out tax dollars to profitable business t\u2026 https://t.co/tiKUBG9W5f",
+        "user": "762373104"
+    },
+    "975925437791551488": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 1461512112,
+                    "id_str": "1461512112",
+                    "indices": [
+                        3,
+                        17
+                    ],
+                    "name": "Nick Xenophon",
+                    "screen_name": "Nick_Xenophon"
+                },
+                {
+                    "id": 140317619,
+                    "id_str": "140317619",
+                    "indices": [
+                        45,
+                        57
+                    ],
+                    "name": "Tim Costello",
+                    "screen_name": "TimCostello"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/MayneReport/st\u2026",
+                    "expanded_url": "https://twitter.com/MayneReport/status/975216557650468864",
+                    "indices": [
+                        58,
+                        81
+                    ],
+                    "url": "https://t.co/gZ2ajtMaxw"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 8,
+        "retweeted": false,
+        "timestamp": "2018-03-20 02:42:10",
+        "tweet_id": 975925437791551488,
+        "tweet_text": "RT @Nick_Xenophon: Thanks for the kind words @TimCostello https://t.co/gZ2ajtMaxw",
+        "user": "922981570335481856"
+    },
+    "975926473927286786": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 3007814628,
+                    "id_str": "3007814628",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "name": "Mark Clayton",
+                    "screen_name": "MarkClayton94"
+                },
+                {
+                    "id": 849146371403685888,
+                    "id_str": "849146371403685888",
+                    "indices": [
+                        15,
+                        31
+                    ],
+                    "name": "Centre Of Democracy",
+                    "screen_name": "CentreDemocracy"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 02:46:17",
+        "tweet_id": 975926473927286786,
+        "tweet_text": "@MarkClayton94 @CentreDemocracy Thank you Mark! Means a lot to hear that you liked the speech \ud83d\udcaa\ud83c\udf08",
+        "user": "300705278"
+    },
+    "975926805143076864": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975926805143076864",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/AyjIXFdyAK"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 19,
+        "retweeted": false,
+        "timestamp": "2018-03-20 02:47:36",
+        "tweet_id": 975926805143076864,
+        "tweet_text": "Here's a fun graphic from energy reliability report. Shows the ratio of power available at times of peak demand. Da\u2026 https://t.co/AyjIXFdyAK",
+        "user": "66612373"
+    },
+    "975931983011303424": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 333357906,
+                    "id_str": "333357906",
+                    "indices": [
+                        0,
+                        12
+                    ],
+                    "name": "Mark Mulcair",
+                    "screen_name": "MarkMulcair"
+                },
+                {
+                    "id": 1967884675,
+                    "id_str": "1967884675",
+                    "indices": [
+                        13,
+                        29
+                    ],
+                    "name": "AustBusinessNet",
+                    "screen_name": "AustBusinessNet"
+                },
+                {
+                    "id": 1470701733026275331,
+                    "id_str": "1470701733026275331",
+                    "indices": [
+                        30,
+                        45
+                    ],
+                    "name": "Antony Green",
+                    "screen_name": "AntonyGreenABC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975931983011303424",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/jIMTuJJ78Q"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:08:11",
+        "tweet_id": 975931983011303424,
+        "tweet_text": "@MarkMulcair @AustBusinessNet @AntonyGreenABC Happy to give the libs a try, my comment relates to the steady declin\u2026 https://t.co/jIMTuJJ78Q",
+        "user": "25934031"
+    },
+    "975932523581652992": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        76,
+                        88
+                    ],
+                    "text": "savotes2018"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 1470701733026275331,
+                    "id_str": "1470701733026275331",
+                    "indices": [
+                        3,
+                        18
+                    ],
+                    "name": "Antony Green",
+                    "screen_name": "AntonyGreenABC"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 52,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:10:20",
+        "tweet_id": 975932523581652992,
+        "tweet_text": "RT @AntonyGreenABC: And a nice ratings win for the ABC in Adelaide with the #savotes2018 election coverage on Saturday night. https://t.co/\u2026",
+        "user": "3662331"
+    },
+    "975933455870513153": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 151688952,
+                    "id_str": "151688952",
+                    "indices": [
+                        0,
+                        8
+                    ],
+                    "name": "Petra Campbell",
+                    "screen_name": "PetraAu"
+                },
+                {
+                    "id": 1137661725040209921,
+                    "id_str": "1137661725040209921",
+                    "indices": [
+                        20,
+                        34
+                    ],
+                    "name": "Tone Abet",
+                    "screen_name": "TonyAbbottMHR"
+                },
+                {
+                    "id": 93818188,
+                    "id_str": "93818188",
+                    "indices": [
+                        35,
+                        51
+                    ],
+                    "name": "Steven Marshall, MP",
+                    "screen_name": "marshall_steven"
+                },
+                {
+                    "id": 1605357078,
+                    "id_str": "1605357078",
+                    "indices": [
+                        52,
+                        64
+                    ],
+                    "name": "The SA Liberals",
+                    "screen_name": "LiberalSAHQ"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975933455870513153",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/82eFjSaiQ4"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:14:02",
+        "tweet_id": 975933455870513153,
+        "tweet_text": "@PetraAu @SmayTrain @TonyAbbottMHR @marshall_steven @LiberalSAHQ FYI. If you\u2019re a \u201cclimate scientist \u201c whose salary\u2026 https://t.co/82eFjSaiQ4",
+        "user": "732924976831959041"
+    },
+    "975933546484318208": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        84,
+                        92
+                    ],
+                    "text": "savotes"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 139328853,
+                    "id_str": "139328853",
+                    "indices": [
+                        3,
+                        16
+                    ],
+                    "name": "Dr Queen Victoria",
+                    "screen_name": "Vic_Rollison"
+                },
+                {
+                    "id": 589524984,
+                    "id_str": "589524984",
+                    "indices": [
+                        98,
+                        113
+                    ],
+                    "name": "Joe Hinchliffe",
+                    "screen_name": "joe_hinchliffe"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 35,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:14:24",
+        "tweet_id": 975933546484318208,
+        "tweet_text": "RT @Vic_Rollison: Interested by your use of the word \u2018drubbing\u2019 to describe Labor\u2019s #savotes loss @joe_hinchliffe. Do you really think a sw\u2026",
+        "user": "458109833"
+    },
+    "975933856262995970": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 4553061,
+                    "id_str": "4553061",
+                    "indices": [
+                        3,
+                        18
+                    ],
+                    "name": "\ud83d\udc9a\ud83c\udf0f Sarah Hanson-Young",
+                    "screen_name": "sarahinthesen8"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 45,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:15:37",
+        "tweet_id": 975933856262995970,
+        "tweet_text": "RT @sarahinthesen8: Labor\u2019s $250m handout to Catholic schools, a special deal in return for votes, undermines needs based funding for all s\u2026",
+        "user": "42519805"
+    },
+    "975935555027460096": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        129,
+                        137
+                    ],
+                    "text": "SAparli"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 17458783,
+                    "id_str": "17458783",
+                    "indices": [
+                        48,
+                        58
+                    ],
+                    "name": "Rob Lucas",
+                    "screen_name": "Rob_Lucas"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 31,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:22:22",
+        "tweet_id": 975935555027460096,
+        "tweet_text": "Fairly remarkable first day for \u201cnew\u201d Treasurer @Rob_Lucas, first announcement of his tenure in a new Government, he\u2019s quitting. #SAparli",
+        "user": "140417519"
+    },
+    "975936290112745472": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 4553061,
+                    "id_str": "4553061",
+                    "indices": [
+                        3,
+                        18
+                    ],
+                    "name": "\ud83d\udc9a\ud83c\udf0f Sarah Hanson-Young",
+                    "screen_name": "sarahinthesen8"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 12,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:25:18",
+        "tweet_id": 975936290112745472,
+        "tweet_text": "RT @sarahinthesen8: Labor quoting Tony Abbott in order to defend their special deal with Catholics says everything about who\u2019s writing thei\u2026",
+        "user": "42519805"
+    },
+    "975936299663114240": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975936299663114240",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/Q4q99FFHMc"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:25:20",
+        "tweet_id": 975936299663114240,
+        "tweet_text": "Final result SA 2018 election, my estimate;\n1,201,775 enrolled voters.\n47500 informal votes, lower house\n38,000 plu\u2026 https://t.co/Q4q99FFHMc",
+        "user": "25934031"
+    },
+    "975937029732057088": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 768362756353339392,
+                    "id_str": "768362756353339392",
+                    "indices": [
+                        3,
+                        17
+                    ],
+                    "name": "granianni...Annie",
+                    "screen_name": "anne_clothier"
+                },
+                {
+                    "id": 140417519,
+                    "id_str": "140417519",
+                    "indices": [
+                        19,
+                        35
+                    ],
+                    "name": "Tom Koutsantonis MP",
+                    "screen_name": "TKoutsantonisMP"
+                },
+                {
+                    "id": 17458783,
+                    "id_str": "17458783",
+                    "indices": [
+                        36,
+                        46
+                    ],
+                    "name": "Rob Lucas",
+                    "screen_name": "Rob_Lucas"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:28:14",
+        "tweet_id": 975937029732057088,
+        "tweet_text": "RT @anne_clothier: @TKoutsantonisMP @Rob_Lucas Hold them account every move they make Tom. It wont be hard to show them up for what they ar\u2026",
+        "user": "853977926"
+    },
+    "975937645049102337": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 1642930068,
+                    "id_str": "1642930068",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "Leon Byner",
+                    "screen_name": "LeonByner5AA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975937645049102337",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/m8WQzuHXqW"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:30:41",
+        "tweet_id": 975937645049102337,
+        "tweet_text": "@LeonByner5AA One day a party will come along offering open and transparent government.\nHopefully when this occurs\u2026 https://t.co/m8WQzuHXqW",
+        "user": "1227186560"
+    },
+    "975937923785801728": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 1470701733026275331,
+                    "id_str": "1470701733026275331",
+                    "indices": [
+                        0,
+                        15
+                    ],
+                    "name": "Antony Green",
+                    "screen_name": "AntonyGreenABC"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:31:47",
+        "tweet_id": 975937923785801728,
+        "tweet_text": "@AntonyGreenABC Still waiting to see how I went in Elder?",
+        "user": "1227186560"
+    },
+    "975938086222815233": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        16,
+                        28
+                    ],
+                    "text": "savotes2018"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 556807696,
+                    "id_str": "556807696",
+                    "indices": [
+                        3,
+                        14
+                    ],
+                    "name": "Dave Marriott",
+                    "screen_name": "tivoenator"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 5,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:32:26",
+        "tweet_id": 975938086222815233,
+        "tweet_text": "RT @tivoenator: #savotes2018 Since 1947 SA has had 24 elections. In 15, party that won 2PP has won election, in 9 not. Of 9, 4 were in Play\u2026",
+        "user": "242207540"
+    },
+    "975938101431250944": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 140417519,
+                    "id_str": "140417519",
+                    "indices": [
+                        3,
+                        19
+                    ],
+                    "name": "Tom Koutsantonis MP",
+                    "screen_name": "TKoutsantonisMP"
+                },
+                {
+                    "id": 17458783,
+                    "id_str": "17458783",
+                    "indices": [
+                        69,
+                        79
+                    ],
+                    "name": "Rob Lucas",
+                    "screen_name": "Rob_Lucas"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 31,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:32:30",
+        "tweet_id": 975938101431250944,
+        "tweet_text": "RT @TKoutsantonisMP: Fairly remarkable first day for \u201cnew\u201d Treasurer @Rob_Lucas, first announcement of his tenure in a new Government, he\u2019s\u2026",
+        "user": "749348284401987585"
+    },
+    "975939564232630272": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 4553061,
+                    "id_str": "4553061",
+                    "indices": [
+                        3,
+                        18
+                    ],
+                    "name": "\ud83d\udc9a\ud83c\udf0f Sarah Hanson-Young",
+                    "screen_name": "sarahinthesen8"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "theage.com.au/national/cardi\u2026",
+                    "expanded_url": "https://www.theage.com.au/national/cardinal-george-pell-could-face-fresh-charges-after-new-witness-statement-emerges-20180320-p4z58q.html",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "url": "https://t.co/187rtCvPnr"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 6,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:38:18",
+        "tweet_id": 975939564232630272,
+        "tweet_text": "RT @sarahinthesen8: Cardinal George Pell could face fresh charges after new witness statement emerges https://t.co/187rtCvPnr",
+        "user": "42519805"
+    },
+    "975939968227880960": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 1388148914,
+                    "id_str": "1388148914",
+                    "indices": [
+                        0,
+                        11
+                    ],
+                    "name": "Old Soldier",
+                    "screen_name": "OMGTheMess"
+                },
+                {
+                    "id": 1074262216998834176,
+                    "id_str": "1074262216998834176",
+                    "indices": [
+                        12,
+                        20
+                    ],
+                    "name": "Tsutsu",
+                    "screen_name": "Zahame_"
+                },
+                {
+                    "id": 2599578865,
+                    "id_str": "2599578865",
+                    "indices": [
+                        21,
+                        36
+                    ],
+                    "name": "The Hon Gary Hardgrave",
+                    "screen_name": "Gary_Hardgrave"
+                },
+                {
+                    "id": 1137661725040209921,
+                    "id_str": "1137661725040209921",
+                    "indices": [
+                        37,
+                        51
+                    ],
+                    "name": "Tone Abet",
+                    "screen_name": "TonyAbbottMHR"
+                },
+                {
+                    "id": 93818188,
+                    "id_str": "93818188",
+                    "indices": [
+                        52,
+                        68
+                    ],
+                    "name": "Steven Marshall, MP",
+                    "screen_name": "marshall_steven"
+                },
+                {
+                    "id": 1605357078,
+                    "id_str": "1605357078",
+                    "indices": [
+                        69,
+                        81
+                    ],
+                    "name": "The SA Liberals",
+                    "screen_name": "LiberalSAHQ"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:39:55",
+        "tweet_id": 975939968227880960,
+        "tweet_text": "@OMGTheMess @Zahame_ @Gary_Hardgrave @TonyAbbottMHR @marshall_steven @LiberalSAHQ .....you will lose your bet",
+        "user": "253028810"
+    },
+    "975941168293863424": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 164178673,
+                    "id_str": "164178673",
+                    "indices": [
+                        3,
+                        18
+                    ],
+                    "name": "Ed Hunter #IStandWithDan",
+                    "screen_name": "EdwardJWHunter"
+                },
+                {
+                    "id": 706076432,
+                    "id_str": "706076432",
+                    "indices": [
+                        44,
+                        50
+                    ],
+                    "name": "SA Labor",
+                    "screen_name": "alpsa"
+                },
+                {
+                    "id": 350707926,
+                    "id_str": "350707926",
+                    "indices": [
+                        55,
+                        69
+                    ],
+                    "name": "Jay Weatherill",
+                    "screen_name": "JayWeatherill"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 21,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:44:41",
+        "tweet_id": 975941168293863424,
+        "tweet_text": "RT @EdwardJWHunter: You have been terrific, @alpsa and @JayWeatherill , you have been much appreciated for your hard work and dedication. A\u2026",
+        "user": "2283049465"
+    },
+    "975941252800811008": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        17,
+                        35
+                    ],
+                    "text": "StandUpToBullying"
+                },
+                {
+                    "indices": [
+                        102,
+                        113
+                    ],
+                    "text": "RealChange"
+                },
+                {
+                    "indices": [
+                        115,
+                        132
+                    ],
+                    "text": "walkupnotwalkout"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 26698375,
+                    "id_str": "26698375",
+                    "indices": [
+                        3,
+                        15
+                    ],
+                    "name": "Pat Catalano  \ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf9",
+                    "screen_name": "PatCatalano"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:45:01",
+        "tweet_id": 975941252800811008,
+        "tweet_text": "RT @PatCatalano: #StandUpToBullying Maybe when you attack the core of the problem things will change. #RealChange  #walkupnotwalkout \ud83d\udc4a\ud83c\uddfa\ud83c\uddf8 ht\u2026",
+        "user": "510940105"
+    },
+    "975943242486132737": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 18486507,
+                    "id_str": "18486507",
+                    "indices": [
+                        3,
+                        15
+                    ],
+                    "name": "Nick Harmsen",
+                    "screen_name": "nickharmsen"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/icac_sa/status\u2026",
+                    "expanded_url": "https://twitter.com/icac_sa/status/975937995248455680",
+                    "indices": [
+                        46,
+                        69
+                    ],
+                    "url": "https://t.co/YNpKaM8AkI"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 8,
+        "retweeted": false,
+        "timestamp": "2018-03-20 03:52:55",
+        "tweet_id": 975943242486132737,
+        "tweet_text": "RT @nickharmsen: This is pretty extraordinary https://t.co/YNpKaM8AkI",
+        "user": "140417519"
+    },
+    "975945048813522944": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        7
+                    ],
+                    "text": "Auspol"
+                },
+                {
+                    "indices": [
+                        8,
+                        16
+                    ],
+                    "text": "SAVotes"
+                },
+                {
+                    "indices": [
+                        17,
+                        31
+                    ],
+                    "text": "getridoflabor"
+                }
+            ],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "theaustralian.com.au/opinion/column\u2026",
+                    "expanded_url": "https://www.theaustralian.com.au/opinion/columnists/nick-cater/marshall-the-man-to-open-south-australia-for-business/news-story/af2fe08821a45969bb1df6e5999716e7",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/fxfr1CGYZj"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 04:00:06",
+        "tweet_id": 975945048813522944,
+        "tweet_text": "#Auspol #SAVotes #getridoflabor\n\nAnd that my friends is what Labor does best wreck and destroy, I feel sorry for... https://t.co/fxfr1CGYZj",
+        "user": "2958088860"
+    },
+    "975945987972677632": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 1379974305933455360,
+                    "id_str": "1379974305933455360",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "name": "AUConservatives",
+                    "screen_name": "AuConservatives"
+                },
+                {
+                    "id": 786679085640454144,
+                    "id_str": "786679085640454144",
+                    "indices": [
+                        17,
+                        32
+                    ],
+                    "name": "NRA",
+                    "screen_name": "NationalRifleA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975945987972677632",
+                    "indices": [
+                        105,
+                        128
+                    ],
+                    "url": "https://t.co/oeo5klgmhr"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 04:03:50",
+        "tweet_id": 975945987972677632,
+        "tweet_text": "@AuConservatives @NationalRifleA It's amazing that a doctor is unable to interpret science. I wonder if\u2026 https://t.co/oeo5klgmhr",
+        "user": "1401600204"
+    },
+    "975947370088218624": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        76,
+                        88
+                    ],
+                    "text": "savotes2018"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 1470701733026275331,
+                    "id_str": "1470701733026275331",
+                    "indices": [
+                        3,
+                        18
+                    ],
+                    "name": "Antony Green",
+                    "screen_name": "AntonyGreenABC"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 52,
+        "retweeted": false,
+        "timestamp": "2018-03-20 04:09:19",
+        "tweet_id": 975947370088218624,
+        "tweet_text": "RT @AntonyGreenABC: And a nice ratings win for the ABC in Adelaide with the #savotes2018 election coverage on Saturday night. https://t.co/\u2026",
+        "user": "33811563"
+    },
+    "975947514313625605": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975947514313625605",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/sacSxwE61J"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 111,
+        "retweeted": false,
+        "timestamp": "2018-03-20 04:09:54",
+        "tweet_id": 975947514313625605,
+        "tweet_text": "BREAKING: Malcolm Turnbull and Michaelia Cash are attempting to change the law to stop our amalgamation. \n\nThey sho\u2026 https://t.co/sacSxwE61J",
+        "user": "540494985"
+    },
+    "975948716229115904": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 333357906,
+                    "id_str": "333357906",
+                    "indices": [
+                        0,
+                        12
+                    ],
+                    "name": "Mark Mulcair",
+                    "screen_name": "MarkMulcair"
+                },
+                {
+                    "id": 1967884675,
+                    "id_str": "1967884675",
+                    "indices": [
+                        13,
+                        29
+                    ],
+                    "name": "AustBusinessNet",
+                    "screen_name": "AustBusinessNet"
+                },
+                {
+                    "id": 1470701733026275331,
+                    "id_str": "1470701733026275331",
+                    "indices": [
+                        30,
+                        45
+                    ],
+                    "name": "Antony Green",
+                    "screen_name": "AntonyGreenABC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975948716229115904",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/dXNDaiSSp5"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 04:14:40",
+        "tweet_id": 975948716229115904,
+        "tweet_text": "@MarkMulcair @AustBusinessNet @AntonyGreenABC I am talking about the electoral system not the outcome, dodgy practi\u2026 https://t.co/dXNDaiSSp5",
+        "user": "25934031"
+    },
+    "975949310918471686": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 333357906,
+                    "id_str": "333357906",
+                    "indices": [
+                        0,
+                        12
+                    ],
+                    "name": "Mark Mulcair",
+                    "screen_name": "MarkMulcair"
+                },
+                {
+                    "id": 1967884675,
+                    "id_str": "1967884675",
+                    "indices": [
+                        13,
+                        29
+                    ],
+                    "name": "AustBusinessNet",
+                    "screen_name": "AustBusinessNet"
+                },
+                {
+                    "id": 1470701733026275331,
+                    "id_str": "1470701733026275331",
+                    "indices": [
+                        30,
+                        45
+                    ],
+                    "name": "Antony Green",
+                    "screen_name": "AntonyGreenABC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975949310918471686",
+                    "indices": [
+                        120,
+                        143
+                    ],
+                    "url": "https://t.co/MXuQuZSAaP"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 04:17:02",
+        "tweet_id": 975949310918471686,
+        "tweet_text": "@MarkMulcair @AustBusinessNet @AntonyGreenABC Democracy is about a \"Free &amp; Informed vote\" at constitutional level,\u2026 https://t.co/MXuQuZSAaP",
+        "user": "25934031"
+    },
+    "975949676011708416": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 140417519,
+                    "id_str": "140417519",
+                    "indices": [
+                        26,
+                        42
+                    ],
+                    "name": "Tom Koutsantonis MP",
+                    "screen_name": "TKoutsantonisMP"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 04:18:29",
+        "tweet_id": 975949676011708416,
+        "tweet_text": "Eisai resili stin Elinna! @TKoutsantonisMP",
+        "user": "835451715671347201"
+    },
+    "975950422413201408": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 741693001,
+                    "id_str": "741693001",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "Mark Dickenson, measuring insanity in Oz politics!",
+                    "screen_name": "bugwannostra"
+                },
+                {
+                    "id": 185932331,
+                    "id_str": "185932331",
+                    "indices": [
+                        14,
+                        26
+                    ],
+                    "name": "Alan Tudge",
+                    "screen_name": "AlanTudgeMP"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975950422413201408",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/i4kYbhRRXZ"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 04:21:27",
+        "tweet_id": 975950422413201408,
+        "tweet_text": "@bugwannostra @AlanTudgeMP I am the odd one out I could see what his tweet meant. Some times, people are on the hop\u2026 https://t.co/i4kYbhRRXZ",
+        "user": "25934031"
+    },
+    "975951460016865280": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975951460016865280",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/LCHcEZmoHl"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 1,
+        "retweeted": false,
+        "timestamp": "2018-03-20 04:25:35",
+        "tweet_id": 975951460016865280,
+        "tweet_text": "When is it we call for electoral reform and investment?\nMore missing votes, more electoral roll mistakes, less part\u2026 https://t.co/LCHcEZmoHl",
+        "user": "25934031"
+    },
+    "975952821211119617": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 16834659,
+                    "id_str": "16834659",
+                    "indices": [
+                        3,
+                        15
+                    ],
+                    "name": "Sky News Australia",
+                    "screen_name": "SkyNewsAust"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 4,
+        "retweeted": false,
+        "timestamp": "2018-03-20 04:30:59",
+        "tweet_id": 975952821211119617,
+        "tweet_text": "RT @SkyNewsAust: .@FrankPangallo: The SA election over the weekend was 'the dirtiest campaign' ever witnessed - to see two major parties an\u2026",
+        "user": "1227186560"
+    },
+    "975955993929572352": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 9609582,
+                    "id_str": "9609582",
+                    "indices": [
+                        3,
+                        12
+                    ],
+                    "name": "The Advertiser",
+                    "screen_name": "theTiser"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2GJqrF8",
+                    "expanded_url": "http://bit.ly/2GJqrF8",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "url": "https://t.co/nMP0qbKcze"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 28,
+        "retweeted": false,
+        "timestamp": "2018-03-20 04:43:35",
+        "tweet_id": 975955993929572352,
+        "tweet_text": "RT @theTiser: West Torrens Council push to plant fruit trees on Adelaide street verges to feed homeless\nhttps://t.co/nMP0qbKcze",
+        "user": "140417519"
+    },
+    "975958147675209728": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 870629200348274688,
+                    "id_str": "870629200348274688",
+                    "indices": [
+                        3,
+                        13
+                    ],
+                    "name": "\ud83d\udca7simon holmes \u00e0 court",
+                    "screen_name": "simonahac"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "reneweconomy.com.au/speed-of-austr\u2026",
+                    "expanded_url": "http://reneweconomy.com.au/speed-of-australias-energy-transition-hostage-to-marshall-law-65325/",
+                    "indices": [
+                        91,
+                        114
+                    ],
+                    "url": "https://t.co/cJ4u8qgY6l"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 238,
+        "retweeted": false,
+        "timestamp": "2018-03-20 04:52:09",
+        "tweet_id": 975958147675209728,
+        "tweet_text": "RT @simonahac: i\u2019m old enough to remember when hollering for a marshall got you a battery. https://t.co/cJ4u8qgY6l",
+        "user": "140417519"
+    },
+    "975959570207027200": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 139328853,
+                    "id_str": "139328853",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "Dr Queen Victoria",
+                    "screen_name": "Vic_Rollison"
+                },
+                {
+                    "id": 589524984,
+                    "id_str": "589524984",
+                    "indices": [
+                        14,
+                        29
+                    ],
+                    "name": "Joe Hinchliffe",
+                    "screen_name": "joe_hinchliffe"
+                },
+                {
+                    "id": 1735636832,
+                    "id_str": "1735636832",
+                    "indices": [
+                        99,
+                        115
+                    ],
+                    "name": "Joseph Hinchcliffe",
+                    "screen_name": "Joe_Hinchcliffe"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975959570207027200",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "url": "https://t.co/o1ruEceCW7"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 04:57:48",
+        "tweet_id": 975959570207027200,
+        "tweet_text": "@Vic_Rollison @joe_hinchliffe A 4-term government seeking a fifth term gains a swing of 1.5% &amp; @joe_hinchcliffe cal\u2026 https://t.co/o1ruEceCW7",
+        "user": "1253249515"
+    },
+    "975959732765605888": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        84,
+                        92
+                    ],
+                    "text": "savotes"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 139328853,
+                    "id_str": "139328853",
+                    "indices": [
+                        3,
+                        16
+                    ],
+                    "name": "Dr Queen Victoria",
+                    "screen_name": "Vic_Rollison"
+                },
+                {
+                    "id": 589524984,
+                    "id_str": "589524984",
+                    "indices": [
+                        98,
+                        113
+                    ],
+                    "name": "Joe Hinchliffe",
+                    "screen_name": "joe_hinchliffe"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 35,
+        "retweeted": false,
+        "timestamp": "2018-03-20 04:58:27",
+        "tweet_id": 975959732765605888,
+        "tweet_text": "RT @Vic_Rollison: Interested by your use of the word \u2018drubbing\u2019 to describe Labor\u2019s #savotes loss @joe_hinchliffe. Do you really think a sw\u2026",
+        "user": "73081987"
+    },
+    "975960218474487808": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 529147678,
+                    "id_str": "529147678",
+                    "indices": [
+                        3,
+                        15
+                    ],
+                    "name": "Senator Penny Wong",
+                    "screen_name": "SenatorWong"
+                },
+                {
+                    "id": 350707926,
+                    "id_str": "350707926",
+                    "indices": [
+                        27,
+                        41
+                    ],
+                    "name": "Jay Weatherill",
+                    "screen_name": "JayWeatherill"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 602,
+        "retweeted": false,
+        "timestamp": "2018-03-20 05:00:23",
+        "tweet_id": 975960218474487808,
+        "tweet_text": "RT @SenatorWong: Thank you @jayweatherill for your magnificent leadership in South Australia. Jay always stood up for SA. He transformed bo\u2026",
+        "user": "862925274157010944"
+    },
+    "975961285194952705": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 118942188,
+                    "id_str": "118942188",
+                    "indices": [
+                        3,
+                        11
+                    ],
+                    "name": "David Crowe",
+                    "screen_name": "CroweDM"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 170,
+        "retweeted": false,
+        "timestamp": "2018-03-20 05:04:37",
+        "tweet_id": 975961285194952705,
+        "tweet_text": "RT @CroweDM: New research slams government for \"deeply misleading\" Australians about Labor tax plan. My story just filed: \nhttps://t.co/jIn\u2026",
+        "user": "140417519"
+    },
+    "975963624672935936": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 3669231686,
+                    "id_str": "3669231686",
+                    "indices": [
+                        0,
+                        10
+                    ],
+                    "name": "Akarnious",
+                    "screen_name": "Akarnious"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 05:13:55",
+        "tweet_id": 975963624672935936,
+        "tweet_text": "@Akarnious Makes much more, just my thoughts on what will be published",
+        "user": "25934031"
+    },
+    "975963930664189952": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 1170267488,
+                    "id_str": "1170267488",
+                    "indices": [
+                        0,
+                        11
+                    ],
+                    "name": "Greg D",
+                    "screen_name": "GregDenzel"
+                },
+                {
+                    "id": 333357906,
+                    "id_str": "333357906",
+                    "indices": [
+                        12,
+                        24
+                    ],
+                    "name": "Mark Mulcair",
+                    "screen_name": "MarkMulcair"
+                },
+                {
+                    "id": 1967884675,
+                    "id_str": "1967884675",
+                    "indices": [
+                        25,
+                        41
+                    ],
+                    "name": "AustBusinessNet",
+                    "screen_name": "AustBusinessNet"
+                },
+                {
+                    "id": 115884789,
+                    "id_str": "115884789",
+                    "indices": [
+                        42,
+                        57
+                    ],
+                    "name": "Antony Green",
+                    "screen_name": "AntonyGreenABC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975963930664189952",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/nu5xlfwLCv"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 05:15:08",
+        "tweet_id": 975963930664189952,
+        "tweet_text": "@GregDenzel @MarkMulcair @AustBusinessNet @AntonyGreenABC First voting in SA was ink, on paper, in a locked steel b\u2026 https://t.co/nu5xlfwLCv",
+        "user": "25934031"
+    },
+    "975966241440464896": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 18486507,
+                    "id_str": "18486507",
+                    "indices": [
+                        3,
+                        15
+                    ],
+                    "name": "Nick Harmsen",
+                    "screen_name": "nickharmsen"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 3,
+        "retweeted": false,
+        "timestamp": "2018-03-20 05:24:19",
+        "tweet_id": 975966241440464896,
+        "tweet_text": "RT @nickharmsen: A few questions to ponder:\nWhat are the \u2018issues of concern\u2019 in portfolios? 2. Have they been reported to parliament? Was t\u2026",
+        "user": "140417519"
+    },
+    "975967287353028609": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        40,
+                        50
+                    ],
+                    "text": "StopAdani"
+                },
+                {
+                    "indices": [
+                        56,
+                        70
+                    ],
+                    "text": "ClimateChange"
+                },
+                {
+                    "indices": [
+                        72,
+                        79
+                    ],
+                    "text": "auspol"
+                },
+                {
+                    "indices": [
+                        80,
+                        87
+                    ],
+                    "text": "qldpol"
+                },
+                {
+                    "indices": [
+                        88,
+                        95
+                    ],
+                    "text": "nswpol"
+                },
+                {
+                    "indices": [
+                        96,
+                        105
+                    ],
+                    "text": "springst"
+                },
+                {
+                    "indices": [
+                        106,
+                        112
+                    ],
+                    "text": "sapol"
+                },
+                {
+                    "indices": [
+                        113,
+                        119
+                    ],
+                    "text": "wapol"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 773362619830849536,
+                    "id_str": "773362619830849536",
+                    "indices": [
+                        3,
+                        19
+                    ],
+                    "name": "Stop Adani Cairns",
+                    "screen_name": "StopAdaniCairns"
+                },
+                {
+                    "id": 137198586,
+                    "id_str": "137198586",
+                    "indices": [
+                        25,
+                        39
+                    ],
+                    "name": "Bill Shorten",
+                    "screen_name": "billshortenmp"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 60,
+        "retweeted": false,
+        "timestamp": "2018-03-20 05:28:28",
+        "tweet_id": 975967287353028609,
+        "tweet_text": "RT @StopAdaniCairns: Hey @billshortenmp #StopAdani Stop #ClimateChange\n\n#auspol #qldpol #nswpol #springst #sapol #wapol\n\nListen to the scie\u2026",
+        "user": "725121954408062976"
+    },
+    "975969759278678016": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        29,
+                        35
+                    ],
+                    "text": "sapol"
+                },
+                {
+                    "indices": [
+                        36,
+                        43
+                    ],
+                    "text": "auspol"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 1596987152,
+                    "id_str": "1596987152",
+                    "indices": [
+                        3,
+                        16
+                    ],
+                    "name": "Reclaim Humanity",
+                    "screen_name": "anusha_srini"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/markhumphries/\u2026",
+                    "expanded_url": "https://twitter.com/markhumphries/status/975661607454781441",
+                    "indices": [
+                        44,
+                        67
+                    ],
+                    "url": "https://t.co/FJaeM3leuN"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "timestamp": "2018-03-20 05:38:17",
+        "tweet_id": 975969759278678016,
+        "tweet_text": "RT @anusha_srini: Brilliant!\n#sapol #auspol https://t.co/FJaeM3leuN",
+        "user": "173629507"
+    },
+    "975971382927347712": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 1379974305933455360,
+                    "id_str": "1379974305933455360",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "name": "AUConservatives",
+                    "screen_name": "AuConservatives"
+                },
+                {
+                    "id": 80965423,
+                    "id_str": "80965423",
+                    "indices": [
+                        33,
+                        46
+                    ],
+                    "name": "CoryBernardi.com.au",
+                    "screen_name": "corybernardi"
+                },
+                {
+                    "id": 915413554580164608,
+                    "id_str": "915413554580164608",
+                    "indices": [
+                        47,
+                        57
+                    ],
+                    "name": "Tonightly",
+                    "screen_name": "tonightly"
+                },
+                {
+                    "id": 760429364,
+                    "id_str": "760429364",
+                    "indices": [
+                        58,
+                        73
+                    ],
+                    "name": "Kevin Bailey AM",
+                    "screen_name": "KevinBaileyCFP"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 05:44:45",
+        "tweet_id": 975971382927347712,
+        "tweet_text": "@AuConservatives @SenatorFifield @corybernardi @tonightly @KevinBaileyCFP Not PC enough for Bernardi &amp; the Australian Conservatives?",
+        "user": "790046891924795393"
+    },
+    "975971664792989696": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 3281238727,
+                    "id_str": "3281238727",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "name": "Nick",
+                    "screen_name": "nickbarnesaus"
+                },
+                {
+                    "id": 1379974305933455360,
+                    "id_str": "1379974305933455360",
+                    "indices": [
+                        15,
+                        31
+                    ],
+                    "name": "AUConservatives",
+                    "screen_name": "AuConservatives"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975971664792989696",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/psuN8pm2hz"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 05:45:52",
+        "tweet_id": 975971664792989696,
+        "tweet_text": "@nickbarnesaus @AuConservatives Julie Bishop if you don't stop giving our money away as you do willy nilly to all t\u2026 https://t.co/psuN8pm2hz",
+        "user": "748810723329921024"
+    },
+    "975973788570460160": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 80965423,
+                    "id_str": "80965423",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "CoryBernardi.com.au",
+                    "screen_name": "corybernardi"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 05:54:18",
+        "tweet_id": 975973788570460160,
+        "tweet_text": "@corybernardi Don't rush back, you're not as important as you think you are.",
+        "user": "247626101"
+    },
+    "975977933327122432": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        84,
+                        92
+                    ],
+                    "text": "savotes"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 139328853,
+                    "id_str": "139328853",
+                    "indices": [
+                        3,
+                        16
+                    ],
+                    "name": "Dr Queen Victoria",
+                    "screen_name": "Vic_Rollison"
+                },
+                {
+                    "id": 589524984,
+                    "id_str": "589524984",
+                    "indices": [
+                        98,
+                        113
+                    ],
+                    "name": "Joe Hinchliffe",
+                    "screen_name": "joe_hinchliffe"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 35,
+        "retweeted": false,
+        "timestamp": "2018-03-20 06:10:46",
+        "tweet_id": 975977933327122432,
+        "tweet_text": "RT @Vic_Rollison: Interested by your use of the word \u2018drubbing\u2019 to describe Labor\u2019s #savotes loss @joe_hinchliffe. Do you really think a sw\u2026",
+        "user": "2334635804"
+    },
+    "975979149218103296": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        50,
+                        58
+                    ],
+                    "text": "savotes"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 1925103463,
+                    "id_str": "1925103463",
+                    "indices": [
+                        0,
+                        8
+                    ],
+                    "name": "\ud83d\udca7TALAOLP",
+                    "screen_name": "Talaolp"
+                },
+                {
+                    "id": 6644952,
+                    "id_str": "6644952",
+                    "indices": [
+                        9,
+                        13
+                    ],
+                    "name": "Ann",
+                    "screen_name": "aec"
+                },
+                {
+                    "id": 51378153,
+                    "id_str": "51378153",
+                    "indices": [
+                        14,
+                        22
+                    ],
+                    "name": "\ud83d\udca7DUKE Clyde (HANSARD)CFW9 (Biden-Harris ELECT)\ud83d\udca7",
+                    "screen_name": "nobby15"
+                },
+                {
+                    "id": 706076432,
+                    "id_str": "706076432",
+                    "indices": [
+                        23,
+                        29
+                    ],
+                    "name": "SA Labor",
+                    "screen_name": "alpsa"
+                },
+                {
+                    "id": 384233102,
+                    "id_str": "384233102",
+                    "indices": [
+                        30,
+                        40
+                    ],
+                    "name": "Mari R",
+                    "screen_name": "randlight"
+                },
+                {
+                    "id": 2681948222,
+                    "id_str": "2681948222",
+                    "indices": [
+                        41,
+                        49
+                    ],
+                    "name": "\ud83d\udca6BigAl of hansard fame but not a bot",
+                    "screen_name": "banas51"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "timestamp": "2018-03-20 06:15:36",
+        "tweet_id": 975979149218103296,
+        "tweet_text": "@Talaolp @aec @nobby15 @alpsa @randlight @banas51 #savotes Gerrymander.",
+        "user": "170132632"
+    },
+    "975981607721971712": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 2460748716,
+                    "id_str": "2460748716",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "Anthony The Colonial",
+                    "screen_name": "Boldsilver99"
+                },
+                {
+                    "id": 140417519,
+                    "id_str": "140417519",
+                    "indices": [
+                        14,
+                        30
+                    ],
+                    "name": "Tom Koutsantonis MP",
+                    "screen_name": "TKoutsantonisMP"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975981607721971712",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/cpxpwf4exu"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 06:25:22",
+        "tweet_id": 975981607721971712,
+        "tweet_text": "@Boldsilver99 @TKoutsantonisMP weren\u2019t we talking about port lincoln\u2019s blackout and you were blaming it on renewabl\u2026 https://t.co/cpxpwf4exu",
+        "user": "870629200348274688"
+    },
+    "975982347735654400": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        105,
+                        113
+                    ],
+                    "text": "saparli"
+                }
+            ],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975982347735654400",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/x6Y3AvwpWc"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 2,
+        "retweeted": false,
+        "timestamp": "2018-03-20 06:28:19",
+        "tweet_id": 975982347735654400,
+        "tweet_text": "Terrific to catch up with Andrew and Steve from Adelaide French Polishers polishing up the walnut in the #saparli h\u2026 https://t.co/x6Y3AvwpWc",
+        "user": "51929713"
+    },
+    "975984269087485952": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/tony_burke/sta\u2026",
+                    "expanded_url": "https://twitter.com/tony_burke/status/975963826712559617",
+                    "indices": [
+                        89,
+                        112
+                    ],
+                    "url": "https://t.co/LbeeKKPxWp"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 06:35:57",
+        "tweet_id": 975984269087485952,
+        "tweet_text": "What\u2019s the charge for holding someone down and tattooing SHITCUNT across their forehead? https://t.co/LbeeKKPxWp",
+        "user": "22330292"
+    },
+    "975987649126088704": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 1388148914,
+                    "id_str": "1388148914",
+                    "indices": [
+                        0,
+                        11
+                    ],
+                    "name": "Old Soldier",
+                    "screen_name": "OMGTheMess"
+                },
+                {
+                    "id": 1074262216998834176,
+                    "id_str": "1074262216998834176",
+                    "indices": [
+                        12,
+                        20
+                    ],
+                    "name": "Tsutsu",
+                    "screen_name": "Zahame_"
+                },
+                {
+                    "id": 2599578865,
+                    "id_str": "2599578865",
+                    "indices": [
+                        21,
+                        36
+                    ],
+                    "name": "The Hon Gary Hardgrave",
+                    "screen_name": "Gary_Hardgrave"
+                },
+                {
+                    "id": 1137661725040209921,
+                    "id_str": "1137661725040209921",
+                    "indices": [
+                        37,
+                        51
+                    ],
+                    "name": "Tone Abet",
+                    "screen_name": "TonyAbbottMHR"
+                },
+                {
+                    "id": 93818188,
+                    "id_str": "93818188",
+                    "indices": [
+                        52,
+                        68
+                    ],
+                    "name": "Steven Marshall, MP",
+                    "screen_name": "marshall_steven"
+                },
+                {
+                    "id": 1605357078,
+                    "id_str": "1605357078",
+                    "indices": [
+                        69,
+                        81
+                    ],
+                    "name": "The SA Liberals",
+                    "screen_name": "LiberalSAHQ"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975987649126088704",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/3VBdQkJEMp"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 06:49:23",
+        "tweet_id": 975987649126088704,
+        "tweet_text": "@OMGTheMess @Zahame_ @Gary_Hardgrave @TonyAbbottMHR @marshall_steven @LiberalSAHQ Subsidy: a sum of money granted b\u2026 https://t.co/3VBdQkJEMp",
+        "user": "253028810"
+    },
+    "975988074994741248": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 253028810,
+                    "id_str": "253028810",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "\ud83d\udca7David Young",
+                    "screen_name": "davidyoung13"
+                },
+                {
+                    "id": 1074262216998834176,
+                    "id_str": "1074262216998834176",
+                    "indices": [
+                        14,
+                        22
+                    ],
+                    "name": "Tsutsu",
+                    "screen_name": "Zahame_"
+                },
+                {
+                    "id": 2599578865,
+                    "id_str": "2599578865",
+                    "indices": [
+                        23,
+                        38
+                    ],
+                    "name": "The Hon Gary Hardgrave",
+                    "screen_name": "Gary_Hardgrave"
+                },
+                {
+                    "id": 1137661725040209921,
+                    "id_str": "1137661725040209921",
+                    "indices": [
+                        39,
+                        53
+                    ],
+                    "name": "Tone Abet",
+                    "screen_name": "TonyAbbottMHR"
+                },
+                {
+                    "id": 93818188,
+                    "id_str": "93818188",
+                    "indices": [
+                        54,
+                        70
+                    ],
+                    "name": "Steven Marshall, MP",
+                    "screen_name": "marshall_steven"
+                },
+                {
+                    "id": 1605357078,
+                    "id_str": "1605357078",
+                    "indices": [
+                        71,
+                        83
+                    ],
+                    "name": "The SA Liberals",
+                    "screen_name": "LiberalSAHQ"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 06:51:04",
+        "tweet_id": 975988074994741248,
+        "tweet_text": "@davidyoung13 @Zahame_ @Gary_Hardgrave @TonyAbbottMHR @marshall_steven @LiberalSAHQ Yep. Wind and Solar",
+        "user": "1388148914"
+    },
+    "975988452578672641": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 1386257371564019712,
+                    "id_str": "1386257371564019712",
+                    "indices": [
+                        34,
+                        46
+                    ],
+                    "name": "Susan Close",
+                    "screen_name": "susan_close"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975988452578672641",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/3HppsQN8CF"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 06:52:34",
+        "tweet_id": 975988452578672641,
+        "tweet_text": "Thank you for the birthday wishes @susan_close! You\u2019re the first person to wish me a happy 21st for Sunday as well!\u2026 https://t.co/3HppsQN8CF",
+        "user": "876024342647144450"
+    },
+    "975988676755783680": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        14,
+                        21
+                    ],
+                    "text": "Auspol"
+                },
+                {
+                    "indices": [
+                        22,
+                        30
+                    ],
+                    "text": "SAVotes"
+                },
+                {
+                    "indices": [
+                        31,
+                        45
+                    ],
+                    "text": "getridoflabor"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 2958088860,
+                    "id_str": "2958088860",
+                    "indices": [
+                        3,
+                        12
+                    ],
+                    "name": "SA Conservatives Support Page",
+                    "screen_name": "SAConSup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "theaustralian.com.au/national-affai\u2026",
+                    "expanded_url": "https://www.theaustralian.com.au/national-affairs/south-australia-election/labor-accuses-xenophon-of-failing-to-declare-donations/news-story/88a713b6c0c982a0ef5be81a67d7efd1",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "url": "https://t.co/6OumA2DvcK"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "timestamp": "2018-03-20 06:53:28",
+        "tweet_id": 975988676755783680,
+        "tweet_text": "RT @SAConSup: #Auspol #SAVotes #getridoflabor\n\nShifty Nick is in trouble with Labor, Nick was probably too busy... https://t.co/6OumA2DvcK",
+        "user": "417404028"
+    },
+    "975990144376356864": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "theguardian.com/environment/20\u2026",
+                    "expanded_url": "https://www.theguardian.com/environment/2018/feb/02/miners-receive-twice-as-much-in-tax-credits-as-australia-spends-on-environment?CMP=share_btn_tw",
+                    "indices": [
+                        79,
+                        102
+                    ],
+                    "url": "https://t.co/Td8GEnfoOL"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 1,
+        "retweeted": false,
+        "timestamp": "2018-03-20 06:59:18",
+        "tweet_id": 975990144376356864,
+        "tweet_text": "Miners receive twice as much in tax credits as Australia spends on environment https://t.co/Td8GEnfoOL",
+        "user": "42519805"
+    },
+    "975990339994439680": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 3370079413,
+                    "id_str": "3370079413",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "name": "Martyn Iles",
+                    "screen_name": "MartynLloydIles"
+                },
+                {
+                    "id": 505376889,
+                    "id_str": "505376889",
+                    "indices": [
+                        17,
+                        25
+                    ],
+                    "name": "Michael F. Bird",
+                    "screen_name": "mbird12"
+                },
+                {
+                    "id": 108273993,
+                    "id_str": "108273993",
+                    "indices": [
+                        26,
+                        38
+                    ],
+                    "name": "Lyle Shelton",
+                    "screen_name": "LyleShelton"
+                },
+                {
+                    "id": 31704327,
+                    "id_str": "31704327",
+                    "indices": [
+                        39,
+                        55
+                    ],
+                    "name": "Wendy Francis",
+                    "screen_name": "wendyjoyfrancis"
+                },
+                {
+                    "id": 51402293,
+                    "id_str": "51402293",
+                    "indices": [
+                        56,
+                        64
+                    ],
+                    "name": "Australian Christian Lobby",
+                    "screen_name": "ACLobby"
+                },
+                {
+                    "id": 16734909,
+                    "id_str": "16734909",
+                    "indices": [
+                        65,
+                        81
+                    ],
+                    "name": "Malcolm Turnbull \ud83d\udc89\ud83d\udc89",
+                    "screen_name": "TurnbullMalcolm"
+                },
+                {
+                    "id": 128440862,
+                    "id_str": "128440862",
+                    "indices": [
+                        82,
+                        95
+                    ],
+                    "name": "Eric Abetz",
+                    "screen_name": "SenatorAbetz"
+                },
+                {
+                    "id": 114936799,
+                    "id_str": "114936799",
+                    "indices": [
+                        96,
+                        110
+                    ],
+                    "name": "Barnaby Joyce",
+                    "screen_name": "Barnaby_Joyce"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975990339994439680",
+                    "indices": [
+                        113,
+                        136
+                    ],
+                    "url": "https://t.co/ROY0h8eyhF"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 07:00:04",
+        "tweet_id": 975990339994439680,
+        "tweet_text": "@MartynLloydIles @mbird12 @LyleShelton,@wendyjoyfrancis,@ACLobby,@turnbullmalcolm,@senatorabetz,@Barnaby_Joyce,\u2026 https://t.co/ROY0h8eyhF",
+        "user": "908690330064535552"
+    },
+    "975994018671747072": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 4553061,
+                    "id_str": "4553061",
+                    "indices": [
+                        3,
+                        18
+                    ],
+                    "name": "\ud83d\udc9a\ud83c\udf0f Sarah Hanson-Young",
+                    "screen_name": "sarahinthesen8"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 23,
+        "retweeted": false,
+        "timestamp": "2018-03-20 07:14:41",
+        "tweet_id": 975994018671747072,
+        "tweet_text": "RT @sarahinthesen8: \u201cThe audacity of this partisan move...has astonished many parents, families and staff teams of public schools, as it ap\u2026",
+        "user": "42519805"
+    },
+    "975995709177475072": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/reuters/status\u2026",
+                    "expanded_url": "https://twitter.com/reuters/status/975992897748328449",
+                    "indices": [
+                        72,
+                        95
+                    ],
+                    "url": "https://t.co/dCVDrpXzDa"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 1,
+        "retweeted": false,
+        "timestamp": "2018-03-20 07:21:24",
+        "tweet_id": 975995709177475072,
+        "tweet_text": "Take a bow, humanity. Another one we can add to the extinction list. \ud83d\udc4e\ud83c\udffd https://t.co/dCVDrpXzDa",
+        "user": "22330292"
+    },
+    "975996766221885440": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        10
+                    ],
+                    "text": "ausunions"
+                },
+                {
+                    "indices": [
+                        11,
+                        18
+                    ],
+                    "text": "auspol"
+                },
+                {
+                    "indices": [
+                        19,
+                        26
+                    ],
+                    "text": "qldpol"
+                },
+                {
+                    "indices": [
+                        27,
+                        41
+                    ],
+                    "text": "EndLiveExport"
+                },
+                {
+                    "indices": [
+                        42,
+                        56
+                    ],
+                    "text": "AnimalCruelty"
+                },
+                {
+                    "indices": [
+                        57,
+                        78
+                    ],
+                    "text": "Animalsarenotfreight"
+                },
+                {
+                    "indices": [
+                        79,
+                        97
+                    ],
+                    "text": "StopLiveShipments"
+                }
+            ],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975996766221885440",
+                    "indices": [
+                        99,
+                        122
+                    ],
+                    "url": "https://t.co/NNiOtiMgYQ"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 07:25:36",
+        "tweet_id": 975996766221885440,
+        "tweet_text": "#ausunions #auspol #qldpol #EndLiveExport #AnimalCruelty #Animalsarenotfreight #StopLiveShipments\u2026 https://t.co/NNiOtiMgYQ",
+        "user": "773081116311891974"
+    },
+    "975997431417528321": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/975997431417528321",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/Ui5esXck1E"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 07:28:15",
+        "tweet_id": 975997431417528321,
+        "tweet_text": "Drop kids at dancing lessons and have to sign them in. Instructor introduces herself and asks me \"so you must be th\u2026 https://t.co/Ui5esXck1E",
+        "user": "21715017"
+    },
+    "975998459391066112": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 42519805,
+                    "id_str": "42519805",
+                    "indices": [
+                        3,
+                        12
+                    ],
+                    "name": "The Greens SA",
+                    "screen_name": "greensSA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "theguardian.com/environment/20\u2026",
+                    "expanded_url": "https://www.theguardian.com/environment/2018/feb/02/miners-receive-twice-as-much-in-tax-credits-as-australia-spends-on-environment?CMP=share_btn_tw",
+                    "indices": [
+                        93,
+                        116
+                    ],
+                    "url": "https://t.co/Td8GEnfoOL"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "timestamp": "2018-03-20 07:32:20",
+        "tweet_id": 975998459391066112,
+        "tweet_text": "RT @greensSA: Miners receive twice as much in tax credits as Australia spends on environment https://t.co/Td8GEnfoOL",
+        "user": "975348282623848448"
+    },
+    "976002297099513856": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/7newsadelaide/\u2026",
+                    "expanded_url": "https://twitter.com/7newsadelaide/status/975998718733303808",
+                    "indices": [
+                        31,
+                        54
+                    ],
+                    "url": "https://t.co/GkoIdRaoUg"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 07:47:35",
+        "tweet_id": 976002297099513856,
+        "tweet_text": "This shouldn\u2019t have to happen. https://t.co/GkoIdRaoUg",
+        "user": "22330292"
+    },
+    "976004314421370881": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 17351969,
+                    "id_str": "17351969",
+                    "indices": [
+                        0,
+                        12
+                    ],
+                    "name": "Ash Leahy \ud83d\udc40",
+                    "screen_name": "AshleyLeahy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/976004314421370881",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/X5QXJSKWe7"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 07:55:36",
+        "tweet_id": 976004314421370881,
+        "tweet_text": "@AshleyLeahy No one is more Labor than me, unfortunately the Libs got over 50% of the TPP...... But the State will\u2026 https://t.co/X5QXJSKWe7",
+        "user": "1237534352"
+    },
+    "976004866890915840": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 253028810,
+                    "id_str": "253028810",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "\ud83d\udca7David Young",
+                    "screen_name": "davidyoung13"
+                },
+                {
+                    "id": 1388148914,
+                    "id_str": "1388148914",
+                    "indices": [
+                        14,
+                        25
+                    ],
+                    "name": "Old Soldier",
+                    "screen_name": "OMGTheMess"
+                },
+                {
+                    "id": 2599578865,
+                    "id_str": "2599578865",
+                    "indices": [
+                        26,
+                        41
+                    ],
+                    "name": "The Hon Gary Hardgrave",
+                    "screen_name": "Gary_Hardgrave"
+                },
+                {
+                    "id": 1137661725040209921,
+                    "id_str": "1137661725040209921",
+                    "indices": [
+                        42,
+                        56
+                    ],
+                    "name": "Tone Abet",
+                    "screen_name": "TonyAbbottMHR"
+                },
+                {
+                    "id": 93818188,
+                    "id_str": "93818188",
+                    "indices": [
+                        57,
+                        73
+                    ],
+                    "name": "Steven Marshall, MP",
+                    "screen_name": "marshall_steven"
+                },
+                {
+                    "id": 1605357078,
+                    "id_str": "1605357078",
+                    "indices": [
+                        74,
+                        86
+                    ],
+                    "name": "The SA Liberals",
+                    "screen_name": "LiberalSAHQ"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/976004866890915840",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/se3JezipYZ"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 07:57:48",
+        "tweet_id": 976004866890915840,
+        "tweet_text": "@davidyoung13 @OMGTheMess @Gary_Hardgrave @TonyAbbottMHR @marshall_steven @LiberalSAHQ \u2014instead of keeping the broa\u2026 https://t.co/se3JezipYZ",
+        "user": "633636250"
+    },
+    "976005038916055040": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 1886068736,
+                    "id_str": "1886068736",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "Dr. SHANE SHEORAN",
+                    "screen_name": "shanesheoran"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/976005038916055040",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/VwG1fmzzAX"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 07:58:29",
+        "tweet_id": 976005038916055040,
+        "tweet_text": "@shanesheoran Sorry I live in either QLD/WA who's GST subsidises both your SA economy which has tanked due to your\u2026 https://t.co/VwG1fmzzAX",
+        "user": "3318227580"
+    },
+    "976005468429549568": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        7
+                    ],
+                    "text": "Auspol"
+                },
+                {
+                    "indices": [
+                        8,
+                        16
+                    ],
+                    "text": "SAVotes"
+                },
+                {
+                    "indices": [
+                        17,
+                        31
+                    ],
+                    "text": "getridoflabor"
+                }
+            ],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/976005468429549568",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/PH15DyPiQs"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "timestamp": "2018-03-20 08:00:11",
+        "tweet_id": 976005468429549568,
+        "tweet_text": "#Auspol #SAVotes #getridoflabor\n\nRemind me again how many seats did the Greens win, wait that would be none. The Gr\u2026 https://t.co/PH15DyPiQs",
+        "user": "2958088860"
+    },
+    "976007083425280000": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 253028810,
+                    "id_str": "253028810",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "\ud83d\udca7David Young",
+                    "screen_name": "davidyoung13"
+                },
+                {
+                    "id": 1388148914,
+                    "id_str": "1388148914",
+                    "indices": [
+                        14,
+                        25
+                    ],
+                    "name": "Old Soldier",
+                    "screen_name": "OMGTheMess"
+                },
+                {
+                    "id": 2599578865,
+                    "id_str": "2599578865",
+                    "indices": [
+                        26,
+                        41
+                    ],
+                    "name": "The Hon Gary Hardgrave",
+                    "screen_name": "Gary_Hardgrave"
+                },
+                {
+                    "id": 1137661725040209921,
+                    "id_str": "1137661725040209921",
+                    "indices": [
+                        42,
+                        56
+                    ],
+                    "name": "Tone Abet",
+                    "screen_name": "TonyAbbottMHR"
+                },
+                {
+                    "id": 93818188,
+                    "id_str": "93818188",
+                    "indices": [
+                        57,
+                        73
+                    ],
+                    "name": "Steven Marshall, MP",
+                    "screen_name": "marshall_steven"
+                },
+                {
+                    "id": 1605357078,
+                    "id_str": "1605357078",
+                    "indices": [
+                        74,
+                        86
+                    ],
+                    "name": "The SA Liberals",
+                    "screen_name": "LiberalSAHQ"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/976007083425280000",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/tks99Hf63z"
+                }
+            ]
+        },
+        "label": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 08:06:36",
+        "tweet_id": 976007083425280000,
+        "tweet_text": "@davidyoung13 @OMGTheMess @Gary_Hardgrave @TonyAbbottMHR @marshall_steven @LiberalSAHQ We have already seen several\u2026 https://t.co/tks99Hf63z",
+        "user": "633636250"
+    },
+    "976008192105766913": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        84,
+                        92
+                    ],
+                    "text": "savotes"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": 139328853,
+                    "id_str": "139328853",
+                    "indices": [
+                        3,
+                        16
+                    ],
+                    "name": "Dr Queen Victoria",
+                    "screen_name": "Vic_Rollison"
+                },
+                {
+                    "id": 589524984,
+                    "id_str": "589524984",
+                    "indices": [
+                        98,
+                        113
+                    ],
+                    "name": "Joe Hinchliffe",
+                    "screen_name": "joe_hinchliffe"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 35,
+        "retweeted": false,
+        "timestamp": "2018-03-20 08:11:01",
+        "tweet_id": 976008192105766913,
+        "tweet_text": "RT @Vic_Rollison: Interested by your use of the word \u2018drubbing\u2019 to describe Labor\u2019s #savotes loss @joe_hinchliffe. Do you really think a sw\u2026",
+        "user": "1285240844"
+    },
+    "976009795260919808": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 1132832803,
+                    "id_str": "1132832803",
+                    "indices": [
+                        3,
+                        16
+                    ],
+                    "name": "Tony Windsor",
+                    "screen_name": "TonyHWindsor"
+                },
+                {
+                    "id": 350707926,
+                    "id_str": "350707926",
+                    "indices": [
+                        28,
+                        42
+                    ],
+                    "name": "Jay Weatherill",
+                    "screen_name": "JayWeatherill"
+                }
+            ],
+            "urls": []
+        },
+        "label": false,
+        "retweet_count": 362,
+        "retweeted": false,
+        "timestamp": "2018-03-20 08:17:23",
+        "tweet_id": 976009795260919808,
+        "tweet_text": "RT @TonyHWindsor: I agree . @JayWeatherill will be seen as a leader in renewable energy in this country , he embraced the future and should\u2026",
+        "user": "3614834472"
+    },
+    "976028194829582336": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 242207540,
+                    "id_str": "242207540",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "name": "Matthew Pantelis \ud83c\udf99",
+                    "screen_name": "MatthewPantelis"
+                },
+                {
+                    "id": 2175409939,
+                    "id_str": "2175409939",
+                    "indices": [
+                        17,
+                        25
+                    ],
+                    "name": "ICAC SA",
+                    "screen_name": "ICAC_SA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/976028194829582336",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/5Nan8Dz5t2"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 09:30:30",
+        "tweet_id": 976028194829582336,
+        "tweet_text": "@MatthewPantelis @ICAC_SA One day a party will come along offering open and transparent government.\nHopefully when\u2026 https://t.co/5Nan8Dz5t2",
+        "user": "1227186560"
+    },
+    "976029825700847617": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 269581619,
+                    "id_str": "269581619",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "name": "7NEWS Adelaide",
+                    "screen_name": "7NewsAdelaide"
+                },
+                {
+                    "id": 21703272,
+                    "id_str": "21703272",
+                    "indices": [
+                        15,
+                        29
+                    ],
+                    "name": "Mike Smithson",
+                    "screen_name": "mikesmithson7"
+                },
+                {
+                    "id": 2175409939,
+                    "id_str": "2175409939",
+                    "indices": [
+                        30,
+                        38
+                    ],
+                    "name": "ICAC SA",
+                    "screen_name": "ICAC_SA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/976029825700847617",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/r6Aq5BjGGh"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 09:36:58",
+        "tweet_id": 976029825700847617,
+        "tweet_text": "@7NewsAdelaide @mikesmithson7 @ICAC_SA One day a party will come along offering open and transparent government.\nHo\u2026 https://t.co/r6Aq5BjGGh",
+        "user": "1227186560"
+    },
+    "976045728869990400": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 2602796568,
+                    "id_str": "2602796568",
+                    "indices": [
+                        0,
+                        12
+                    ],
+                    "name": "Attitude Foundation",
+                    "screen_name": "Ausattitude"
+                },
+                {
+                    "id": 2179178714,
+                    "id_str": "2179178714",
+                    "indices": [
+                        13,
+                        25
+                    ],
+                    "name": "Martin Heng",
+                    "screen_name": "Martin_Heng"
+                },
+                {
+                    "id": 1232093512637829123,
+                    "id_str": "1232093512637829123",
+                    "indices": [
+                        26,
+                        35
+                    ],
+                    "name": "Kelly",
+                    "screen_name": "kellymlc"
+                },
+                {
+                    "id": 88072872,
+                    "id_str": "88072872",
+                    "indices": [
+                        36,
+                        52
+                    ],
+                    "name": "Jessica Walton \ud83e\uddbf",
+                    "screen_name": "JessHealyWalton"
+                },
+                {
+                    "id": 852317652764606464,
+                    "id_str": "852317652764606464",
+                    "indices": [
+                        53,
+                        68
+                    ],
+                    "name": "Geoff Trappett",
+                    "screen_name": "InclusionMoves"
+                },
+                {
+                    "id": 2977741274,
+                    "id_str": "2977741274",
+                    "indices": [
+                        69,
+                        83
+                    ],
+                    "name": "Siobhan Daley",
+                    "screen_name": "SiobhanBoccia"
+                },
+                {
+                    "id": 441485258,
+                    "id_str": "441485258",
+                    "indices": [
+                        84,
+                        96
+                    ],
+                    "name": "Dale Reardon",
+                    "screen_name": "DaleReardon"
+                },
+                {
+                    "id": 15608555,
+                    "id_str": "15608555",
+                    "indices": [
+                        97,
+                        111
+                    ],
+                    "name": "Dominick Evans",
+                    "screen_name": "dominickevans"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/976045728869990400",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/ZPSnOwiZ15"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 10:40:10",
+        "tweet_id": 976045728869990400,
+        "tweet_text": "@Ausattitude @Martin_Heng @KellyMLC @JessHealyWalton @InclusionMoves @SiobhanBoccia @DaleReardon @dominickevans I\u2019l\u2026 https://t.co/ZPSnOwiZ15",
+        "user": "1728900744"
+    },
+    "976047035898986496": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 269581619,
+                    "id_str": "269581619",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "name": "7NEWS Adelaide",
+                    "screen_name": "7NewsAdelaide"
+                },
+                {
+                    "id": 21703272,
+                    "id_str": "21703272",
+                    "indices": [
+                        15,
+                        29
+                    ],
+                    "name": "Mike Smithson",
+                    "screen_name": "mikesmithson7"
+                },
+                {
+                    "id": 2175409939,
+                    "id_str": "2175409939",
+                    "indices": [
+                        30,
+                        38
+                    ],
+                    "name": "ICAC SA",
+                    "screen_name": "ICAC_SA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/976047035898986496",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/HJoXqdOTaL"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 1,
+        "retweeted": false,
+        "timestamp": "2018-03-20 10:45:22",
+        "tweet_id": 976047035898986496,
+        "tweet_text": "@7NewsAdelaide @mikesmithson7 @ICAC_SA One day a party will come along offering open and transparent government.\nHo\u2026 https://t.co/HJoXqdOTaL",
+        "user": "1227186560"
+    },
+    "976048173272547329": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 333357906,
+                    "id_str": "333357906",
+                    "indices": [
+                        0,
+                        12
+                    ],
+                    "name": "Mark Mulcair",
+                    "screen_name": "MarkMulcair"
+                },
+                {
+                    "id": 1967884675,
+                    "id_str": "1967884675",
+                    "indices": [
+                        13,
+                        29
+                    ],
+                    "name": "AustBusinessNet",
+                    "screen_name": "AustBusinessNet"
+                },
+                {
+                    "id": 115884789,
+                    "id_str": "115884789",
+                    "indices": [
+                        30,
+                        45
+                    ],
+                    "name": "Antony Green",
+                    "screen_name": "AntonyGreenABC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/976048173272547329",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/a0JH6CNJRk"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 1,
+        "retweeted": false,
+        "timestamp": "2018-03-20 10:49:53",
+        "tweet_id": 976048173272547329,
+        "tweet_text": "@MarkMulcair @AustBusinessNet @AntonyGreenABC Decline in democracy is best understood, by the educated, if one elec\u2026 https://t.co/a0JH6CNJRk",
+        "user": "25934031"
+    },
+    "976048428764430336": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 3669231686,
+                    "id_str": "3669231686",
+                    "indices": [
+                        0,
+                        10
+                    ],
+                    "name": "Akarnious",
+                    "screen_name": "Akarnious"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 10:50:54",
+        "tweet_id": 976048428764430336,
+        "tweet_text": "@Akarnious Hard work and money, and a decent electoral system",
+        "user": "25934031"
+    },
+    "976049230111375365": {
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        22,
+                        31
+                    ],
+                    "text": "fakenews"
+                }
+            ],
+            "mentions": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/976049230111375365",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/bFA2OWZMQ9"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 1,
+        "retweeted": false,
+        "timestamp": "2018-03-20 10:54:05",
+        "tweet_id": 976049230111375365,
+        "tweet_text": "Maybe in SA at least, #fakenews ought to take of as a hash tag, Local news outlets control so much, they way heavil\u2026 https://t.co/bFA2OWZMQ9",
+        "user": "25934031"
+    },
+    "976049943277314048": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 21836356,
+                    "id_str": "21836356",
+                    "indices": [
+                        0,
+                        11
+                    ],
+                    "name": "Aaron Hill",
+                    "screen_name": "aaron_hill"
+                },
+                {
+                    "id": 81953090,
+                    "id_str": "81953090",
+                    "indices": [
+                        12,
+                        24
+                    ],
+                    "name": "Australian Republic Movement",
+                    "screen_name": "AusRepublic"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 10:56:55",
+        "tweet_id": 976049943277314048,
+        "tweet_text": "@aaron_hill @AusRepublic I bet that baker also could bake nice cakes for elected leaders too",
+        "user": "1092202669"
+    },
+    "976049995592814592": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 484386134,
+                    "id_str": "484386134",
+                    "indices": [
+                        0,
+                        15
+                    ],
+                    "name": "Jade Gailberger",
+                    "screen_name": "JadeGailberger"
+                },
+                {
+                    "id": 125550777,
+                    "id_str": "125550777",
+                    "indices": [
+                        16,
+                        30
+                    ],
+                    "name": "Daniel Wills",
+                    "screen_name": "DanWillsTiser"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 10:57:07",
+        "tweet_id": 976049995592814592,
+        "tweet_text": "@JadeGailberger @DanWillsTiser not much left to count, wont make 100% because near 20% will be missing",
+        "user": "25934031"
+    },
+    "976050108952297474": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 72507937,
+                    "id_str": "72507937",
+                    "indices": [
+                        3,
+                        16
+                    ],
+                    "name": "Baz McAlister",
+                    "screen_name": "bazmcalister"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 11,
+        "retweeted": false,
+        "timestamp": "2018-03-20 10:57:34",
+        "tweet_id": 976050108952297474,
+        "tweet_text": "RT @bazmcalister: Marvel: \"Infinity War is the most ambitious crossover event in history\"\n\nMe: https://t.co/hVa7NYn68v",
+        "user": "94019549"
+    },
+    "976050147254665217": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 25298569,
+                    "id_str": "25298569",
+                    "indices": [
+                        3,
+                        15
+                    ],
+                    "name": "Scott Ludlam",
+                    "screen_name": "Scottludlam"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 212,
+        "retweeted": false,
+        "timestamp": "2018-03-20 10:57:43",
+        "tweet_id": 976050147254665217,
+        "tweet_text": "RT @Scottludlam: this has nothing to do with defence. its just a debased attempt to suck a profit from war without end. https://t.co/s7Emyo\u2026",
+        "user": "22330292"
+    },
+    "976050646322372608": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 2324779914,
+                    "id_str": "2324779914",
+                    "indices": [
+                        3,
+                        17
+                    ],
+                    "name": "SA Native Title Services",
+                    "screen_name": "nativetitlesa"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 64,
+        "retweeted": false,
+        "timestamp": "2018-03-20 10:59:42",
+        "tweet_id": 976050646322372608,
+        "tweet_text": "RT @nativetitlesa: The Kaurna people will be recognised as native title holders over the Adelaide area in Federal Court in Adelaide tomorro\u2026",
+        "user": "1092202669"
+    },
+    "976050929068785664": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 123873223,
+                    "id_str": "123873223",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "name": "Matt Hayden",
+                    "screen_name": "matthewhayden"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/976050929068785664",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/5aUDTdiVv8"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 11:00:50",
+        "tweet_id": 976050929068785664,
+        "tweet_text": "@matthewhayden Good to see the falsehood is being tackled, because it gets spread all over the globe and does our i\u2026 https://t.co/5aUDTdiVv8",
+        "user": "94019549"
+    },
+    "976051437137313792": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 2602796568,
+                    "id_str": "2602796568",
+                    "indices": [
+                        0,
+                        12
+                    ],
+                    "name": "Attitude Foundation",
+                    "screen_name": "Ausattitude"
+                },
+                {
+                    "id": 2179178714,
+                    "id_str": "2179178714",
+                    "indices": [
+                        13,
+                        25
+                    ],
+                    "name": "Martin Heng",
+                    "screen_name": "Martin_Heng"
+                },
+                {
+                    "id": 1232093512637829123,
+                    "id_str": "1232093512637829123",
+                    "indices": [
+                        26,
+                        35
+                    ],
+                    "name": "Kelly",
+                    "screen_name": "kellymlc"
+                },
+                {
+                    "id": 88072872,
+                    "id_str": "88072872",
+                    "indices": [
+                        36,
+                        52
+                    ],
+                    "name": "Jessica Walton \ud83e\uddbf",
+                    "screen_name": "JessHealyWalton"
+                },
+                {
+                    "id": 852317652764606464,
+                    "id_str": "852317652764606464",
+                    "indices": [
+                        53,
+                        68
+                    ],
+                    "name": "Geoff Trappett",
+                    "screen_name": "InclusionMoves"
+                },
+                {
+                    "id": 2977741274,
+                    "id_str": "2977741274",
+                    "indices": [
+                        69,
+                        83
+                    ],
+                    "name": "Siobhan Daley",
+                    "screen_name": "SiobhanBoccia"
+                },
+                {
+                    "id": 441485258,
+                    "id_str": "441485258",
+                    "indices": [
+                        84,
+                        96
+                    ],
+                    "name": "Dale Reardon",
+                    "screen_name": "DaleReardon"
+                },
+                {
+                    "id": 15608555,
+                    "id_str": "15608555",
+                    "indices": [
+                        97,
+                        111
+                    ],
+                    "name": "Dominick Evans",
+                    "screen_name": "dominickevans"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/976051437137313792",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/9T3zs960rd"
+                }
+            ]
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 11:02:51",
+        "tweet_id": 976051437137313792,
+        "tweet_text": "@Ausattitude @Martin_Heng @KellyMLC @JessHealyWalton @InclusionMoves @SiobhanBoccia @DaleReardon @dominickevans Yes\u2026 https://t.co/9T3zs960rd",
+        "user": "1728900744"
+    },
+    "976064661769486337": {
+        "entities": {
+            "hashtags": [],
+            "mentions": [
+                {
+                    "id": 9609582,
+                    "id_str": "9609582",
+                    "indices": [
+                        0,
+                        9
+                    ],
+                    "name": "The Advertiser",
+                    "screen_name": "theTiser"
+                }
+            ],
+            "urls": []
+        },
+        "label": true,
+        "retweet_count": 0,
+        "retweeted": false,
+        "timestamp": "2018-03-20 11:55:24",
+        "tweet_id": 976064661769486337,
+        "tweet_text": "@theTiser Children will be children, X is like an angry adolescence, with the expected childlike anger one would expect of one.",
+        "user": "25934031"
+    }
+}
