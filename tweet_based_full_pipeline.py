@@ -2,6 +2,9 @@
 
 """## IMPORT AND CONFIG"""
 
+# OS
+import os
+
 # # TFIDF
 from sklearn.feature_extraction.text import TfidfVectorizer
 
@@ -10,11 +13,13 @@ from sentence_transformers import SentenceTransformer
 import json
 
 # UNIVERSAL ENCODER
-import tensorflow as tf
+# import tensorflow as tf
 import tensorflow_hub as hub
 
 # # DOC2VEC
 import pickle
+import nltk
+nltk.download('punkt')
 from nltk.tokenize import word_tokenize
 
 # UTILS
@@ -78,7 +83,7 @@ def save_embeddings(i, sim_model_idx):
     embeddings = embeddings.tolist()
   elif sim_model_idx == 3:
     print("D2V generating embeddings")
-    model = pickle.load(open(config['modelURL'][sim_model_idx]+str(i)+"_d2v.model", 'rb'))
+    model = pickle.load(open("./"+config['modelURL'][sim_model_idx]+str(i)+"_d2v.model", 'rb'))
     embeddings = []
     for sentence in corpus:
       v1 = model.infer_vector(word_tokenize(sentence))
@@ -142,21 +147,21 @@ def get_truth_false_scores(i, metric, sim_model_idx):
   false_pairs = combinations(false, 2)
   pairs = combinations(nodeIDs, 2)
 
-  truth_scores = []
-  false_scores = []
-  scores = []
+  # truth_scores = []
+  # false_scores = []
+  # scores = []
 
-  co_hashtag_truth = []
-  co_hashtag_false = []
-  co_hashtag_both = []
+  # co_hashtag_truth = []
+  # co_hashtag_false = []
+  # co_hashtag_both = []
 
-  co_mention_truth = []
-  co_mention_false = []
-  co_mention_both = []
+  # co_mention_truth = []
+  # co_mention_false = []
+  # co_mention_both = []
 
-  co_url_truth = []
-  co_url_false = []
-  co_url_both = []
+  # co_url_truth = []
+  # co_url_false = []
+  # co_url_both = []
 
   ts_alone=[]
   fs_alone=[]
@@ -166,59 +171,60 @@ def get_truth_false_scores(i, metric, sim_model_idx):
   for pair in truth_pairs:
     ts = findSimilarity(embeddings[nodesdata[pair[0]]['idx']], embeddings[nodesdata[pair[1]]['idx']], metric)
     ts_alone.append(ts)
-    if not config['normalization']:
-      co_hashtag = attr_intersection_weight(nodesdata[pair[0]]['hashtags'], nodesdata[pair[1]]['hashtags'])
-      co_mention = attr_intersection_weight(nodesdata[pair[0]]['mentions'], nodesdata[pair[1]]['mentions'])
-      co_url = attr_intersection_weight(nodesdata[pair[0]]['urls'], nodesdata[pair[1]]['urls'])
-    else:
-      co_hashtag = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['hashtags'], nodesdata[pair[1]]['hashtags']),minmax['max_cohashtags'],minmax['min_cohashtags'])
-      co_mention = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['mentions'], nodesdata[pair[1]]['mentions']),minmax['max_comentions'],minmax['min_comentions'])
-      co_url = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['urls'], nodesdata[pair[1]]['urls']),minmax['max_courls'],minmax['min_courls'])
-    co_hashtag_truth.append(co_hashtag)
-    co_mention_truth.append(co_mention)
-    co_url_truth.append(co_url)
-    ts += (co_hashtag*0.1) + (co_mention*0.1) + (co_url*0.1)
-    truth_scores.append(ts)
+    # if not config['normalization']:
+    #   co_hashtag = attr_intersection_weight(nodesdata[pair[0]]['hashtags'], nodesdata[pair[1]]['hashtags'])
+    #   co_mention = attr_intersection_weight(nodesdata[pair[0]]['mentions'], nodesdata[pair[1]]['mentions'])
+    #   co_url = attr_intersection_weight(nodesdata[pair[0]]['urls'], nodesdata[pair[1]]['urls'])
+    # else:
+    #   co_hashtag = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['hashtags'], nodesdata[pair[1]]['hashtags']),minmax['max_cohashtags'],minmax['min_cohashtags'])
+    #   co_mention = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['mentions'], nodesdata[pair[1]]['mentions']),minmax['max_comentions'],minmax['min_comentions'])
+    #   co_url = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['urls'], nodesdata[pair[1]]['urls']),minmax['max_courls'],minmax['min_courls'])
+    # co_hashtag_truth.append(co_hashtag)
+    # co_mention_truth.append(co_mention)
+    # co_url_truth.append(co_url)
+    # ts += (co_hashtag*0.1) + (co_mention*0.1) + (co_url*0.1)
+    # truth_scores.append(ts)
 
     
   print("false")
   for pair in false_pairs:
     fs = findSimilarity(embeddings[nodesdata[pair[0]]['idx']], embeddings[nodesdata[pair[1]]['idx']], metric)
     fs_alone.append(fs)
-    if not config['normalization']:
-      co_hashtag = attr_intersection_weight(nodesdata[pair[0]]['hashtags'], nodesdata[pair[1]]['hashtags'])
-      co_mention = attr_intersection_weight(nodesdata[pair[0]]['mentions'], nodesdata[pair[1]]['mentions'])
-      co_url = attr_intersection_weight(nodesdata[pair[0]]['urls'], nodesdata[pair[1]]['urls'])
-    else:
-      co_hashtag = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['hashtags'], nodesdata[pair[1]]['hashtags']),minmax['max_cohashtags'],minmax['min_cohashtags'])
-      co_mention = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['mentions'], nodesdata[pair[1]]['mentions']),minmax['max_comentions'],minmax['min_comentions'])
-      co_url = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['urls'], nodesdata[pair[1]]['urls']),minmax['max_courls'],minmax['min_courls'])
-    co_hashtag_false.append(co_hashtag)
-    co_mention_false.append(co_mention)
-    co_url_false.append(co_url)
-    fs += (co_hashtag*0.1) + (co_mention*0.1) + (co_url*0.1)
+    # if not config['normalization']:
+    #   co_hashtag = attr_intersection_weight(nodesdata[pair[0]]['hashtags'], nodesdata[pair[1]]['hashtags'])
+    #   co_mention = attr_intersection_weight(nodesdata[pair[0]]['mentions'], nodesdata[pair[1]]['mentions'])
+    #   co_url = attr_intersection_weight(nodesdata[pair[0]]['urls'], nodesdata[pair[1]]['urls'])
+    # else:
+    #   co_hashtag = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['hashtags'], nodesdata[pair[1]]['hashtags']),minmax['max_cohashtags'],minmax['min_cohashtags'])
+    #   co_mention = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['mentions'], nodesdata[pair[1]]['mentions']),minmax['max_comentions'],minmax['min_comentions'])
+    #   co_url = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['urls'], nodesdata[pair[1]]['urls']),minmax['max_courls'],minmax['min_courls'])
+    # co_hashtag_false.append(co_hashtag)
+    # co_mention_false.append(co_mention)
+    # co_url_false.append(co_url)
+    # fs += (co_hashtag*0.1) + (co_mention*0.1) + (co_url*0.1)
     
-    false_scores.append(fs)
+    # false_scores.append(fs)
 
   print("interclass")
   for pair in pairs:
     s = findSimilarity(embeddings[nodesdata[pair[0]]['idx']], embeddings[nodesdata[pair[1]]['idx']], metric)
     #print("score for this pair", s)
     s_alone.append(s)
-    if not config['normalization']:
-      co_hashtag = attr_intersection_weight(nodesdata[pair[0]]['hashtags'], nodesdata[pair[1]]['hashtags'])
-      co_mention = attr_intersection_weight(nodesdata[pair[0]]['mentions'], nodesdata[pair[1]]['mentions'])
-      co_url = attr_intersection_weight(nodesdata[pair[0]]['urls'], nodesdata[pair[1]]['urls'])
-    else:
-      co_hashtag = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['hashtags'], nodesdata[pair[1]]['hashtags']),minmax['max_cohashtags'],minmax['min_cohashtags'])
-      co_mention = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['mentions'], nodesdata[pair[1]]['mentions']),minmax['max_comentions'],minmax['min_comentions'])
-      co_url = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['urls'], nodesdata[pair[1]]['urls']),minmax['max_courls'],minmax['min_courls'])
-    co_hashtag_both.append(co_hashtag)
-    co_mention_both.append(co_mention)
-    co_url_both.append(co_url)
-    s += (co_hashtag*0.1) + (co_mention*0.1) + (co_url*0.1)
-    scores.append(s)
+    # if not config['normalization']:
+    #   co_hashtag = attr_intersection_weight(nodesdata[pair[0]]['hashtags'], nodesdata[pair[1]]['hashtags'])
+    #   co_mention = attr_intersection_weight(nodesdata[pair[0]]['mentions'], nodesdata[pair[1]]['mentions'])
+    #   co_url = attr_intersection_weight(nodesdata[pair[0]]['urls'], nodesdata[pair[1]]['urls'])
+    # else:
+    #   co_hashtag = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['hashtags'], nodesdata[pair[1]]['hashtags']),minmax['max_cohashtags'],minmax['min_cohashtags'])
+    #   co_mention = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['mentions'], nodesdata[pair[1]]['mentions']),minmax['max_comentions'],minmax['min_comentions'])
+    #   co_url = getNormalised(attr_intersection_weight(nodesdata[pair[0]]['urls'], nodesdata[pair[1]]['urls']),minmax['max_courls'],minmax['min_courls'])
+    # co_hashtag_both.append(co_hashtag)
+    # co_mention_both.append(co_mention)
+    # co_url_both.append(co_url)
+    # s += (co_hashtag*0.1) + (co_mention*0.1) + (co_url*0.1)
+    # scores.append(s)
   print("returning truth false and overall scores")
+  return ts_alone, fs_alone, s_alone
   return truth_scores, false_scores, scores, co_hashtag_truth, co_hashtag_false, co_hashtag_both, co_mention_truth, co_mention_false, co_mention_both, co_url_truth, co_url_false, co_url_both, ts_alone, fs_alone, s_alone
 
 
@@ -236,38 +242,6 @@ def drawBoxPlots(truth_scores, false_scores, scores, title):
   print("median of false : ", np.median(false_scores))
   print("median of interclass : ", np.median(scores))
   return np.median(scores)
-
-def findThresh(truth_scores, false_scores):
-  data1 = truth_scores
-  data2 = false_scores
-
-  count1, bins_count1 = np.histogram(data1, bins=10)
-  count2, bins_count2 = np.histogram(data2, bins=10)
-
-  pdf1 = count1 / sum(count1)
-  pdf2 = count2 / sum(count2)
-  
-  y1 = np.cumsum(pdf1)
-  y2 = np.cumsum(pdf2)
-
-  x1 = bins_count1[1:]
-  x2 = bins_count2[1:]
-
-  mini = max(min(x1), min(x2))
-  maxi = min(max(x1), max(x2))
-
-  thresh = mini
-  maxdiff = 0
-  i = mini
-  while(i<maxi):
-    diff = np.interp(i,x1,y1) - np.interp(i,x2,y2)
-    if(i>0 and diff > maxdiff):
-      print(diff)
-      maxdiff = diff
-      thresh = i
-    i += 0.1
-
-  return thresh
 
 
 def split_and_predict(clf, param_grid, X, y, n, details, overall_best, output):
@@ -299,6 +273,7 @@ def split_and_predict(clf, param_grid, X, y, n, details, overall_best, output):
   # print(len(y))
   
   sss = StratifiedShuffleSplit(n_splits=n, test_size=0.3, random_state=0)
+  #print("Sss is", sss, X.shape, y.shape)
   for train_index, test_index in sss.split(X, y):
 
     # print(len(train_index), " + ", len(test_index), " = ", len(train_index)+len(test_index))
@@ -488,17 +463,18 @@ def create_graph(threshold, cosines, i, simidx):
   print("graph created for threshold "+str(threshold), graph)
   return graph
 
+
 def node2vec(sim_model, graph, best_model_config, walk_len, dimensions, pq, threshold, i):
   for dim in dimensions:
-    for len in walk_len:
+    for leng in walk_len:
       for pq_test in pq:
         p_test = pq_test[0]
         q_test = pq_test[1]
 
-        print("Running for dimension "+ str(dim) + ", p "+str(p_test)+", q "+str(q_test)+", walk length "+str(len))
+        print("Running for dimension "+ str(dim) + ", p "+str(p_test)+", q "+str(q_test)+", walk length "+str(leng))
         try:
           model = pickle.load(open(config['saveFolder'] + sim_model + "/5050/subdataset_"+str(i)+"_n2v_model_" + 
-                                   str(dim)+"_" + str(len)+"_" + str(p_test) + "_" + str(q_test)+"_"+str(threshold), 'rb'))
+                                   str(dim)+"_" + str(leng)+"_" + str(p_test) + "_" + str(q_test)+"_"+str(threshold), 'rb'))
           print("Found existing model")
         except Exception as e:
           print("error", e)
@@ -506,17 +482,17 @@ def node2vec(sim_model, graph, best_model_config, walk_len, dimensions, pq, thre
 
         if not model:
           print("Didn't find model, creating one")
-          node2vec = Node2Vec(graph, walk_length=len, dimensions=dim, p=p_test, q=q_test, workers=4)  # Use temp_folder for big graphs
+          node2vec = Node2Vec(graph, walk_length=leng, dimensions=dim, p=p_test, q=q_test, workers=4)  # Use temp_folder for big graphs
           model = node2vec.fit(window=10, min_count=1, batch_words=4)
           
-          model.wv.save_word2vec_format(config['saveFolder'] + sim_model + "/5050/subdataset_"+str(i)+ "_n2v_embeddings_" + str(dim)+"_" + str(len)+"_" + str(p_test) + "_" + str(q_test)+"_"+str(threshold))
+          model.wv.save_word2vec_format(config['saveFolder'] + sim_model + "/5050/subdataset_"+str(i)+ "_n2v_embeddings_" + str(dim)+"_" + str(leng)+"_" + str(p_test) + "_" + str(q_test)+"_"+str(threshold))
           
-          model.save(config['saveFolder'] + sim_model + "/5050/subdataset_"+str(i)+ "_n2v_model_" + str(dim)+"_" + str(len)+"_" + str(p_test) + "_" + str(q_test)+"_"+str(threshold))
+          model.save(config['saveFolder'] + sim_model + "/5050/subdataset_"+str(i)+ "_n2v_model_" + str(dim)+"_" + str(leng)+"_" + str(p_test) + "_" + str(q_test)+"_"+str(threshold))
           print("saved model")
-        c_output = Classify(model, 0)
+        c_output = Classify(model, i)
         if best_model_config["f1-score"] < c_output[4] :
           best_model_config["Dimension"] = dim
-          best_model_config["Walk length"] = walk_len
+          best_model_config["Walk length"] = leng
           best_model_config["p"] = p_test
           best_model_config["q"] = q_test
           best_model_config["Classifiers"] = c_output
@@ -528,23 +504,62 @@ def node2vec(sim_model, graph, best_model_config, walk_len, dimensions, pq, thre
             outfile.write(best_model)
 
 
+
 def run_node2vec_for_graphs(thresholds, best_model_config, i, simidx):
   for thresh in thresholds:
     print("Running for iteration "+str(thresh))
     num = round(thresh, 5)
     graph = nx.read_gexf(config['saveFolder']+config['similarityModel'][simidx]+"/5050/subdataset_"+str(i)+ "_weighted_graph_"+str(num)+".gexf")
     
-    # walk_len = [60,80,100] !uncomment this
-    # pq = [[1,1], [2,1], [1,2]]
-    # dim = [64, 128, 256]
-    walk_len = [1]
-    pq = [[1,1]]
-    dim = [64]
+    walk_len = [60,80,100] # !uncomment this
+    pq = [[1,1], [2,1], [1,2]]
+    dim = [64, 128, 256]
+    # walk_len = [1]
+    # pq = [[1,1]]
+    # dim = [64]
 
     model = node2vec(config['similarityModel'][simidx], graph, best_model_config, walk_len, dim, pq, thresh, i)
 
     print("Finished for iteration "+str(thresh))
 
+def normalize_data(data):
+  return (data - np.min(data)) / (np.max(data) - np.min(data))
+
+
+def findThresh(truth_scores, false_scores, thresh1):
+  data1 = truth_scores
+  data2 = false_scores
+
+  count1, bins_count1 = np.histogram(data1, bins=10)
+  count2, bins_count2 = np.histogram(data2, bins=10)
+
+  pdf1 = count1 / sum(count1)
+  pdf2 = count2 / sum(count2)
+  
+  y1 = np.cumsum(pdf1)
+  y2 = np.cumsum(pdf2)
+
+  x1 = bins_count1[1:]
+  x2 = bins_count2[1:]
+
+  mini = max(min(x1), min(x2))
+  maxi = min(max(x1), max(x2))
+
+  thresh = thresh1
+  maxdiff = 0
+  i = thresh1
+  while(i<maxi):
+    diff = np.interp(i,x1,y1) - np.interp(i,x2,y2)
+    if(i>0 and diff > maxdiff):
+      print(diff)
+      maxdiff = diff
+      thresh = i
+    i += 0.1
+
+  if thresh == thresh1:
+    thresh+=0.1
+
+  return thresh
 
 """# INDEX BOX"""
 ##
@@ -552,14 +567,34 @@ import warnings
 warnings.filterwarnings('always')
 
 simmodels = ['TFIDF','BERT', 'UE', 'DOC2VEC']
-for y in range(2): #!change to 18
+for y in range(18): #!change to 18
 # for y in range(17):
   for x in range(len(simmodels)):
-    if(x==0 or x==2 or x==3 or x==4):
+    if((y==0 and x==0)):
       continue
-    save_embeddings(y, x)
-    truth_scores_dot, false_scores_dot, scores_dot, co_hashtag_truth_dot, co_hashtag_false_dot, co_hashtag_both_dot, co_mention_truth_dot, co_mention_false_dot, co_mention_both_dot, co_url_truth_dot, co_url_false_dot, co_url_both_dot, ts_alone_dot, fs_alone_dot, s_alone_dot = get_truth_false_scores(y, 'dot', x)
-    truth_scores_cosine, false_scores_cosine, scores_cosine, co_hashtag_truth_cosine, co_hashtag_false_cosine, co_hashtag_both_cosine, co_mention_truth_cosine, co_mention_false_cosine, co_mention_both_cosine, co_url_truth_cosine, co_url_false_cosine, co_url_both_cosine, ts_alone_cosine, fs_alone_cosine, s_alone_cosine = get_truth_false_scores(y, 'cosine', x)
+
+    try:
+      file = open(config['saveFolder']+config['similarityModel'][x] +"/5050/subdataset_"+str(y)+"_"+config['similarityModel'][x]+"_embeddings.json", "r")
+      if(not file):
+        save_embeddings(y,x)
+      else:
+        print(config['similarityModel'][x], "emnbeddings found, moving on")
+    except Exception as e:
+      print("embeddings not found, creating", e)
+      save_embeddings(y, x)
+    
+    ts_alone_dot, fs_alone_dot, s_alone_dot = get_truth_false_scores(y, 'dot', x)
+    ts_alone_cosine, fs_alone_cosine, s_alone_cosine = get_truth_false_scores(y, 'cosine', x)
+
+    ts_alone_cosine = normalize_data(ts_alone_cosine)
+    fs_alone_cosine = normalize_data(fs_alone_cosine)
+    s_alone_cosine = normalize_data(s_alone_cosine)
+    
+    ts_alone_dot = normalize_data(ts_alone_dot)
+    fs_alone_dot = normalize_data(fs_alone_dot)
+    s_alone_dot = normalize_data(s_alone_dot)
+    
+    
     # n_zeros_dot = np.count_nonzero(np.array(s_alone_dot)==0.0)
     # n_zeros_cosine = np.count_nonzero(np.array(s_alone_cosine)==0.0)
     # print("salone dot", n_zeros_dot,"salone cosine",n_zeros_cosine)
@@ -580,10 +615,10 @@ for y in range(2): #!change to 18
       ts_alone = ts_alone_cosine
       fs_alone = fs_alone_cosine
 
-    thresh2 = findThresh(ts_alone, fs_alone)
+    thresh2 = findThresh(ts_alone, fs_alone, thresh1)
 
     threshArr = [thresh1, thresh2]
-    print("thresh array", threshArr)
+    print(threshArr)
     for z in threshArr:
       print("salone len", len(s_alone))
       graph = create_graph(z, s_alone, y, x)
@@ -598,4 +633,4 @@ for y in range(2): #!change to 18
         "Sim Model": config['similarityModel'][x],
         "f1-score": 0,
     }
-    run_node2vec_for_graphs(threshArr, best_model_config, 0, x)
+    run_node2vec_for_graphs(threshArr, best_model_config, y, x)

@@ -7,4 +7,4 @@ arr2=[0.0,0.0,1,2,3,4.5,6.7,0.0]
 
 print(np.median(arr2))
 print(np.median(arr1))
-print(round(0.003456780004678, 7))
+print(round(-0.003456780004678, 7))

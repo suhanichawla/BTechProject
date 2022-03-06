@@ -1,109 +1,107 @@
 {
     "Classifiers": [
         {
-            "Config": "SVC(C=1, class_weight='balanced')",
+            "Config": "SVC(C=100, class_weight='balanced')",
             "Result": {
                 "0": {
-                    "f1-score": 0.4031097888113934,
-                    "precision": 0.444397475589426,
-                    "recall": 0.37358490566037733,
+                    "f1-score": 0.4858276684119526,
+                    "precision": 0.4838127250733444,
+                    "recall": 0.4905660377358491,
                     "support": 53.0
                 },
                 "1": {
-                    "f1-score": 0.49052803219532193,
-                    "precision": 0.45795165993948955,
-                    "recall": 0.5320754716981132,
+                    "f1-score": 0.4886420151385922,
+                    "precision": 0.4933511806922713,
+                    "recall": 0.4867924528301887,
                     "support": 53.0
                 },
-                "accuracy": 0.45283018867924535,
+                "accuracy": 0.4886792452830189,
                 "weighted avg": {
-                    "f1-score": 0.4468189105033577,
-                    "precision": 0.4511745677644578,
-                    "recall": 0.45283018867924535,
+                    "f1-score": 0.4872348417752724,
+                    "precision": 0.4885819528828078,
+                    "recall": 0.4886792452830189,
                     "support": 106.0
                 }
             }
         },
         {
-            "Config": "RandomForestClassifier(max_depth=3, min_samples_split=5, n_estimators=150,\n                       random_state=0)",
+            "Config": "RandomForestClassifier(max_depth=5, min_samples_split=10, n_estimators=50,\n                       random_state=0)",
             "Result": {
                 "0": {
-                    "f1-score": 0.49270286552464776,
-                    "precision": 0.5087183552881227,
-                    "recall": 0.47924528301886793,
+                    "f1-score": 0.4510247490756772,
+                    "precision": 0.44637555243827015,
+                    "recall": 0.46037735849056605,
                     "support": 53.0
                 },
                 "1": {
-                    "f1-score": 0.5200523424339086,
-                    "precision": 0.5064178928276292,
-                    "recall": 0.5358490566037736,
+                    "f1-score": 0.4520594471441929,
+                    "precision": 0.46004708136247957,
+                    "recall": 0.4490566037735849,
                     "support": 53.0
                 },
-                "accuracy": 0.5075471698113208,
+                "accuracy": 0.4547169811320755,
                 "weighted avg": {
-                    "f1-score": 0.5063776039792781,
-                    "precision": 0.507568124057876,
-                    "recall": 0.5075471698113208,
+                    "f1-score": 0.451542098109935,
+                    "precision": 0.45321131690037486,
+                    "recall": 0.4547169811320755,
                     "support": 106.0
                 }
             }
         },
         {
-            "Config": "KNeighborsClassifier(n_jobs=-1, p=1)",
+            "Config": "KNeighborsClassifier(n_jobs=-1, n_neighbors=7, p=1)",
             "Result": {
                 "0": {
-                    "f1-score": 0.4939896215376704,
-                    "precision": 0.49859254046446166,
-                    "recall": 0.49056603773584906,
+                    "f1-score": 0.4949191775622994,
+                    "precision": 0.46652442744986367,
+                    "recall": 0.5283018867924528,
                     "support": 53.0
                 },
                 "1": {
-                    "f1-score": 0.501048158869941,
-                    "precision": 0.49758771929824563,
-                    "recall": 0.5056603773584907,
+                    "f1-score": 0.42748058702234537,
+                    "precision": 0.4608285756111843,
+                    "recall": 0.4,
                     "support": 53.0
                 },
-                "accuracy": 0.49811320754716987,
+                "accuracy": 0.4641509433962264,
                 "weighted avg": {
-                    "f1-score": 0.4975188902038058,
-                    "precision": 0.4980901298813537,
-                    "recall": 0.49811320754716987,
+                    "f1-score": 0.46119988229232245,
+                    "precision": 0.46367650153052403,
+                    "recall": 0.4641509433962264,
                     "support": 106.0
                 }
             }
         },
         {
-            "Config": "AdaBoostClassifier(learning_rate=1.5, n_estimators=75)",
+            "Config": "AdaBoostClassifier(learning_rate=0.5, n_estimators=25)",
             "Result": {
                 "0": {
-                    "f1-score": 0.48904116810215026,
-                    "precision": 0.4825559069781759,
-                    "recall": 0.4981132075471698,
+                    "f1-score": 0.4275829316881949,
+                    "precision": 0.4518141182972221,
+                    "recall": 0.4075471698113208,
                     "support": 53.0
                 },
                 "1": {
-                    "f1-score": 0.47819645265688465,
-                    "precision": 0.4878296751980963,
-                    "recall": 0.4716981132075472,
+                    "f1-score": 0.4775378617483881,
+                    "precision": 0.4567830948906881,
+                    "recall": 0.5018867924528302,
                     "support": 53.0
                 },
-                "accuracy": 0.4849056603773585,
+                "accuracy": 0.4547169811320755,
                 "weighted avg": {
-                    "f1-score": 0.4836188103795175,
-                    "precision": 0.4851927910881361,
-                    "recall": 0.4849056603773585,
+                    "f1-score": 0.45256039671829146,
+                    "precision": 0.45429860659395516,
+                    "recall": 0.4547169811320755,
                     "support": 106.0
                 }
             }
         },
-        0.5063776039792781
+        0.4872348417752724
     ],
     "Dimension": 64,
     "Sim Model": "TFIDF",
-    "Walk length": [
-        1
-    ],
-    "f1-score": 0.5063776039792781,
+    "Walk length": 60,
+    "f1-score": 0.4872348417752724,
     "p": 1,
     "q": 1
 }

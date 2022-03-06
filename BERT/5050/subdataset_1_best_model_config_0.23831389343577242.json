@@ -1,0 +1,107 @@
+{
+    "Classifiers": [
+        {
+            "Config": "SVC(C=100, class_weight='balanced')",
+            "Result": {
+                "0": {
+                    "f1-score": 0.5462337483031212,
+                    "precision": 0.5780488033018814,
+                    "recall": 0.5221176470588236,
+                    "support": 50.2
+                },
+                "1": {
+                    "f1-score": 0.5930121757008063,
+                    "precision": 0.5697412981107564,
+                    "recall": 0.6218823529411766,
+                    "support": 50.8
+                },
+                "accuracy": 0.5722772277227723,
+                "weighted avg": {
+                    "f1-score": 0.5697611328082478,
+                    "precision": 0.5738845703647314,
+                    "recall": 0.5722772277227723,
+                    "support": 101.0
+                }
+            }
+        },
+        {
+            "Config": "RandomForestClassifier(max_depth=10, min_samples_split=5, n_estimators=150,\n                       random_state=0)",
+            "Result": {
+                "0": {
+                    "f1-score": 0.6215083853245699,
+                    "precision": 0.6459721082854799,
+                    "recall": 0.6014901960784315,
+                    "support": 50.2
+                },
+                "1": {
+                    "f1-score": 0.6475112068841259,
+                    "precision": 0.6289829344554513,
+                    "recall": 0.6694901960784313,
+                    "support": 50.8
+                },
+                "accuracy": 0.6356435643564357,
+                "weighted avg": {
+                    "f1-score": 0.6345871952778481,
+                    "precision": 0.6374748159938172,
+                    "recall": 0.6356435643564357,
+                    "support": 101.0
+                }
+            }
+        },
+        {
+            "Config": "KNeighborsClassifier(n_jobs=-1, n_neighbors=7)",
+            "Result": {
+                "0": {
+                    "f1-score": 0.5063305719805632,
+                    "precision": 0.5853065587949309,
+                    "recall": 0.4538823529411765,
+                    "support": 50.2
+                },
+                "1": {
+                    "f1-score": 0.6095977446656093,
+                    "precision": 0.5574895320197044,
+                    "recall": 0.6770196078431372,
+                    "support": 50.8
+                },
+                "accuracy": 0.5663366336633663,
+                "weighted avg": {
+                    "f1-score": 0.5583936520791396,
+                    "precision": 0.5713169144402549,
+                    "recall": 0.5663366336633663,
+                    "support": 101.0
+                }
+            }
+        },
+        {
+            "Config": "AdaBoostClassifier(learning_rate=1.5, n_estimators=75)",
+            "Result": {
+                "0": {
+                    "f1-score": 0.5644939936047015,
+                    "precision": 0.5990717990717991,
+                    "recall": 0.5378039215686274,
+                    "support": 50.2
+                },
+                "1": {
+                    "f1-score": 0.6105147098866022,
+                    "precision": 0.5852338046202463,
+                    "recall": 0.6418823529411763,
+                    "support": 50.8
+                },
+                "accuracy": 0.5900990099009902,
+                "weighted avg": {
+                    "f1-score": 0.5876410080946096,
+                    "precision": 0.5921632521869428,
+                    "recall": 0.5900990099009902,
+                    "support": 101.0
+                }
+            }
+        },
+        0.6345871952778481
+    ],
+    "Dimension": 64,
+    "Sim Model": "BERT",
+    "Walk length": 60,
+    "f1-score": 0.6345871952778481,
+    "p": 1,
+    "q": 1
+}
