@@ -482,7 +482,7 @@ def node2vec(sim_model, graph, best_model_config, walk_len, dimensions, pq, thre
 
         if not model:
           print("Didn't find model, creating one")
-          node2vec = Node2Vec(graph, walk_length=leng, dimensions=dim, p=p_test, q=q_test, workers=4)  # Use temp_folder for big graphs
+          node2vec = Node2Vec(graph, walk_length=leng, dimensions=dim, p=p_test, q=q_test, workers=12)  # Use temp_folder for big graphs
           model = node2vec.fit(window=10, min_count=1, batch_words=4)
           
           model.wv.save_word2vec_format(config['saveFolder'] + sim_model + "/5050/subdataset_"+str(i)+ "_n2v_embeddings_" + str(dim)+"_" + str(leng)+"_" + str(p_test) + "_" + str(q_test)+"_"+str(threshold))
