@@ -57,7 +57,6 @@ config = {
   'similarityMetric': ["cosine","dot"], #emneddings must be in datasets folder ['dot','cosine']
   'nodeIDs':"./Full Dataset/nodeIDs.json",
   'nodes':"./Full Dataset/nodes.json", 
-  'dataset':"./Full Dataset/final_dataset.json", #{id:{mentions:[], urls:[], label:T/F, idx:int}}
   'normalization': True,
   'min-max-file':"./Full Dataset/min_max_info.json",
   'similarityModel': ['TFIDF', 'BERT', 'UE','DOC2VEC'],
